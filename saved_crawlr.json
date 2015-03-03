@@ -1,0 +1,1132 @@
+{
+    "crawl_count": 2,
+    "filename": "./saved_crawlr.json",
+    "start_link": "http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd",
+    "visited_map": {
+        "http://allrecipes.com/recipe/banana-crumb-muffins": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/beef-bulgogi": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/beef-nacho-casserole": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/caroling-wine": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chicago-dip": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chocolate-chip-banana-bread-ii": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chocolate-thumbprints-i": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chocolate-yummies-3": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/cranberry-orange-cookies": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/cuban-ropa-vieja": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/easy-chicken-pasta-alfredo": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/french-onion-soup-gratinee": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/french-toast-ii": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/keons-slow-cooker-curry-chicken": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/lisas-favorite-carne-asada-marinade": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/no-bake-peanut-butter-pie": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/parmesan-roasted-corn-on-the-cob": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/shish-tawook-marinated-chicken": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 pounds",
+                    "name": "beef flank steak"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 small",
+                    "name": "onion, sliced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, seeded and sliced into strips"
+                },
+                {
+                    "amount": "2 cloves",
+                    "name": "garlic, chopped"
+                },
+                {
+                    "amount": "1 (6 ounce) can",
+                    "name": "tomato paste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "chopped fresh cilantro"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "white vinegar"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/slow-cooker-beef-stroganoff-i": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/slow-cooker-enchiladas": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/spicy-pumpkin-chili": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/spooky-witches-fingers": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/spumoni-chocolate-chip-cookies": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/taco-pie": {
+            "ingredients": [
+                {
+                    "amount": "1 (16 ounce) package",
+                    "name": "refrigerated cheese tortellini"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "4",
+                    "name": "skinless, boneless chicken breast halves, cubed"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/2 pound",
+                    "name": "sliced fresh mushrooms"
+                },
+                {
+                    "amount": "1 pinch",
+                    "name": "garlic powder, or to taste"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "heavy whipping cream"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "grated Parmesan cheese"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "chopped fresh parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/zesty-slow-cooker-chicken-barbecue": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "flank steak, thinly sliced"
+                },
+                {
+                    "amount": "5 tablespoons",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "2 1/2 tablespoons",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped green onion"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame seeds"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "sesame oil"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        }
+    }
+}

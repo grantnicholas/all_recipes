@@ -1,4 +1,3 @@
-import play
 from timer import timeit
 from parse_html import url_to_ingredients, Recipe, soup_to_Recipe
 
@@ -67,8 +66,6 @@ class Crawler:
             return
 
         data=json.dumps(self, default=lambda o: o.__dict__, sort_keys=True, indent=4, separators=(',', ': '))
-        # data = json.dumps(
-        # self.visited_map, sort_keys=True, indent=4, separators=(',', ': '))
 
         with open(self.filename, "w") as f:
             f.write(data)
@@ -91,7 +88,7 @@ class Crawler:
 
 def main():
     crawlr = Crawler('http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd')
-    crawlr.crawl_ntimes(2)
+    crawlr.crawl_ntimes(3)
     for k in crawlr.visited_map:
         print k
     crawlr.write_to_file("./saved_crawlr.json")

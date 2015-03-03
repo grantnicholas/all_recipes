@@ -62,14 +62,8 @@ def url_to_soup(url):
 
 def soup_to_ingredients(soup):
     zone = soup.find('div', {'id': 'zoneIngredients'})
-    # if zone==[] or zone is None:
-    # 	print 'uhoh'
     ingred_left = zone.find('div', {'class': 'ingred-left'})
-    # if ingred_left==[] or ingred_left is None:
-    # 	print 'uhoh2'
     ingred_list = ingred_left.findAll('li', {'id': 'liIngredient'})
-    # if ingred_list==[] or ingred_list is None:
-    # 	print 'uhoh3'
 
     ingredients = [
         ingredli_to_ingredient(ingred_li) for ingred_li in ingred_list]

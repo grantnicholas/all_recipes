@@ -1,57 +1,176 @@
 {
-    "crawl_count": 2,
+    "crawl_count": 3,
     "filename": "./saved_crawlr.json",
     "start_link": "http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd",
     "visited_map": {
-        "http://allrecipes.com/recipe/banana-crumb-muffins": {
+        "http://allrecipes.com/recipe/2-step-inside-out-chicken-pot-pie": {
             "ingredients": [
                 {
-                    "amount": "1 tablespoon",
-                    "name": "vegetable oil"
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
                 },
                 {
-                    "amount": "2 pounds",
-                    "name": "beef flank steak"
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
                 },
                 {
                     "amount": "1 cup",
-                    "name": "beef broth"
+                    "name": "shredded Parmesan cheese"
                 },
                 {
-                    "amount": "1 (8 ounce) can",
-                    "name": "tomato sauce"
-                },
-                {
-                    "amount": "1 small",
-                    "name": "onion, sliced"
-                },
-                {
-                    "amount": "1",
-                    "name": "green bell pepper, seeded and sliced into strips"
-                },
-                {
-                    "amount": "2 cloves",
-                    "name": "garlic, chopped"
-                },
-                {
-                    "amount": "1 (6 ounce) can",
-                    "name": "tomato paste"
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
                 },
                 {
                     "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/amazing-whole-wheat-pizza-crust": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
                     "name": "ground cumin"
                 },
                 {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
                     "amount": "1 teaspoon",
-                    "name": "chopped fresh cilantro"
+                    "name": "dried oregano"
                 },
                 {
                     "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
                     "name": "olive oil"
                 },
                 {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/banana-banana-bread": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
+                },
+                {
                     "amount": "1 tablespoon",
-                    "name": "white vinegar"
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/banana-crumb-muffins": {
+            "ingredients": [
+                {
+                    "amount": "1 1/2 cups",
+                    "name": "all-purpose flour"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "baking soda"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "baking powder"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "3",
+                    "name": "bananas, mashed"
+                },
+                {
+                    "amount": "3/4 cup",
+                    "name": "white sugar"
+                },
+                {
+                    "amount": "1",
+                    "name": "egg, lightly beaten"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "butter, melted"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "packed brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "all-purpose flour"
+                },
+                {
+                    "amount": "1/8 teaspoon",
+                    "name": "ground cinnamon"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
                 }
             ],
             "name": "Recipe name goes here"
@@ -146,6 +265,210 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/best-ever-sausage-with-peppers-onions-and-beer": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/bevs-seasoned-salt": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/buttery-soft-pretzels": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/captains-vacation": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "ground beef"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/caroling-wine": {
             "ingredients": [
                 {
@@ -199,39 +522,71 @@
             ],
             "name": "Recipe name goes here"
         },
-        "http://allrecipes.com/recipe/chicago-dip": {
+        "http://allrecipes.com/recipe/cheesecake-lemon-bars": {
             "ingredients": [
                 {
-                    "amount": "1 tablespoon",
-                    "name": "vegetable oil"
+                    "amount": "1 pound",
+                    "name": "ground beef"
                 },
                 {
-                    "amount": "2 pounds",
-                    "name": "beef flank steak"
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
                 },
                 {
-                    "amount": "1 cup",
-                    "name": "beef broth"
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
                 },
                 {
                     "amount": "1 (8 ounce) can",
                     "name": "tomato sauce"
                 },
                 {
-                    "amount": "1 small",
-                    "name": "onion, sliced"
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
                 },
                 {
-                    "amount": "1",
-                    "name": "green bell pepper, seeded and sliced into strips"
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
                 },
                 {
-                    "amount": "2 cloves",
-                    "name": "garlic, chopped"
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
                 },
                 {
-                    "amount": "1 (6 ounce) can",
-                    "name": "tomato paste"
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
                 },
                 {
                     "amount": "1 teaspoon",
@@ -239,15 +594,142 @@
                 },
                 {
                     "amount": "1 teaspoon",
-                    "name": "chopped fresh cilantro"
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chicago-dip": {
+            "ingredients": [
+                {
+                    "amount": "1 (10 ounce) package",
+                    "name": "frozen chopped spinach, thawed and drained"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "sour cream"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "3/4 cup",
+                    "name": "chopped green onions"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "dried parsley"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "seasoned salt"
+                },
+                {
+                    "amount": "1 (1 pound) loaf",
+                    "name": "round, crusty Italian bread"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chicken-katsu": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chicken-milano": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
                 },
                 {
                     "amount": "1 tablespoon",
-                    "name": "olive oil"
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
                 },
                 {
                     "amount": "1 tablespoon",
-                    "name": "white vinegar"
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
                 }
             ],
             "name": "Recipe name goes here"
@@ -293,6 +775,140 @@
                 {
                     "amount": "1 teaspoon",
                     "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chocolate-mint-crinkle-cookies": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/chocolate-peanut-butter-bars-iv": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
                 }
             ],
             "name": "Recipe name goes here"
@@ -395,6 +1011,55 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/cinnamon-rolls-ii": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/cranberry-orange-cookies": {
             "ingredients": [
                 {
@@ -436,6 +1101,137 @@
                 {
                     "amount": "1 teaspoon",
                     "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/cranberry-sauce-extraordinaire": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/creamy-chicken-and-wild-rice-soup": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/creamy-potato-leek-soup-ii": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
                 }
             ],
             "name": "Recipe name goes here"
@@ -485,6 +1281,128 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/diegos-special-beef-stew": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/downeast-maine-pumpkin-bread": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/easy-chicken-pasta-alfredo": {
             "ingredients": [
                 {
@@ -530,55 +1448,161 @@
             ],
             "name": "Recipe name goes here"
         },
-        "http://allrecipes.com/recipe/french-onion-soup-gratinee": {
+        "http://allrecipes.com/recipe/easy-pizza-sauce-i": {
             "ingredients": [
                 {
-                    "amount": "1 tablespoon",
-                    "name": "vegetable oil"
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
                 },
                 {
-                    "amount": "2 pounds",
-                    "name": "beef flank steak"
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
                 },
                 {
-                    "amount": "1 cup",
-                    "name": "beef broth"
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
                 },
                 {
-                    "amount": "1 (8 ounce) can",
-                    "name": "tomato sauce"
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
                 },
                 {
-                    "amount": "1 small",
-                    "name": "onion, sliced"
-                },
-                {
-                    "amount": "1",
-                    "name": "green bell pepper, seeded and sliced into strips"
-                },
-                {
-                    "amount": "2 cloves",
-                    "name": "garlic, chopped"
-                },
-                {
-                    "amount": "1 (6 ounce) can",
-                    "name": "tomato paste"
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
                 },
                 {
                     "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
                     "name": "ground cumin"
                 },
                 {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
                     "amount": "1 teaspoon",
-                    "name": "chopped fresh cilantro"
+                    "name": "dried oregano"
                 },
                 {
                     "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
                     "name": "olive oil"
                 },
                 {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/finnish-pannu-kakku": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/french-onion-soup-gratinee": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
                     "amount": "1 tablespoon",
-                    "name": "white vinegar"
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
                 }
             ],
             "name": "Recipe name goes here"
@@ -620,6 +1644,275 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/fried-apple-pies": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/garlic-chicken-stir-fry": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/hawaiian-punch-slush-for-adults": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "ground beef"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/homemade-black-bean-veggie-burgers": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/johnny-cake": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/keons-slow-cooker-curry-chicken": {
             "ingredients": [
                 {
@@ -653,6 +1946,124 @@
                 {
                     "amount": "1/2 teaspoon",
                     "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/kung-pao-chicken": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/linguine-with-clam-sauce": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
                 }
             ],
             "name": "Recipe name goes here"
@@ -710,6 +2121,242 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/mac-n-cheese-pizza": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/malibu-bay-breeze": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "ground beef"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/mexican-bean-burgers": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/mollys-mouthwatering-tzatziki-cucumber-sauce": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/no-bake-peanut-butter-pie": {
             "ingredients": [
                 {
@@ -742,6 +2389,35 @@
                 },
                 {
                     "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/no-bull-burritos": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
                     "name": "ground black pepper"
                 }
             ],
@@ -800,39 +2476,71 @@
             ],
             "name": "Recipe name goes here"
         },
-        "http://allrecipes.com/recipe/shish-tawook-marinated-chicken": {
+        "http://allrecipes.com/recipe/peach-tea": {
             "ingredients": [
                 {
-                    "amount": "1 tablespoon",
-                    "name": "vegetable oil"
+                    "amount": "1 pound",
+                    "name": "ground beef"
                 },
                 {
-                    "amount": "2 pounds",
-                    "name": "beef flank steak"
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
                 },
                 {
-                    "amount": "1 cup",
-                    "name": "beef broth"
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
                 },
                 {
                     "amount": "1 (8 ounce) can",
                     "name": "tomato sauce"
                 },
                 {
-                    "amount": "1 small",
-                    "name": "onion, sliced"
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
                 },
                 {
-                    "amount": "1",
-                    "name": "green bell pepper, seeded and sliced into strips"
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
                 },
                 {
-                    "amount": "2 cloves",
-                    "name": "garlic, chopped"
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
                 },
                 {
-                    "amount": "1 (6 ounce) can",
-                    "name": "tomato paste"
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
                 },
                 {
                     "amount": "1 teaspoon",
@@ -840,15 +2548,700 @@
                 },
                 {
                     "amount": "1 teaspoon",
-                    "name": "chopped fresh cilantro"
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/peanut-butter-bars-i": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/peanut-butter-cup-bars": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/peanut-butter-cup-cookies": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
                 },
                 {
                     "amount": "1 tablespoon",
-                    "name": "olive oil"
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/penne-with-chicken-and-asparagus": {
+            "ingredients": [
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "5 ears",
+                    "name": "corn, husk and silk removed"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "shredded Parmesan cheese"
                 },
                 {
                     "amount": "1 tablespoon",
-                    "name": "white vinegar"
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/poblano-chicken-salad": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "ground beef"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/pretzel-bread": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/rum-rollover": {
+            "ingredients": [
+                {
+                    "amount": "1 pound",
+                    "name": "ground beef"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "minced garlic"
+                },
+                {
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
+                },
+                {
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/salisbury-steak": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/schwarma": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/sesame-chicken": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/shish-tawook-marinated-chicken": {
+            "ingredients": [
+                {
+                    "amount": "3 tablespoons",
+                    "name": "vegetable oil"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "plain low-fat yogurt"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "ketchup"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "prepared mustard"
+                },
+                {
+                    "amount": "1 1/2 teaspoons",
+                    "name": "garlic powder"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 1/2 teaspoons",
+                    "name": "ground allspice"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1/4 teaspoon",
+                    "name": "ground cinnamon"
+                },
+                {
+                    "amount": "1/4 teaspoon",
+                    "name": "curry powder"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "skinless, boneless chicken breast halves - cut into bite-size pieces"
+                },
+                {
+                    "amount": "not found",
+                    "name": "\u00a0"
+                },
+                {
+                    "amount": "not found",
+                    "name": "not found"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "mayonnaise"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "plain low-fat yogurt"
+                },
+                {
+                    "amount": "3 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/4 teaspoon",
+                    "name": "salt"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/simple-stromboli": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "water"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "pineapple juice"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "6",
+                    "name": "whole cloves"
+                },
+                {
+                    "amount": "3",
+                    "name": "whole allspice berries"
+                },
+                {
+                    "amount": "2",
+                    "name": "cinnamon stick"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "4 cups",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "2",
+                    "name": "oranges"
+                },
+                {
+                    "amount": "8",
+                    "name": "cinnamon sticks, garnish"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/simple-whole-wheat-bread": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
                 }
             ],
             "name": "Recipe name goes here"
@@ -927,6 +3320,79 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/snickerdoodle-cake-i": {
+            "ingredients": [
+                {
+                    "amount": "4 tablespoons",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "red onions, thinly sliced"
+                },
+                {
+                    "amount": "2 large",
+                    "name": "sweet onions, thinly sliced"
+                },
+                {
+                    "amount": "1 (48 fluid ounce) can",
+                    "name": "chicken broth"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "beef broth"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "red wine"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "Worcestershire sauce"
+                },
+                {
+                    "amount": "2 sprigs",
+                    "name": "fresh parsley"
+                },
+                {
+                    "amount": "1 sprig",
+                    "name": "fresh thyme leaves"
+                },
+                {
+                    "amount": "1",
+                    "name": "bay leaf"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "balsamic vinegar"
+                },
+                {
+                    "amount": "not found",
+                    "name": "salt and freshly ground black pepper to taste"
+                },
+                {
+                    "amount": "4 thick slices",
+                    "name": "French or Italian bread"
+                },
+                {
+                    "amount": "8 slices",
+                    "name": "Gruyere or Swiss cheese slices, room temperature"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "shredded Asiago or mozzarella cheese, room temperature"
+                },
+                {
+                    "amount": "4 pinches",
+                    "name": "paprika"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/spicy-pumpkin-chili": {
             "ingredients": [
                 {
@@ -960,6 +3426,120 @@
                 {
                     "amount": "1/2 teaspoon",
                     "name": "ground black pepper"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/spinach-stuffed-chicken-breast": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/spinach-stuffed-chicken-breasts": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
                 }
             ],
             "name": "Recipe name goes here"
@@ -1046,6 +3626,56 @@
             ],
             "name": "Recipe name goes here"
         },
+        "http://allrecipes.com/recipe/summer-squash-bread": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/sweet-sticky-and-spicy-chicken": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
         "http://allrecipes.com/recipe/taco-pie": {
             "ingredients": [
                 {
@@ -1091,39 +3721,328 @@
             ],
             "name": "Recipe name goes here"
         },
-        "http://allrecipes.com/recipe/zesty-slow-cooker-chicken-barbecue": {
+        "http://allrecipes.com/recipe/teeny-weeny-woo-woo": {
             "ingredients": [
                 {
                     "amount": "1 pound",
-                    "name": "flank steak, thinly sliced"
+                    "name": "ground beef"
                 },
                 {
-                    "amount": "5 tablespoons",
-                    "name": "soy sauce"
+                    "amount": "1/2 teaspoon",
+                    "name": "crushed red pepper flakes, or to taste"
                 },
                 {
-                    "amount": "2 1/2 tablespoons",
-                    "name": "white sugar"
-                },
-                {
-                    "amount": "1/4 cup",
-                    "name": "chopped green onion"
-                },
-                {
-                    "amount": "2 tablespoons",
+                    "amount": "1 teaspoon",
                     "name": "minced garlic"
                 },
                 {
-                    "amount": "2 tablespoons",
-                    "name": "sesame seeds"
+                    "amount": "1/2 large",
+                    "name": "onion, diced"
                 },
                 {
-                    "amount": "2 tablespoons",
-                    "name": "sesame oil"
+                    "amount": "1",
+                    "name": "green bell pepper, chopped"
+                },
+                {
+                    "amount": "1",
+                    "name": "red bell pepper, chopped"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "kidney beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "black beans, rinsed and drained"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "Great Northern beans, drained and rinsed"
+                },
+                {
+                    "amount": "1 (8 ounce) can",
+                    "name": "tomato sauce"
+                },
+                {
+                    "amount": "1 (4 ounce) can",
+                    "name": "tomato sauce with garlic and onions"
+                },
+                {
+                    "amount": "2 (14.5 ounce) cans",
+                    "name": "petite diced tomatoes"
+                },
+                {
+                    "amount": "1 (14.5 ounce) can",
+                    "name": "fire roasted diced tomatoes"
+                },
+                {
+                    "amount": "1 (15 ounce) can",
+                    "name": "pumpkin puree"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "pumpkin pie spice"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt, or to taste"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/vegan-brownies": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/vegan-cheesecake": {
+            "ingredients": [
+                {
+                    "amount": "3/4 cup",
+                    "name": "orange juice"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "lemon juice"
+                },
+                {
+                    "amount": "1/3 cup",
+                    "name": "lime juice"
+                },
+                {
+                    "amount": "4 cloves",
+                    "name": "garlic, minced"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "soy sauce"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "finely chopped canned chipotle pepper"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "chili powder"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "ground cumin"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "paprika"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "dried oregano"
+                },
+                {
+                    "amount": "1 tablespoon",
+                    "name": "black pepper"
+                },
+                {
+                    "amount": "1 bunch",
+                    "name": "fresh cilantro, chopped"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "olive oil"
+                },
+                {
+                    "amount": "3 pounds",
+                    "name": "flank steak"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/whipped-shortbread-cookies": {
+            "ingredients": [
+                {
+                    "amount": "1 cup",
+                    "name": "butter, softened"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "confectioners' sugar"
+                },
+                {
+                    "amount": "1",
+                    "name": "egg"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "almond extract"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "vanilla extract"
+                },
+                {
+                    "amount": "2 2/3 cups",
+                    "name": "all-purpose flour"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "baking powder"
+                },
+                {
+                    "amount": "1 teaspoon",
+                    "name": "salt"
+                },
+                {
+                    "amount": "3/4 cup",
+                    "name": "whole almonds"
+                },
+                {
+                    "amount": "1 (.75 ounce) tube",
+                    "name": "red decorating gel"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/worlds-best-lasagna": {
+            "ingredients": [
+                {
+                    "amount": "1 tablespoon",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1",
+                    "name": "onion, chopped"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of mushroom soup"
+                },
+                {
+                    "amount": "1 (10.75 ounce) can",
+                    "name": "condensed cream of chicken soup"
+                },
+                {
+                    "amount": "1 (14 ounce) can",
+                    "name": "coconut milk"
+                },
+                {
+                    "amount": "1 packet",
+                    "name": "dry onion soup mix (such as Knorr\u00ae French Onion Soup Mix)"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "curry powder, or to taste"
+                },
+                {
+                    "amount": "1/2 teaspoon",
+                    "name": "salt"
                 },
                 {
                     "amount": "1/2 teaspoon",
                     "name": "ground black pepper"
+                },
+                {
+                    "amount": "2 teaspoons",
+                    "name": "ground cayenne pepper, or to taste"
+                },
+                {
+                    "amount": "3 large",
+                    "name": "skinless, boneless chicken breast halves -- trimmed and cut into 1-inch pieces"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "green peas"
+                },
+                {
+                    "amount": "2 cups",
+                    "name": "sliced fresh mushrooms"
+                }
+            ],
+            "name": "Recipe name goes here"
+        },
+        "http://allrecipes.com/recipe/zesty-slow-cooker-chicken-barbecue": {
+            "ingredients": [
+                {
+                    "amount": "6",
+                    "name": "frozen skinless, boneless chicken breast halves"
+                },
+                {
+                    "amount": "1 (12 ounce) bottle",
+                    "name": "barbeque sauce"
+                },
+                {
+                    "amount": "1/2 cup",
+                    "name": "Italian salad dressing"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "brown sugar"
+                },
+                {
+                    "amount": "2 tablespoons",
+                    "name": "Worcestershire sauce"
                 }
             ],
             "name": "Recipe name goes here"

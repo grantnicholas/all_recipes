@@ -48,7 +48,7 @@ def ingredli_to_ingredient(ingred_li):
     amount_span = ingred_li.find('span', {'class': 'ingredient-amount'})
 
     name = name_span.text if name_span is not None else "not found"
-    amount = amount_span.text if amount_span is not  None else "not found"
+    amount = amount_span.text if amount_span is not None else "not found"
 
     a_ingredient = Ingredient(name, amount)
     return a_ingredient
@@ -78,9 +78,9 @@ def url_to_ingredients(url):
 
 
 def main():
-	testlink = "http://allrecipes.com/Recipe/Moms-Favorite-Baked-Mac-and-Cheese/?prop24=hn_slide1_Mom%27s-Favorite-Baked-Mac-and-Cheese&evt19=1"
-	print url_to_ingredients(testlink)
-	print soup_to_Recipe(url_to_soup(testlink))
+    testlink = "http://allrecipes.com/Recipe/Moms-Favorite-Baked-Mac-and-Cheese/?prop24=hn_slide1_Mom%27s-Favorite-Baked-Mac-and-Cheese&evt19=1"
+    print url_to_ingredients(testlink)
+    print soup_to_Recipe(url_to_soup(testlink))
 
 
 if __name__ == '__main__':

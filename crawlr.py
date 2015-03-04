@@ -37,6 +37,15 @@ class Crawler:
             "(^http://allrecipes.com/[r|R]ecipe/[^\/]+)", alink)[0]
         return formatted_link
 
+    """
+    All the parsing magic happens in soup_to_Recipe which is located in 
+    parse_html.py
+
+    Converts html (in this case the html I converted to a beautifulsoup
+    object for easier parsing) to a dictionary representation of a Recipe
+
+    """
+
     def crawl_alink(self, link):
         html = urllib2.urlopen(link)
         soup = BeautifulSoup(html)

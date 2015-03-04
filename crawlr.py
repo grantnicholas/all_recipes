@@ -87,7 +87,7 @@ class Crawler:
 def main():
     start_link = 'http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd'
     crawlr = Crawler(start_link)
-    crawlr.crawl_ntimes(3)
+    crawlr.crawl_ntimes(2)
     for k in crawlr.visited_map:
         print k
     crawlr.write_to_file("./saved_crawlr.json")

@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import urllib2
+from timer import timeit
 
 
 def url_to_soup(url):
@@ -13,16 +14,17 @@ def url_to_ingredients(url):
         url_to_soup(url)
     )
 
-
 def soup_to_Recipe(soup):
     ingredients = soup_to_ingredients(soup)
     directions  = soup_to_directions(soup)
     ratings     = soup_to_ratings(soup)
+    footnotes    = soup_to_footnotes(soup)
 
     new_recipe = {"name": "Recipe name goes here",
                   "ratings": ratings, 
                   "ingredients": ingredients,
-                  "directions ": directions}
+                  "directions ": directions,
+                  "footnotes" : footnotes}
 
     return new_recipe
 
@@ -55,6 +57,14 @@ def ratingli_to_rating(rating_li):
     rating = num_stars
     return rating
 
+def noteli_to_note(note_li):
+    if note_li is not None and note_li is not []:
+        note = note_li.text 
+    else:
+        note = "not found"
+
+    return note
+
 
 def soup_to_ingredients(soup):
     zone = soup.find('div', {'id': 'zoneIngredients'})
@@ -85,10 +95,21 @@ def soup_to_ratings(soup):
 
     return ratings
 
+
+def soup_to_footnotes(soup):
+    footnote_div = soup.find('div', {'class' : 'footnotes'})
+    note_list = soup.findAll('div', {'id' : 'noteContainer'})
+    footnotes = [noteli_to_note(note_li) for note_li in note_list]
+    print footnotes
+    return footnotes
+
 def main():
     testlink = "http://allrecipes.com/Recipe/Moms-Favorite-Baked-Mac-and-Cheese/?prop24=hn_slide1_Mom%27s-Favorite-Baked-Mac-and-Cheese&evt19=1"
-    print url_to_ingredients(testlink)
     print soup_to_Recipe(url_to_soup(testlink))
+
+    notherlink = "http://allrecipes.com/recipe/chicago-dip"
+    print soup_to_footnotes(url_to_soup(notherlink))
+    print soup_to_Recipe(url_to_soup(notherlink))
 
 
 if __name__ == '__main__':

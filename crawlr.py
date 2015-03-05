@@ -13,7 +13,7 @@ class Crawler:
     def __init__(self, start_link):
         self.start_link = start_link
         self.visited_map = {}
-        self.already_parsed_set= set()
+        self.to_visit = set()
         self.crawl_count = 0
         self.filename = None
 
@@ -29,8 +29,9 @@ class Crawler:
             self.visited_map.update(recipes)
 
     def crawl_init(self):
-        recipes_dict = self.crawl_alink(self.start_link, True)
-        self.visited_map.update(recipes_dict)
+        recipe, to_visit_links = self.crawl_alink(self.start_link, True)
+        self.visited_map.update(recipe)
+        self.to_visit = set(to_visit_links)
         self.crawl_count += 1
 
     def format_link(self, alink):
@@ -49,23 +50,31 @@ class Crawler:
 
     def crawl_alink(self, link, init=False):
         if init is False:
-            if link in self.already_parsed_set:
+            if link in self.visited_map:
                 return None
-            else:
-                self.already_parsed_set.add(link)
 
         html = urllib2.urlopen(link)
         soup = BeautifulSoup(html)
-        links = [alink.get('href') for alink in soup.findAll('a')]
-        recipes = {self.format_link(k): soup_to_Recipe(soup)
-                   for k in links if self.is_recipe(k)}
-        return recipes
+        recipe = {self.format_link(link): soup_to_Recipe(soup)}
+        links = [self.format_link(alink.get('href')) for alink in soup.findAll(
+            'a') if self.is_recipe(alink.get('href'))]
+
+        return recipe, links
+
 
     @timeit
     def crawl_once(self):
-        _recipes_list = [self.crawl_alink(link) for link in self.visited_map]
-        recipes_list = filter(lambda x: x is not None, _recipes_list)
-        self.update_map(recipes_list)
+        links_list = []
+        for link in self.to_visit:
+            return_val = self.crawl_alink(link)
+            if return_val is None:
+                continue
+            recipe, links  = return_val
+            self.visited_map.update(recipe)
+            links_list.extend(links)
+
+        self.to_visit = set(links_list)
+        print links_list
         self.crawl_count += 1
 
     def crawl_ntimes(self, ntimes):
@@ -83,7 +92,7 @@ class Crawler:
             return
 
         data = json.dumps(self.visited_map, default=lambda o: o.__dict__,
-                          sort_keys=True, indent=4, separators=(',', ': '))
+                          sort_keys=False, indent=4, separators=(',', ': '))
 
         with open(self.filename, "w") as f:
             f.write(data)
@@ -103,11 +112,10 @@ class Crawler:
 def main():
     start_link = 'http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd'
     crawlr = Crawler(start_link)
-    crawlr.crawl_ntimes(4)
+    crawlr.crawl_ntimes(3)
     for k in crawlr.visited_map:
         print k
     crawlr.write_to_file("./saved_crawlr.json")
-    print crawlr.already_parsed_set
 
 
 if __name__ == '__main__':

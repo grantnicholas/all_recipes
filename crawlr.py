@@ -29,7 +29,7 @@ class Crawler:
             self.visited_map.update(recipes)
 
     def crawl_init(self):
-        recipe, to_visit_links = self.crawl_alink(self.start_link, True)
+        recipe, to_visit_links = self.crawl_alink(self.start_link)
         self.visited_map.update(recipe)
         self.to_visit = set(to_visit_links)
         self.crawl_count += 1
@@ -48,16 +48,15 @@ class Crawler:
 
     """
 
-    def crawl_alink(self, link, init=False):
-        if init is False:
-            if link in self.visited_map:
-                return None
+    def crawl_alink(self, link):
+        if link in self.visited_map:
+            return None
 
         html = urllib2.urlopen(link)
         soup = BeautifulSoup(html)
         recipe = {self.format_link(link): soup_to_Recipe(soup)}
         links = [self.format_link(alink.get('href')) for alink in soup.findAll(
-            'a') if self.is_recipe(alink.get('href'))]
+        'a') if self.is_recipe(alink.get('href'))]
 
         return recipe, links
 
@@ -112,7 +111,7 @@ class Crawler:
 def main():
     start_link = 'http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo/Detail.aspx?soid=carousel_0_rotd&prop24=rotd'
     crawlr = Crawler(start_link)
-    crawlr.crawl_ntimes(3)
+    crawlr.crawl_ntimes(8)
     for k in crawlr.visited_map:
         print k
     crawlr.write_to_file("./saved_crawlr.json")

@@ -94,9 +94,6 @@ def create_recipe_data_structures(ingred_dict):
     primary_methods = ["boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt"]
     secondary_methods = ["chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake"]
     recipe_to_cuisine = []
-    total = 0
-    no_primaries = 0
-    no_secondaries = 0
 
     with open('saved_crawlr.json') as f:
         recipe_map = json.load(f)
@@ -120,11 +117,6 @@ def create_recipe_data_structures(ingred_dict):
                     if method in direction:
                         if method not in secondary_method:
                             secondary_method.append(method)
-            if primary_method == "":
-                no_primaries += 1
-            if len(secondary_method) == 0:
-                no_secondaries += 1
-            total += 1
             recipe_to_cuisine.append({"link": link,
                                       "name": recipe["name"],
                                       "ingredients": recipe["ingredients"],
@@ -132,7 +124,6 @@ def create_recipe_data_structures(ingred_dict):
                                       "cuisine": cuisine,
                                       "primary_method": primary_method,
                                       "secondary_methods": secondary_method})
-        print "No primaries: ", no_primaries, " --- No secondaries: ", no_secondaries, " --- Total: ", total
 
     with open('final_structure.json', 'w') as f:
         data = json.dumps(recipe_to_cuisine, default=lambda o: o.__dict__,

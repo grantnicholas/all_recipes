@@ -1,0 +1,149 @@
+Bacon, Canadian Bacon, Bacon (Cured, Pan-Fried, Cooked), Bacon (Cured, Microwaved, Cooked), Bacon (Cured, Baked, Cooked)
+bacon
+Beef
+
+Beef, Ground Beef (Cooked), Lean Ground Beef, Roast Beef, Corned Beef
+beef
+Bologna
+
+Bologna, Beef Bologna, Beef Bologna (Low Fat), Beef and Pork Bologna, Beef and Pork Bologna (Low Fat)
+bologna
+Brisket
+
+Beef Brisket, Beef Brisket (Lean Only Eaten), Beef Brisket (Flat Half, Trimmed to 1/8" Fat, Select Grade, Cooked, Braised), Beef Brisket (Point Half, Trimmed to 1/8" Fat, Cooked, Braised), Beef Brisket (Whole, Trimmed to 1/8" Fat, Cooked, Braised)
+brisket
+Chicken
+
+Chicken, Chicken (Skin Not Eaten), Chicken Breast, Chicken Thigh, Chicken Drumstick
+chicken
+Chicken Breast
+
+Chicken Breast, Chicken Breast (Skin Not Eaten), Roasted Broiled or Baked Chicken Breast, Roasted Broiled or Baked Chicken Breast (Skin Not Eaten), Skinless Chicken Breast
+chicken breast
+Chicken Drumsticks
+
+Chicken Drumstick, Chicken Drumstick (Skin Not Eaten), Roasted Broiled or Baked Chicken Drumstick, Fried Chicken Drumstick No Coating, Chicken Drumstick Meat and Skin (Broilers or Fryers)
+chicken drumsticks
+Chicken Thighs
+
+Chicken Thigh, Chicken Thigh (Skin Not Eaten), Chicken Thigh Meat (Broilers or Fryers), Roasted Broiled or Baked Chicken Thigh, Roasted Broiled or Baked Chicken Thigh (Skin Eaten)
+chicken thighs
+Chicken Wings
+
+Chicken Wing, Chicken Wing (Skin Not Eaten), Roasted Broiled or Baked Chicken Wing (Skin Eaten), Fried Chicken Wing No Coating (Skin Eaten), Chicken Wing Meat and Skin (Broilers or Fryers)
+chicken wings
+Corned Beef
+
+Corned Beef, Corned Beef (Lean Only Eaten), Corned Beef Spread, Corned Beef Brisket (Cured), Corned Beef Brisket (Cured, Cooked)
+corned beef
+Duck
+
+Duck, Duck Meat, Duck Meat and Skin, Roasted Duck, Fried Battered Duck
+duck
+Fried Chicken
+
+Fried Chicken No Coating (Skin Eaten), Fried Chicken Breast No Coating (Skin Eaten), Fried Chicken Wing No Coating (Skin Eaten), Fried Chicken Drumstick No Coating (Skin Eaten), Fried Chicken Leg No Coating (Skin Eaten)
+fried chicken
+Grilled Chicken
+
+Grilled Chicken, Grilled Chicken (Skin Not Eaten), Flame Grilled Chicken Breast, Skinless, Flame Grilled Chicken Breast, Grilled Chicken Breast Fillets
+grilled chicken
+Ground Beef
+
+Ground Beef (Cooked), Extra Lean Ground Beef, Breaded Ground Beef or Patty, Ground Beef (95% Lean / 5% Fat), Ground Beef (85% Lean / 15% Fat)
+ground beef
+Ground Chicken
+
+Ground Chicken, Breaded Chicken Patty, Fillet or Tenders, Breaded Chicken Patty with Cheese, Extra Lean Ground Chicken, Ground Chicken
+ground chicken
+Ground Pork
+
+Ground Pork, Ground Pork (Cooked), Ham Patties (Cured), Breaded Ground Pork or Patty, Ground Pork (Frozen, Cooked)
+ground pork
+Ground Turkey
+
+Ground Turkey, Ground Turkey (Cooked), Turkey Patties (Breaded, Battered, Fried), Lean Ground Turkey, 99% Fat Free Ground Turkey
+ground turkey
+Ham
+
+Sliced Ham (Regular, Approx. 11% Fat), Sliced Ham (Extra Lean), Deli Sliced Ham, Fresh Ham, Minced Ham
+ham
+Lamb
+
+Lamb, Ground Lamb, Lamb Roast, Lamb Chop (Lean Only Eaten), Lamb Chop (Lean and Fat Eaten)
+lamb
+Lamb Chops
+
+Lamb Chop, Lamb Chop (Lean Only Eaten), Lamb Loin Chop, Lamb Shoulder Chop, Lamb Loin Chop (Lean Only Eaten)
+lamb chops
+Meatballs
+
+Beef Meatballs, Beef and Pork Meatballs, Chicken Meatballs, Turkey Meatballs, Pork Meatballs
+meatballs
+Meatloaf
+
+Meat Loaf, Meat Loaf Made with Beef, Meat Loaf Made with Beef and Pork, Meat Loaf Made with Chicken or Turkey, Luncheon Meat Sandwich Loaf
+meatloaf
+Pastrami
+
+Beef Pastrami (Cured), Turkey Pastrami, Smoked & Spiced Beef Pastrami, Beef Pastrami (98% Fat Free), Pastrami Sandwich
+pastrami
+Pepperoni
+
+Pepperoni, Sliced Pepperoni, Pepperoni Stick, Turkey Pepperoni, Beef Pepperoni Sticks
+pepperoni
+Pork
+
+Pork, Ground Pork, Pork Chop, Pork Roast, Pork Spareribs
+pork
+Pork Chops
+
+Pork Chop, Broiled or Baked Pork Chop, Broiled or Baked Breaded or Floured Pork Chop, Fried Pork Chop, Fried Breaded or Floured Pork Chop
+pork chops
+Ribs
+
+Pork Spareribs, Beef Shortribs, Barbecued Pork Spareribs with Sauce, Barbecued Beef Shortribs (with Sauce), Pork Backribs
+ribs
+Roast Beef
+
+Roast Beef, Roast Beef (Lean Only Eaten), Roast Beef Spread, Beef Chuck (Top Blade, Trimmed to 1/4" Fat), Roast Beef (Canned)
+roast beef
+Roast Chicken
+
+Roasted Broiled or Baked Chicken, Roasted Broiled or Baked Chicken (Skin Not Eaten), Roasted Broiled or Baked Chicken Breast (Skin Not Eaten), Chicken Meat (Roasting), Chicken Meat and Skin (Roasting)
+roast chicken
+Roast Pork
+
+Pork Roast, Pork Roast (Lean Only Eaten), Loin Pork Roast, Shoulder Pork Roast, Smoked or Cured Pork Roast
+roast pork
+Roast Turkey
+
+Turkey Meat (Cooked, Roasted), Turkey Meat and Skin (Cooked, Roasted), Turkey Breast Meat (Fryer-Roasters, Cooked, Roasted), Turkey Breast Meat and Skin (Cooked, Roasted), Roasted Dark Turkey Meat
+roast turkey
+Salami
+
+Salami, Dry or Hard Salami, Soft Salami, Beef Salami, Pork Salami (Dry or Hard)
+salami
+Sausages
+
+Beef Sausage, Chicken Sausage, Fresh Pork Sausage, Turkey Sausage, Italian Sausage
+sausages
+Steak
+
+Beef Steak, Beef Steak (Lean Only Eaten), Beef Top Sirloin (Trimmed to 1/8" Fat), Beef Porterhouse Steak (Trimmed to 0" Fat, Cooked, Broiled), Thinly Sliced Beef Sandwich Steak
+steak nutrition info
+Turkey
+
+Turkey, Turkey Breast Meat, Turkey Breast Meat and Skin, White Turkey (Deli Cut Rotisserie), Deli Turkey or Chicken Breast Meat
+turkey nutrition info
+Turkey Bacon
+
+Turkey Bacon, Turkey Bacon (Cooked), Extra Lean Turkey Bacon, Organic Turkey Bacon, Natural Turkey Bacon
+turkey bacon nutrition info
+Turkey Breast
+
+Turkey Breast Meat, Turkey Breast Meat and Skin, Deli Turkey or Chicken Breast Meat, Turkey Breast Meat (Fryer-Roasters, Cooked, Roasted), Turkey Breast Meat and Skin (Fryer-Roasters, Cooked, Roasted)
+turkey breast nutrition info
+Veal
+
+Veal, Veal Loin, Roasted Veal, Veal Schnitzel, Veal Shank

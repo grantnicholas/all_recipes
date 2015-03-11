@@ -1,0 +1,2357 @@
+{
+    "monterey": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 35.94116398488978
+    },
+    "chinese": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 54.07547901049419
+    },
+    "yellow": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 25.167776202517814
+    },
+    "baby": {
+        "cuisine": "mediterranean",
+        "type": "beans",
+        "probability": 38.892302963335055
+    },
+    "mild": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 42.15777008597465
+    },
+    "skim": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 48.81072838823539
+    },
+    "asian": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 48.772174102435116
+    },
+    "vinegar,": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 35.7299876351758
+    },
+    "parmesan": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 33.14661729491776
+    },
+    "milk": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 25.0963579294858
+    },
+    "blueberries": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 43.50742348017632
+    },
+    "peanut": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 30.699755206256587
+    },
+    "dressing": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 30.14655446237037
+    },
+    "couscous": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 48.12254399701757
+    },
+    "brown": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 23.64062952507976
+    },
+    "olives,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 34.59337775992769
+    },
+    "deli": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "cod,": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "brownie": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "fat": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 37.614653633606125
+    },
+    "powder,": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 32.350039818773524
+    },
+    "jack": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 35.42327336548971
+    },
+    "mahi": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.12254399701757
+    },
+    "asparagus": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 48.12254399701757
+    },
+    "large": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 40.71946586585127
+    },
+    "slices,": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 53.240189323255336
+    },
+    "quick": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 49.17325573597654
+    },
+    "round": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 38.16284056316859
+    },
+    "pork": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 25.20350856292694
+    },
+    "tea": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 53.7883762528178
+    },
+    "squash,": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 38.018458990295926
+    },
+    "skin": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 40.230117459970415
+    },
+    "bacon": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 35.06810378221649
+    },
+    "pepper": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 14.947150202909302
+    },
+    "dried": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 19.688581376422206
+    },
+    "broccoli,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 49.17325573597654
+    },
+    "spaghetti": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 38.018458990295926
+    },
+    "blue": {
+        "cuisine": "american",
+        "type": "seafood",
+        "probability": 48.08126598806892
+    },
+    "espresso": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 53.7883762528178
+    },
+    "fillet": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 49.46035849365293
+    },
+    "new": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 33.14645859752645
+    },
+    "leg": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 48.37437618705951
+    },
+    "peeled": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 22.093546835982455
+    },
+    "french": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 35.401858463669456
+    },
+    "steak,": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 37.067802131811156
+    },
+    "frosting": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "mozzarella": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 35.404488568606524
+    },
+    "dry": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 23.8265690330255
+    },
+    "vinegar": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 21.600957876407257
+    },
+    "pickle": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "vegetarian": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 39.83231954459481
+    },
+    "pico": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 53.67768109511859
+    },
+    "crumbled": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 33.786217287222264
+    },
+    "cinnamon": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 28.76771355190506
+    },
+    "cheese,": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 30.18154575707176
+    },
+    "golden": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "guacamole": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 44.44744006143607
+    },
+    "canola": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 30.446562523497654
+    },
+    "extra": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 36.703918222567985
+    },
+    "sliced": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 18.886136295107576
+    },
+    "dungeness": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "chunky": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 36.2675660213921
+    },
+    "chunks": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 28.522953836722156
+    },
+    "medium": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 30.85449630929481
+    },
+    "lime": {
+        "cuisine": "mexican",
+        "type": "sweets",
+        "probability": 25.59762472301249
+    },
+    "&": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 53.67768109511859
+    },
+    "whipping": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 32.595727760075064
+    },
+    "shrimp,": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 36.663168624582525
+    },
+    "crab": {
+        "cuisine": "american",
+        "type": "seafood",
+        "probability": 53.7883762528178
+    },
+    "black": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 17.010514673048327
+    },
+    "blueberry": {
+        "cuisine": "mediterranean",
+        "type": "sweets",
+        "probability": 48.81072838823539
+    },
+    "spinach,": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 29.682476685567384
+    },
+    "meat,": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 53.7883762528178
+    },
+    "chocolate": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 43.17929430866997
+    },
+    "olive": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 20.522160242242332
+    },
+    "half,": {
+        "cuisine": "mediterranean",
+        "type": "meats",
+        "probability": 53.42584890507665
+    },
+    "cream,": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 39.394827772731546
+    },
+    "salad": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 31.11119636996356
+    },
+    "oil,": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 26.52573899063873
+    },
+    "tapioca": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 54.07547901049419
+    },
+    "sour": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 26.209539636800024
+    },
+    "chocolate,": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "crab,": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "root": {
+        "cuisine": "asian",
+        "type": "drinks",
+        "probability": 42.55556800135025
+    },
+    "hamburger": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 48.48507134475872
+    },
+    "salted": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 44.845237976811674
+    },
+    "bananas": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "pieces": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 24.574661650155768
+    },
+    "honey": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 27.301188045099586
+    },
+    "water,": {
+        "cuisine": "italian",
+        "type": "seafood",
+        "probability": 36.23581272314081
+    },
+    "pinto": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 37.54264956913339
+    },
+    "lamb": {
+        "cuisine": "mediterranean",
+        "type": "meats",
+        "probability": 53.42584890507665
+    },
+    "sourdough": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 53.7883762528178
+    },
+    "drained": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 20.356386653339115
+    },
+    "nuts": {
+        "cuisine": "mediterranean",
+        "type": "sweets",
+        "probability": 44.19560787139414
+    },
+    "hot": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 23.998165535059027
+    },
+    "seeds": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 28.35526220080494
+    },
+    "low": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 48.37437618705951
+    },
+    "feta": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 35.6829775492987
+    },
+    "goat": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 53.42584890507665
+    },
+    "gallo": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 53.67768109511859
+    },
+    "flavored": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 42.26846524367386
+    },
+    "salt,": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 35.459120488544315
+    },
+    "dogs,": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "sandwich": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 53.7883762528178
+    },
+    "potato,": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 43.10361812348652
+    },
+    "mussels,": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "tomato-based": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "salsa": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 35.354705786305615
+    },
+    "garlic,": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 18.086603494595806
+    },
+    "tomato": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 24.700632480362138
+    },
+    "natural": {
+        "cuisine": "italian",
+        "type": "meats",
+        "probability": 47.93688441519626
+    },
+    "light": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 27.34774397171455
+    },
+    "mango": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 47.71873864032777
+    },
+    "green": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 17.938031393948588
+    },
+    "salmon,": {
+        "cuisine": "italian",
+        "type": "seafood",
+        "probability": 53.240189323255336
+    },
+    "halibut": {
+        "cuisine": "american",
+        "type": "seafood",
+        "probability": 53.7883762528178
+    },
+    "tahini": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 38.85127654950511
+    },
+    "egg": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 26.500828415551656
+    },
+    "wing": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 49.17325573597654
+    },
+    "wine": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 24.57364805611503
+    },
+    "mexican": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 48.37437618705951
+    },
+    "maraschino": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "dough": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 41.80045339820466
+    },
+    "artichoke": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 41.80045339820466
+    },
+    "refried": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 41.753964729284846
+    },
+    "brie": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 53.42584890507665
+    },
+    "cola": {
+        "cuisine": "italian",
+        "type": "drinks",
+        "probability": 48.62506880641408
+    },
+    "raw": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 47.71873864032778
+    },
+    "style": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 48.62506880641408
+    },
+    "sodium": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 44.845237976811674
+    },
+    "buns": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 53.7883762528178
+    },
+    "roast,": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 37.47465617195077
+    },
+    "orange": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 31.647543029619975
+    },
+    "ricotta": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 48.62506880641408
+    },
+    "sauce": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 17.74425473843793
+    },
+    "coffee": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 53.7883762528178
+    },
+    "beets,": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 53.240189323255336
+    },
+    "pure": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 49.46035849365293
+    },
+    "flour": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 23.615194851345905
+    },
+    "sweetened": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 43.46614547122766
+    },
+    "tortillas": {
+        "cuisine": "mexican",
+        "type": "breads",
+        "probability": 30.33533895483525
+    },
+    "rice,": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 54.07547901049419
+    },
+    "half": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 37.800313215427444
+    },
+    "blueberries,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "ketchup": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 34.26442043788251
+    },
+    "bread": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 25.238368184526106
+    },
+    "mushrooms": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 30.422552230789766
+    },
+    "meat": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 30.860503750609002
+    },
+    "freshly": {
+        "cuisine": "mediterranean",
+        "type": "drinks",
+        "probability": 28.23485760643056
+    },
+    "potatoes": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 38.16284056316859
+    },
+    "chuck": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 35.95267549816899
+    },
+    "trimmed": {
+        "cuisine": "mediterranean",
+        "type": "meats",
+        "probability": 30.71436204021326
+    },
+    "filling": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "roast": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 30.789210074857873
+    },
+    "flakes,": {
+        "cuisine": "italian",
+        "type": "beans",
+        "probability": 31.06214574657153
+    },
+    "sprouts,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 53.42584890507665
+    },
+    "heavy": {
+        "cuisine": "italian",
+        "type": "fruits",
+        "probability": 29.279499479416423
+    },
+    "tomatoes,": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 26.03591252401137
+    },
+    "fish": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 39.5419330687526
+    },
+    "hard": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "boiled": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 48.37437618705951
+    },
+    "wine,": {
+        "cuisine": "italian",
+        "type": "drinks",
+        "probability": 47.53307905850646
+    },
+    "clams,": {
+        "cuisine": "italian",
+        "type": "seafood",
+        "probability": 53.240189323255336
+    },
+    "granulated": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 53.42584890507665
+    },
+    "creole": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 53.42584890507665
+    },
+    "red": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 18.909411716524165
+    },
+    "romano": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 44.55813521913528
+    },
+    "salami": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 49.17325573597654
+    },
+    "sugar,": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 31.542680700512626
+    },
+    "grapes": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "lettuce,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 36.708323467519826
+    },
+    "american": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "pepperoni": {
+        "cuisine": "italian",
+        "type": "meats",
+        "probability": 42.22977415044738
+    },
+    "soda": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 38.8510249543864
+    },
+    "cucumber": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 54.07547901049419
+    },
+    "apple,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 44.55813521913528
+    },
+    "cheese": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 20.621378983207777
+    },
+    "tilapia": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 38.204118572117245
+    },
+    "delicious": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 49.17325573597654
+    },
+    "tomato,": {
+        "cuisine": "mediterranean",
+        "type": "breads",
+        "probability": 34.71997492575969
+    },
+    "thick": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 29.029847251102346
+    },
+    "maple": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 33.43101744731392
+    },
+    "spinach": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 37.392102613785795
+    },
+    "provolone": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 43.869950827917464
+    },
+    "top": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 49.46035849365293
+    },
+    "pitted": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 35.79502227449404
+    },
+    "beans,": {
+        "cuisine": "italian",
+        "type": "beans",
+        "probability": 23.549788042454516
+    },
+    "white": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 18.95035595801835
+    },
+    "syrup": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 31.647543029619975
+    },
+    "banana": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 54.07547901049419
+    },
+    "oranges,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "poultry": {
+        "cuisine": "italian",
+        "type": "breads",
+        "probability": 53.240189323255336
+    },
+    "fillets,": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 34.92681255191134
+    },
+    "semisweet": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "part": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 53.42584890507665
+    },
+    "mangos,": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 54.07547901049419
+    },
+    "tortellini": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 47.93688441519626
+    },
+    "oats": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 39.94301470229402
+    },
+    "double": {
+        "cuisine": "asian",
+        "type": "dairy",
+        "probability": 54.07547901049419
+    },
+    "multigrain": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 53.7883762528178
+    },
+    "apples": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "tofu,": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 49.46035849365293
+    },
+    "crescent": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 42.49110991745215
+    },
+    "mini": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 53.240189323255336
+    },
+    "coconut": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 31.077140983073107
+    },
+    "coconut,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 49.17325573597654
+    },
+    "unsweetened": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 31.363992145630796
+    },
+    "cauliflower,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 49.17325573597654
+    },
+    "boston": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 49.46035849365293
+    },
+    "carrots": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 30.04605744537637
+    },
+    "skinless": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 29.71699125127968
+    },
+    "ginger": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 27.075929384979048
+    },
+    "juice": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 20.792053791266493
+    },
+    "seed": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 37.06755053669246
+    },
+    "pastry": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 44.845237976811674
+    },
+    "aged": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 53.42584890507665
+    },
+    "asparagus,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 49.46035849365293
+    },
+    "noodles": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 32.30887659751737
+    },
+    "skinless,": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 22.96507938457404
+    },
+    "-": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 23.786968604978913
+    },
+    "snow": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 54.07547901049419
+    },
+    "mix": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 25.133640936623898
+    },
+    "peas,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 32.455981893538414
+    },
+    "caesar": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 48.81072838823539
+    },
+    "mix,": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 44.845237976811674
+    },
+    "zucchini": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 44.00994828957282
+    },
+    "seedless": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "topping": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 43.321763898355
+    },
+    "corn,": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 33.69433355046043
+    },
+    "leaf,": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 53.67768109511859
+    },
+    "salmon": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 48.368368745745315
+    },
+    "mashed": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 33.1526458541001
+    },
+    "beef,": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 54.07547901049419
+    },
+    "swiss": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 31.398047532521257
+    },
+    "romaine": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 39.5419330687526
+    },
+    "oyster": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 44.15705358559386
+    },
+    "mustard,": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "beets": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 48.62506880641408
+    },
+    "seafood": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 43.071071279000435
+    },
+    "(from": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 49.06256057827733
+    },
+    "pineapple": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 43.869950827917464
+    },
+    "strawberries,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 49.17325573597654
+    },
+    "gold": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "corned": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 49.46035849365293
+    },
+    "cake": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 48.08126598806892
+    },
+    "chicken": {
+        "cuisine": "mexican",
+        "type": "carbs",
+        "probability": 18.251740882461828
+    },
+    "ground": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 15.290197756809228
+    },
+    "creamed": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 53.7883762528178
+    },
+    "turnips,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 53.42584890507665
+    },
+    "sugar": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 20.581655831654608
+    },
+    "jam": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 49.17325573597654
+    },
+    "colby": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 43.75925567021825
+    },
+    "rice": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 26.183145618319934
+    },
+    "pumpkin": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 32.45132505346787
+    },
+    "de": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 49.06256057827733
+    },
+    "rolls,": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 53.7883762528178
+    },
+    "mandarin": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "watermelon": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 44.55813521913528
+    },
+    "breast": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 21.85701292706368
+    },
+    "kale,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 44.55813521913528
+    },
+    "dijon": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 31.946234462083723
+    },
+    "salami,": {
+        "cuisine": "italian",
+        "type": "meats",
+        "probability": 53.240189323255336
+    },
+    "caramel": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "processed": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 43.869950827917464
+    },
+    "grilled": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "steak": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 29.472355120260982
+    },
+    "tri-colored": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 48.62506880641408
+    },
+    "kernel": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 33.86571123214342
+    },
+    "powder": {
+        "cuisine": "mexican",
+        "type": "drinks",
+        "probability": 18.876713047794013
+    },
+    "sea": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 29.9142999127756
+    },
+    "gouda": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 53.42584890507665
+    },
+    "boiled,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 44.55813521913528
+    },
+    "3": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 49.17325573597654
+    },
+    "butternut": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 53.42584890507665
+    },
+    "yogurt": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 30.515042649657868
+    },
+    "whipped": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "barbeque": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 37.47465617195077
+    },
+    "carbonated": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 53.7883762528178
+    },
+    "cauliflower": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 40.230117459970415
+    },
+    "rolled": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 49.46035849365293
+    },
+    "garbanzo": {
+        "cuisine": "mediterranean",
+        "type": "beans",
+        "probability": 36.300112865878184
+    },
+    "concentrate": {
+        "cuisine": "asian",
+        "type": "drinks",
+        "probability": 54.07547901049419
+    },
+    "nonfat": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 44.55813521913528
+    },
+    "water": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 19.952376454874656
+    },
+    "instant": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 53.7883762528178
+    },
+    "cookies,": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "jelly": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "kosher": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 31.36628445840102
+    },
+    "cob": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 44.55813521913528
+    },
+    "grain": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 38.204118572117245
+    },
+    "pita": {
+        "cuisine": "mediterranean",
+        "type": "breads",
+        "probability": 42.594122287150526
+    },
+    "puff": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 48.62506880641408
+    },
+    "bell": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 20.78612227180819
+    },
+    "sweet": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 26.016247371834133
+    },
+    "sausage,": {
+        "cuisine": "italian",
+        "type": "meats",
+        "probability": 42.408462705329214
+    },
+    "turkey": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 35.034417367043034
+    },
+    "olives": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 34.71997492575969
+    },
+    "beef": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 21.32346353809025
+    },
+    "balsamic": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 34.256149278349525
+    },
+    "(90": {
+        "cuisine": "mediterranean",
+        "type": "drinks",
+        "probability": 53.42584890507665
+    },
+    "buttermilk": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 49.17325573597654
+    },
+    "apples,": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 53.42584890507665
+    },
+    "horseradish": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 44.55813521913528
+    },
+    "coarse": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 49.46035849365293
+    },
+    "basil": {
+        "cuisine": "italian",
+        "type": "breads",
+        "probability": 27.41176968266019
+    },
+    "ravioli": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 48.62506880641408
+    },
+    "mushroom": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 30.23149176566869
+    },
+    "squash": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 53.42584890507665
+    },
+    "pastry,": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 53.240189323255336
+    },
+    "cooked,": {
+        "cuisine": "mexican",
+        "type": "seafood",
+        "probability": 38.052145405469375
+    },
+    "peppers,": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 24.574129245522833
+    },
+    "chili": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 22.447343385004405
+    },
+    "pepper,": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 21.313631418800192
+    },
+    "frozen": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 25.89604286064354
+    },
+    "plain": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 29.875908881832085
+    },
+    "vanilla": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 32.051924941729915
+    },
+    "sesame": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 37.471192638525494
+    },
+    "wild": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 53.42584890507665
+    },
+    "cracked": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 44.55813521913528
+    },
+    "pack": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "carrots,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 26.268057814745127
+    },
+    "coating": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 54.07547901049419
+    },
+    "equal": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 49.46035849365293
+    },
+    "noodles,": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 40.230117459970415
+    },
+    "mushrooms,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 30.04765297280937
+    },
+    "apricots": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 54.07547901049419
+    },
+    "chicken,": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 43.35545031352845
+    },
+    "macaroni": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 42.087304560762355
+    },
+    "vegetable": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 23.053174784899586
+    },
+    "lasagna": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 48.62506880641408
+    },
+    "toasted": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 32.41202577464195
+    },
+    "tomatoes": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 25.183001438199884
+    },
+    "oil": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 16.67708062063837
+    },
+    "drink": {
+        "cuisine": "italian",
+        "type": "drinks",
+        "probability": 48.62506880641408
+    },
+    "garlic": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 18.66105371036737
+    },
+    "tuna": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 48.368368745745315
+    },
+    "brussels": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 53.42584890507665
+    },
+    "broccoli": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 43.753248228904056
+    },
+    "butter": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 22.078913660696415
+    },
+    "canned": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 30.30615143857161
+    },
+    "mixture,": {
+        "cuisine": "mexican",
+        "type": "fruits",
+        "probability": 49.06256057827733
+    },
+    "ranch": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 43.18176643669965
+    },
+    "bacon,": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 33.79475022411603
+    },
+    "english": {
+        "cuisine": "mediterranean",
+        "type": "sweets",
+        "probability": 42.8192390889585
+    },
+    "alfredo": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 48.12254399701757
+    },
+    "hearts": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 48.62506880641408
+    },
+    "smoked": {
+        "cuisine": "italian",
+        "type": "seafood",
+        "probability": 35.32251153011502
+    },
+    "steamed": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 54.07547901049419
+    },
+    "kale": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 33.40333847345466
+    },
+    "celery,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 32.543770105085585
+    },
+    "cheddar": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 31.16417596031935
+    },
+    "fat,": {
+        "cuisine": "mexican",
+        "type": "meats",
+        "probability": 49.06256057827733
+    },
+    "margarine,": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 53.7883762528178
+    },
+    "roasted": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 31.946234462083726
+    },
+    "margarine": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 49.17325573597654
+    },
+    "wafers": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "apple": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 38.56664591985839
+    },
+    "cilantro": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 24.834801926539413
+    },
+    "cut": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 19.72551746911432
+    },
+    "ham": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 37.87846152864057
+    },
+    "sunflower": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 44.19560787139414
+    },
+    "cherry": {
+        "cuisine": "italian",
+        "type": "sweets",
+        "probability": 41.821563548805734
+    },
+    "cayenne": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 23.891960010740274
+    },
+    "avocados,": {
+        "cuisine": "mexican",
+        "type": "fruits",
+        "probability": 44.44744006143607
+    },
+    "cranberries": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 42.66125848099644
+    },
+    "snap": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 48.772174102435116
+    },
+    "eggplant,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 53.42584890507665
+    },
+    "teriyaki": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 44.15705358559386
+    },
+    "silken": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 54.07547901049419
+    },
+    "anchovy": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 48.81072838823539
+    },
+    "seeds,": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 54.07547901049419
+    },
+    "(sesame": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 49.46035849365293
+    },
+    "(1": {
+        "cuisine": "asian",
+        "type": "breads",
+        "probability": 40.230117459970415
+    },
+    "crushed": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 21.071897959978667
+    },
+    "dark": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 32.33462245445446
+    },
+    "dressing,": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 53.240189323255336
+    },
+    "banana,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "shoulder": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 43.869950827917464
+    },
+    "mozzarella,": {
+        "cuisine": "mediterranean",
+        "type": "dairy",
+        "probability": 48.81072838823539
+    },
+    "onion": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 20.43166662562369
+    },
+    "minced": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 17.486601318705564
+    },
+    "soft": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 39.5419330687526
+    },
+    "reduced": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 38.70664338151374
+    },
+    "italian": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 33.3794530940189
+    },
+    "old": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 35.94116398488978
+    },
+    "spring": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 54.07547901049419
+    },
+    "buns,": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 48.48507134475872
+    },
+    "pickled": {
+        "cuisine": "asian",
+        "type": "seafood",
+        "probability": 39.5419330687526
+    },
+    "pickles": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 53.7883762528178
+    },
+    "lentils": {
+        "cuisine": "mediterranean",
+        "type": "beans",
+        "probability": 32.08990267211006
+    },
+    "bananas,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "leaf": {
+        "cuisine": "italian",
+        "type": "vegetables",
+        "probability": 30.706562862734923
+    },
+    "jalapeno": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 26.56235344184754
+    },
+    "topping,": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "lean": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 28.25308790409865
+    },
+    "ice": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "trout": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 53.42584890507665
+    },
+    "zucchini,": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 40.88021441020368
+    },
+    "sauce,": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 28.509175153304323
+    },
+    "thinly": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 24.70767618537325
+    },
+    "wheat": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 32.781387341896384
+    },
+    "corn": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 28.158022307272827
+    },
+    "ham,": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 48.48507134475872
+    },
+    "pasta": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 28.56839953986075
+    },
+    "paste": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 26.63904873715208
+    },
+    "fresh,": {
+        "cuisine": "american",
+        "type": "vegetables",
+        "probability": 53.7883762528178
+    },
+    "biscuit": {
+        "cuisine": "american",
+        "type": "breads",
+        "probability": 43.18176643669965
+    },
+    "loin,": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 48.08151758318762
+    },
+    "shrimp": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 47.93688441519626
+    },
+    "dinner": {
+        "cuisine": "mexican",
+        "type": "breads",
+        "probability": 44.44744006143607
+    },
+    "cabbage,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 30.955781543989154
+    },
+    "beans": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 27.434993719226185
+    },
+    "muffins,": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 53.7883762528178
+    },
+    "cranberry": {
+        "cuisine": "italian",
+        "type": "sauces_spices",
+        "probability": 38.706643381513736
+    },
+    "mixed": {
+        "cuisine": "asian",
+        "type": "sweets",
+        "probability": 33.54797164144603
+    },
+    "curry": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 31.767797502320597
+    },
+    "unsalted": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 43.869950827917464
+    },
+    "drained,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 44.845237976811674
+    },
+    "tofu": {
+        "cuisine": "asian",
+        "type": "beans",
+        "probability": 54.07547901049419
+    },
+    "cocoa": {
+        "cuisine": "american",
+        "type": "drinks",
+        "probability": 38.16284056316859
+    },
+    "loin": {
+        "cuisine": "american",
+        "type": "meats",
+        "probability": 30.790038225396714
+    },
+    "soy": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 26.321399266638082
+    },
+    "butter,": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 30.408688161567653
+    },
+    "figs,": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 53.42584890507665
+    },
+    "rolls": {
+        "cuisine": "american",
+        "type": "sweets",
+        "probability": 43.17929430866997
+    },
+    "vegetables": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 44.15705358559386
+    },
+    "beer": {
+        "cuisine": "mexican",
+        "type": "drinks",
+        "probability": 37.20674778318366
+    },
+    "virgin": {
+        "cuisine": "mediterranean",
+        "type": "sauces_spices",
+        "probability": 41.570036109982986
+    },
+    "grated": {
+        "cuisine": "italian",
+        "type": "dairy",
+        "probability": 22.444765038924558
+    },
+    "powdered": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 53.7883762528178
+    },
+    "gin": {
+        "cuisine": "asian",
+        "type": "drinks",
+        "probability": 49.46035849365293
+    },
+    "leek,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 48.81072838823539
+    },
+    "spicy": {
+        "cuisine": "mexican",
+        "type": "sauces_spices",
+        "probability": 31.54868814182682
+    },
+    "mango,": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 49.46035849365293
+    },
+    "raisins": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 44.15705358559386
+    },
+    "peppers": {
+        "cuisine": "mexican",
+        "type": "vegetables",
+        "probability": 27.643648685063155
+    },
+    "strawberries": {
+        "cuisine": "asian",
+        "type": "fruits",
+        "probability": 49.46035849365293
+    },
+    "cherries,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "cottage": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 43.35545031352846
+    },
+    "pineapple,": {
+        "cuisine": "american",
+        "type": "fruits",
+        "probability": 53.7883762528178
+    },
+    "spice": {
+        "cuisine": "italian",
+        "type": "breads",
+        "probability": 43.32176389835499
+    },
+    "onions,": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 24.154464770923536
+    },
+    "apricot": {
+        "cuisine": "asian",
+        "type": "carbs",
+        "probability": 54.07547901049419
+    },
+    "strawberry": {
+        "cuisine": "mediterranean",
+        "type": "sweets",
+        "probability": 53.42584890507665
+    },
+    "jumbo": {
+        "cuisine": "mediterranean",
+        "type": "breads",
+        "probability": 48.81072838823539
+    },
+    "fried": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 53.7883762528178
+    },
+    "parsnips,": {
+        "cuisine": "mediterranean",
+        "type": "vegetables",
+        "probability": 48.81072838823539
+    },
+    "dill": {
+        "cuisine": "american",
+        "type": "dairy",
+        "probability": 41.35516405064807
+    },
+    "sirloin": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 44.15705358559386
+    },
+    "breast,": {
+        "cuisine": "asian",
+        "type": "meats",
+        "probability": 39.5419330687526
+    },
+    "juice,": {
+        "cuisine": "asian",
+        "type": "drinks",
+        "probability": 40.230117459970415
+    },
+    "sprouts": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 54.07547901049419
+    },
+    "kidney": {
+        "cuisine": "mexican",
+        "type": "beans",
+        "probability": 33.86792760084669
+    },
+    "cream": {
+        "cuisine": "american",
+        "type": "carbs",
+        "probability": 22.479003133349117
+    },
+    "rainbow": {
+        "cuisine": "mediterranean",
+        "type": "seafood",
+        "probability": 53.42584890507665
+    },
+    "lemon": {
+        "cuisine": "mediterranean",
+        "type": "sweets",
+        "probability": 24.20299001915342
+    },
+    "mayonnaise": {
+        "cuisine": "american",
+        "type": "sauces_spices",
+        "probability": 34.333401317629985
+    },
+    "mustard": {
+        "cuisine": "american",
+        "type": "seafood",
+        "probability": 26.25816324792654
+    },
+    "shredded": {
+        "cuisine": "mexican",
+        "type": "breads",
+        "probability": 20.360426674954994
+    },
+    "pear": {
+        "cuisine": "mediterranean",
+        "type": "fruits",
+        "probability": 53.42584890507665
+    },
+    "peas": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 44.845237976811674
+    },
+    "quinoa": {
+        "cuisine": "mediterranean",
+        "type": "beans",
+        "probability": 42.412133453700186
+    },
+    "pepperoni,": {
+        "cuisine": "mediterranean",
+        "type": "meats",
+        "probability": 48.81072838823539
+    },
+    "capers": {
+        "cuisine": "italian",
+        "type": "seafood",
+        "probability": 44.00994828957282
+    },
+    "scallions": {
+        "cuisine": "asian",
+        "type": "vegetables",
+        "probability": 49.46035849365293
+    },
+    "potato": {
+        "cuisine": "mediterranean",
+        "type": "carbs",
+        "probability": 44.19560787139413
+    },
+    "blend": {
+        "cuisine": "mexican",
+        "type": "dairy",
+        "probability": 42.380414759752945
+    },
+    "cooked": {
+        "cuisine": "asian",
+        "type": "sauces_spices",
+        "probability": 25.02949854412799
+    },
+    "fresh": {
+        "cuisine": "mediterranean",
+        "type": "meats",
+        "probability": 17.206868123288796
+    },
+    "baked": {
+        "cuisine": "italian",
+        "type": "carbs",
+        "probability": 37.32780247104843
+    }
+}

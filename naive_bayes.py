@@ -4,11 +4,6 @@ from math import log
 import json
 import random
 
-def get_cat_cuisine_dict():
-    with open("./lookup_ingred_type.json", "r") as f:
-        data = json.load(f)
-    return data
-
 
 def get_dict(cuisine_dict=None):
     if cuisine_dict is None:
@@ -101,8 +96,8 @@ def cprob_string(ingred_dict, string):
 def classify_string(ingred_dict, string):
     prob_dict = prob_string(ingred_dict, string)
     cprob_dict = cprob_string(ingred_dict, string)
-    pprint(prob_dict)
-    pprint(cprob_dict)
+    # pprint(prob_dict)
+    # pprint(cprob_dict)
 
     val1, cat1 = min((v, k) for k, v in prob_dict.iteritems())
     val2, cat2 = max((v, k) for k, v in cprob_dict.iteritems())
@@ -172,46 +167,46 @@ def convert_recipes_to_cuisine(cuisine_dict, ingred_dict, newcuisine):
 
 
 
-def convert_recipe_to_cuisine(cuisine_dict, ingred_dict, classified_recipe, newcuisine):
-    cuisine = classified_recipe["cuisine"]
-    if cuisine == newcuisine:
-        print "must transform recipe to a NEW cuisine"
-        return
+# def convert_recipe_to_cuisine(cuisine_dict, ingred_dict, classified_recipe, newcuisine):
+#     cuisine = classified_recipe["cuisine"]
+#     if cuisine == newcuisine:
+#         print "must transform recipe to a NEW cuisine"
+#         return
 
-    change_ingredients = []
-    for ingred in classified_recipe["ingredients"]:
-        cuisine_name, prob = classify_string_with_prob(
-            ingred_dict, ingred["name"])
-        if cuisine_name == cuisine:
-            change_ingredients.append((prob, ingred["name"], cuisine_name))
+#     change_ingredients = []
+#     for ingred in classified_recipe["ingredients"]:
+#         cuisine_name, prob = classify_string_with_prob(
+#             ingred_dict, ingred["name"])
+#         if cuisine_name == cuisine:
+#             change_ingredients.append((prob, ingred["name"], cuisine_name))
 
-    sorted_ingreds = sorted(change_ingredients)[0:5]
-    new_sorted_ingreds = sorted_ingreds
+#     sorted_ingreds = sorted(change_ingredients)[0:5]
+#     new_sorted_ingreds = sorted_ingreds
 
-    new_ingreds = {}
-    for i in range(5):
-        new_ingreds[i]=[]
+#     new_ingreds = {}
+#     for i in range(5):
+#         new_ingreds[i]=[]
 
-    for k in cuisine_dict:
-        if cuisine_dict[k]["cuisine"] == newcuisine:
-            for num,ingred in enumerate(sorted_ingreds):
-                if ingred[1] in cuisine_dict:
-                    if cuisine_dict[k]["type"]==cuisine_dict[ingred[1]]["type"]:
-                        new_ingreds[num].append({k : cuisine_dict[k]})
-    # pprint(sorted_ingreds)
-    # pprint(new_ingreds)
+#     for k in cuisine_dict:
+#         if cuisine_dict[k]["cuisine"] == newcuisine:
+#             for num,ingred in enumerate(sorted_ingreds):
+#                 if ingred[1] in cuisine_dict:
+#                     if cuisine_dict[k]["type"]==cuisine_dict[ingred[1]]["type"]:
+#                         new_ingreds[num].append({k : cuisine_dict[k]})
+#     # pprint(sorted_ingreds)
+#     # pprint(new_ingreds)
 
-    rndom = {ing : random.choice(new_ingreds[ing]) for ing in new_ingreds if new_ingreds[ing] != []}
+#     rndom = {ing : random.choice(new_ingreds[ing]) for ing in new_ingreds if new_ingreds[ing] != []}
 
 
-    for num,ingred in enumerate(sorted_ingreds):
-        if ingred[1] in cuisine_dict:
-            new_sorted_ingreds[num] = new_sorted_ingreds[num]+(cuisine_dict[ingred[1]]["type"],)
+#     for num,ingred in enumerate(sorted_ingreds):
+#         if ingred[1] in cuisine_dict:
+#             new_sorted_ingreds[num] = new_sorted_ingreds[num]+(cuisine_dict[ingred[1]]["type"],)
     
-    print "sorted--------"
-    pprint(new_sorted_ingreds)
-    print "rndom---------"
-    pprint(rndom)
+#     print "sorted--------"
+#     pprint(new_sorted_ingreds)
+#     print "rndom---------"
+#     pprint(rndom)
 
 
 
@@ -267,8 +262,6 @@ def main():
     # mexican_dict = ingred_dict["mexican"]
 
     # print sorted([(v,k) for k,v in mexican_dict["data"].iteritems()])
-    # convert_recipes_to_cuisine(get_cat_cuisine_dict(), ingred_dict, "italian")
-
 
 if __name__ == '__main__':
     main()

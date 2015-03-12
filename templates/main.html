@@ -1,44 +1,33 @@
 {% extends "layout.html" %}
+{% import 'recipe_partial.html' as partial %}			
+
 {% block body %}
 
-<h1>Recipe Transformer</h1>
-<form action="/urlForm">
-	Enter Receipe URL: <input type="text" name="url">
-	<input type="submit" value="Submit">
-</form>
+<div id="whole_page">
+	<h1>Recipe Transformer</h1>
+	<form action="/urlForm">
+		Enter Receipe URL: <input type="text" name="url">
+		<input type="submit" value="Submit">
+	</form>
 
-{% if recipe %}
-	<p>recipe from: {{recipe.link}} </p>
-	<h3>{{recipe.name}}</h3>
-	<div class="ingredients">
-		<h4>Ingredients</h4>
-		{% for i in recipe.ingredients %}
-			<li class="ingredient">
-				{{i.name}}: {{i.amount}}
-			</li>
-		{% endfor %}
-	</div>
-	<div class="tools">
-		<h4>Tools</h4>
-		{% for t in recipe.tools %}
-			<li class="tool">
-				{{t}}
-			</li>
-		{% endfor %}
-	</div>
-	<div class="methods">
-		<h4>Methods</h4>
-		<h5>Primary Method</h5>
-		{{recipe.primary_method}}
-		<h5>Secondary Method</h5>
-		{% for m in recipe.secondary_methods %}
-			<li>{{m}}</li> 
-		{% endfor %}
-	</div>
-	<h2>Transformation</h2>
-	<button class="button" id="vegetarian">Vegetarian</button>
+	{% if recipe %}
+		<h2>Transformation</h2>
+		<button class="button" id="vegetarian">Vegetarian</button>
 
-{% endif %}
+		<h3>{{recipe.name}}</h3>
+		<p>recipe from: {{recipe.link}} </p>
+		<div class="recipe">
+			<h3> Original Recipe </h3>
+			{{ partial.populate(recipe) }}
+		</div>
+		{% if new_recipe %}
+		<div class="recipe">
+			<h3> New Recipe </h3>
+			{{ partial.populate(new_recipe) }}
+		</div>
+		{% endif %}
 
+	{% endif %}
+</div>
 
 {% endblock %}

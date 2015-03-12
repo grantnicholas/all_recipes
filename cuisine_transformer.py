@@ -7,6 +7,18 @@ import random
 import naive_bayes as nb
 
 
+class CuisineTransformer:
+
+    def __init__(self):
+        self.food_classifier = FoodCuisineClassifier()
+        self.ingred_dict = FoodCuisineClassifier().ingred_dict
+        self.forbidden_ingredients = set(["small", "large", "leaf", "1inch", "prepared", "unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground",
+                                          "seeded", "peeled", "drained", "red", "green", "yellow", "bell", "white", "seasoning", "fresh", "cut", "boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt", "chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "", " "])
+
+    def transform_recipe(self, recipe, newcuisine):
+        return convert_recipe_to_cuisine(self.ingred_dict, recipe, self.food_classifier, newcuisine, self.forbidden_ingredients)
+
+
 def get_dict_topn(thedict, n):
     return [v for k, v in enumerate(sorted(thedict.items(), key=lambda x: x[1])[::-1]) if k < n]
 

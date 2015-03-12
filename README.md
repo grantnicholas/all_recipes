@@ -7,10 +7,33 @@ Note: the crawlr can crawl pages and search for more recipes links on each page,
 Parses an html recipe page from allrecipes.com and extracts components of the recipe. I extracted ingredients, steps, ratings, and a few other things. 
 
 #process_it.py
-Uses the data we parsed in parse_html.py to do some processing and transform the ingredients/recipe into some new thing. I was trying to learn cuisines of recipes from ingredients but a bunch of other stuff can be done. 
+Uses the data we parsed in parse_html.py to do some processing and transform the ingredients/recipe into some new thing. 
 
 #naive_bayes.py 
-Uses a naive bayesian classifier to predict the type of cuisine from the list of ingredients provided for a recipe. IE) If the recipe is listed as having "tomatoes, marinara sauce, pasta, and cheese" it will probably be italian. outputs to [saved_cuisines.json]
+Naive bayesian classifier base. This is used in two places (one classifier for cuisines in ingredients_naive_bayes.py and one for types of food in food_cats_naive_bayes.py)
+
+#food_cats_naive_bayes
+*Look at the file for a simple API to use for prediction*
+Uses a naive bayesian classifier to predict the type of food [ie: meat, dairy, vegetable, fruit, etc] from a string. 
+
+#ingredients_naive_bayes.py
+*Look at the file for a simple API to use for prediction*
+Uses a naive bayesian classifier to predict the type of cuisine from a string. 
+Also can predict the type of cuisine from a recipe [it uses the list of ingredients to predict]
+
+#cuisine_transformer.py 
+*Look at the file for a simple API to use for prediction*
+Uses the cuisine and food type classifiers to convert a recipe from an old cuisine to a new cuisine. IE) It takes ingredients from the old recipe and converts them to ingredients of the SAME food type but of the NEW cuisine. 
+
+ie: converting a recipe to asian
+
+chicken => chicken
+salsa   => soy sauce 
+lime    => orange
+rice    => noodles
+
+#format_autograder.py 
+File used to make the final_struture.json 
 
 
 #tldr

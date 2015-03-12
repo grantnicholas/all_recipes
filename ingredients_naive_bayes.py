@@ -10,6 +10,9 @@ class FoodCuisineClassifier:
     def classify_string(self, astring):
         return nb.classify_string(self.ingred_dict, astring)
 
+    def classify_recipe(self, recipe):
+        return _classify_recipe_by_ingredients(self.ingred_dict, recipe)
+
 
 def get_dict(cuisine_dict=None):
     if cuisine_dict is None:

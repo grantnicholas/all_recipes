@@ -3,6 +3,9 @@ from pprint import pprint
 from math import log
 import json
 import random
+import food_cats_naive_bayes as fc
+from stemming.porter2 import stem 
+import copy
 
 
 def get_dict(cuisine_dict=None):
@@ -93,9 +96,9 @@ def cprob_string(ingred_dict, string):
     return cprob_of_cuisine
 
 
-def classify_string(ingred_dict, string):
-    prob_dict = prob_string(ingred_dict, string)
-    cprob_dict = cprob_string(ingred_dict, string)
+def classify_string(ingred_dict, astring):
+    prob_dict = prob_string(ingred_dict, astring)
+    cprob_dict = cprob_string(ingred_dict, astring)
 
     # pprint(prob_dict)
     # pprint(cprob_dict)
@@ -103,31 +106,46 @@ def classify_string(ingred_dict, string):
     val1, cat1 = min((v, k) for k, v in prob_dict.iteritems())
     val2, cat2 = max((v, k) for k, v in cprob_dict.iteritems())
 
-    if cat1 != cat2:
-        print "disagrees"
+    # if cat1 != cat2:
+    #     print "disagrees"
 
     return cat2
 
 
-def classify_string_with_prob(ingred_dict, string):
-    prob_dict = prob_string(ingred_dict, string)
-    cprob_dict = cprob_string(ingred_dict, string)
+def classify_string_with_prob(ingred_dict, astring):
+    prob_dict = prob_string(ingred_dict, astring)
+    cprob_dict = cprob_string(ingred_dict, astring)
     # pprint(prob_dict)
     # pprint(cprob_dict)
 
     val1, cat1 = min((v, k) for k, v in prob_dict.iteritems())
     val2, cat2 = max((v, k) for k, v in cprob_dict.iteritems())
 
-    if cat1 != cat2:
-        print "disagrees"
+    # if cat1 != cat2:
+    #     print "disagrees"
 
     return cat2, val2
 
 
-def classify_recipe_by_ingredients(ingred_dict, link, recipe):
+class FoodCuisineClassifier:
+    def __init__(self):
+        self.ingred_dict = get_dict(get_cuisine_dicts())["ingredients"]
+
+    def classify_string(self, astring):
+        return nb.classify_string(self.ingred_dict, astring)
+
+
+
+
+def _classify_recipe_by_ingredients(ingred_dict, recipe):
     ingred_list = [ingred["name"] for ingred in recipe["ingredients"]]
     ingred_string = " ".join(ingred_list)
     cuisine = classify_string(ingred_dict, ingred_string)
+    return cuisine
+
+
+def classify_recipe_by_ingredients(ingred_dict, link, recipe):
+    cuisine = classify_recipe_by_ingredients(ingred_dict, recipe)
     classified_recipe = {"link": link,
                          "name": recipe["name"],
                          "ingredients": recipe["ingredients"],
@@ -148,7 +166,6 @@ def create_recipe_data_structures(ingred_dict):
 
             recipe_to_cuisine.append(
                 classify_recipe_by_ingredients(ingred_dict, link, recipe))
-            arecipe = classify_recipe_by_ingredients(ingred_dict, link, recipe)
 
             ingred_list = [ingred["name"] for ingred in recipe["ingredients"]]
             ingred_string = " ".join(ingred_list)
@@ -184,119 +201,139 @@ def create_recipe_data_structures(ingred_dict):
         f.write(data)
 
 
-def convert_recipes_to_cuisine(cuisine_dict, ingred_dict, newcuisine):
+def convert_recipes_to_cuisine(ingred_dict, newcuisine):
     new_recipes = []
-    pprint(cuisine_dict)
 
-    with open("saved_cuisines.json", "r") as f:
+    FoodClassifier = fc.FoodTypeClassifier()
+    forbidden_ingredients = set(["small", "large", "leaf", "1inch", "prepared", "unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground", "seeded", "peeled", "drained", "red", "green", "yellow", "bell", "white", "seasoning", "fresh", "cut", "boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt", "chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "", " "])
+    [forbidden_ingredients.add(str(num)) for num in range(100)]
+
+    with open("saved_crawlr.json", "r") as f:
         recipes = json.load(f)
-        for recipe in recipes:
+        for recipe_link, recipe in recipes.iteritems():
             new_recipes.append(
-    convert_recipe_to_cuisine(cuisine_dict, ingred_dict, recipe,
-    newcuisine))
+                convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier,
+                                          newcuisine, forbidden_ingredients))
 
-    # pprint(new_recipes)
     return new_recipes
 
 
-
-# def convert_recipe_to_cuisine(cuisine_dict, ingred_dict, classified_recipe, newcuisine):
-#     cuisine = classified_recipe["cuisine"]
-#     if cuisine == newcuisine:
-#         print "must transform recipe to a NEW cuisine"
-#         return
-
-#     change_ingredients = []
-#     for ingred in classified_recipe["ingredients"]:
-#         cuisine_name, prob = classify_string_with_prob(
-#             ingred_dict, ingred["name"])
-#         if cuisine_name == cuisine:
-#             change_ingredients.append((prob, ingred["name"], cuisine_name))
-
-#     sorted_ingreds = sorted(change_ingredients)[0:5]
-#     new_sorted_ingreds = sorted_ingreds
-
-#     new_ingreds = {}
-#     for i in range(5):
-#         new_ingreds[i]=[]
-
-#     for k in cuisine_dict:
-#         if cuisine_dict[k]["cuisine"] == newcuisine:
-#             for num,ingred in enumerate(sorted_ingreds):
-#                 if ingred[1] in cuisine_dict:
-#                     if cuisine_dict[k]["type"]==cuisine_dict[ingred[1]]["type"]:
-#                         new_ingreds[num].append({k : cuisine_dict[k]})
-#     # pprint(sorted_ingreds)
-#     # pprint(new_ingreds)
-
-#     rndom = {ing : random.choice(new_ingreds[ing]) for ing in new_ingreds if new_ingreds[ing] != []}
+def get_dict_topn(thedict, n):
+    return [v for k,v in enumerate(sorted(thedict.items(), key=lambda x: x[1])[::-1]) if k<n]
 
 
-#     for num,ingred in enumerate(sorted_ingreds):
-#         if ingred[1] in cuisine_dict:
-#             new_sorted_ingreds[num] = new_sorted_ingreds[num]+(cuisine_dict[ingred[1]]["type"],)
-    
-#     print "sorted--------"
-#     pprint(new_sorted_ingreds)
-#     print "rndom---------"
-#     pprint(rndom)
+def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, forbidden_ingredients):
+    cuisine = _classify_recipe_by_ingredients(ingred_dict, recipe)
+    if cuisine == newcuisine:
+        print "must transform recipe to a NEW cuisine"
+        return
 
+    change_ingredients = []
+    for pos, ingred in enumerate(recipe["ingredients"]):
+        cuisine_name, prob = classify_string_with_prob(
+            ingred_dict, ingred["name"])
+        if cuisine_name != cuisine: #ie KEEP the ingredients that give the original cuisine feel
+            change_ingredients.append(
+                (prob, ingred["name"], cuisine_name, pos, FoodClassifier.classify_string(ingred["name"])))
+
+    sorted_ingreds = sorted(change_ingredients)
+
+    replacement_ingreds = {ingred[4]: [] for ingred in sorted_ingreds}
+
+    # Forbidden ingredients are words learned by the naive bayesian classifier that are distinctly *NOT* ingredients
+    # Often these words have to do with ingredient preparation or describing food
+    # It is ALWAYS ok to ignore these words; even though we are hardcoding them the approach will generalize
+    # as "thinly" or "split" or "black" or "chopped" are not ingredients
+
+    best_cuisine_replacements = filter(lambda x: x not in forbidden_ingredients, map(
+        lambda x: x[0], get_dict_topn(ingred_dict[newcuisine]["data"], 200)))
+
+
+    for replacement in best_cuisine_replacements:
+        typeof_food = FoodClassifier.classify_string(replacement)
+        if typeof_food in replacement_ingreds:
+            replacement_ingreds[typeof_food].append(replacement)
+
+    # pprint(sorted_ingreds)
+    # pprint(replacement_ingreds)
+    new_recipe = copy.deepcopy(recipe)
+    for ingred in sorted_ingreds:
+        if replacement_ingreds[ingred[4]] != []:
+            new_ingred = random.choice(replacement_ingreds[ingred[4]])
+            new_recipe["ingredients"][ingred[3]] = {"amount" : "new ingred", 
+                                                    "name" : new_ingred}
+
+    print "--------------OLDRECIPE-----------"
+    pprint(recipe["ingredients"])
+    print "--------------NEWRECIPE-----------"
+    pprint(new_recipe["ingredients"])
+    return new_recipe
+
+
+def test_arecipe():
+    forbidden_ingredients = set(["unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground", "seeded", "peeled", "drained", "red", "green", "yellow", "bell", "white", "seasoning", "fresh", "cut", "boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt", "chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "", " "])
+    [forbidden_ingredients.add(str(num)) for num in range(100)]
+
+    TypeClassifier = fc.FoodTypeClassifier()
+    CuisineClassifier = FoodCuisineClassifier()
+
+    testrecipe = {
+    "poop": {
+            "name": "Chicken pasta",
+            "ingredients": [
+                {
+                    "amount": "3 cups",
+                    "name": "chicken"
+                },
+                {
+                    "amount": "3 tablespoons",
+                    "name": "pasta"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "parmesan cheese"
+                },
+                {
+                    "amount": "1 cup",
+                    "name": "butter"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "chopped onion"
+                },
+                {
+                    "amount": "1/4 cup",
+                    "name": "garlic"
+                },
+                {
+                    "amount": "3",
+                    "name": "salt"
+                }
+            ],
+            "directions": [
+                "Preheat oven to 425 degrees F (220 degrees C).",
+                "Press hash brown potatoes between paper towels to remove excess moisture. Transfer potatoes to an 8-inch pie dish and press into the bottom and up the sides of the dish to form a crust. Drizzle with melted butter.",
+                "Bake in preheated oven until golden, about 25 minutes. Remove from oven and reduce heat to 350 degrees F (175 degrees C).",
+                "Combine ham, Cheddar cheese, onion, and bell pepper in a bowl; spread mixture over potato crust. Beat eggs, milk, salt, and black pepper in the same bowl; pour over ham mixture.",
+                "Bake in oven until eggs are set, 25 to 30 minutes."
+            ],
+            "footnotes": []
+          }
+    }
+
+    convert_recipe_to_cuisine(ingred_dict, testrecipe, TypeClassifier, "american", forbidden_ingredients)
 
 
 def main():
-    summary_dict = get_dict(get_cuisine_dicts())
-    ingred_dict = summary_dict["ingredients"]
 
-    # pprint(ingred_dict)
-    # for cuisine in ingred_dict:
-    #     print cuisine, ingred_dict[cuisine]["count"]
+    TypeClassifier = fc.FoodTypeClassifier()
+    CuisineClassifier = FoodCuisineClassifier()
 
-    # print "------------bean and cheese taco------------"
-    # print classify_string(ingred_dict, "bean cheese taco")
+    ingred_dict = CuisineClassifier.ingred_dict
 
-    # print "------------sausage pizza bread----------------"
-    # print classify_string(ingred_dict, "sausage pizza bread")
+    convert_recipes_to_cuisine(ingred_dict, "mexican")
 
-    # print "------------processed cheese burger with velveeta----"
-    # print classify_string(ingred_dict, "processed cheese burger velveeta")
-
-    # print "------------waffle fries ketchup---------------------"
-    # print classify_string(ingred_dict, "waffle fries ketchup")
-
-    # print "------------ginger garlic sesame oil fried rice------"
-    # print(classify_string(ingred_dict, "ginger garlic sesame oil fried rice"))
-
-    # print "------------hot dogs mac and cheese------------------"
-    # print(classify_string(ingred_dict, "hot dogs mac and cheese"))
-
-    # print "------------southern fried chicken-------------------"
-    # print(classify_string(ingred_dict, "southern fried chicken"))
-
-    # print "------------poop poop poop poop----------------------"
-    # print(classify_string(ingred_dict, "poop poop poop poop"))
-
-    # print "------------tomato basil pasta-----------------------"
-    # print(classify_string(ingred_dict, "tomato basil pasta"))
-
-    # print "------------mozarella olive pizza--------"
-    # print classify_string(ingred_dict, "mozarella olive pizza")
-
-    # print "------------greek salad------------------"
-    # print classify_string(ingred_dict, "greek salad feta")
-
-    # print "------------baked potato with cheese and sour cream------------------"
-    # print classify_string(ingred_dict, "baked potato cheese sour cream")
-
-    # print "------------steamed spicy dumplings------------------"
-    # print classify_string(ingred_dict, "steamed spicy dumplings")
-
-    # pprint(ingred_dict["american"])
-    # classify_recipes_by_ingredients(ingred_dict)
-    # mexican_dict = ingred_dict["mexican"]
-
-    # print sorted([(v,k) for k,v in mexican_dict["data"].iteritems()])
-
-    create_recipe_data_structures(ingred_dict)
+    # create_recipe_data_structures(ingred_dict)
 
 if __name__ == '__main__':
     main()

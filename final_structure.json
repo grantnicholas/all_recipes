@@ -264,7 +264,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Slow Cooker Chicken and Noodles",
         "ingredients": [
             {
@@ -396,7 +396,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Smoky Grilled Pork Chops",
         "ingredients": [
             {
@@ -974,7 +974,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Rustic Tuscan Soup with Kale",
         "ingredients": [
             {
@@ -1248,7 +1248,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Penne Pasta with Spinach and Bacon",
         "ingredients": [
             {
@@ -1684,7 +1684,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Tuscan Chard and Cannellini Bean Soup",
         "ingredients": [
             {
@@ -2069,7 +2069,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Easy Butternut Squash Ravioli",
         "ingredients": [
             {
@@ -2541,7 +2541,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "Cuban Ropa Vieja",
         "ingredients": [
             {
@@ -3162,7 +3162,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Spinach Stuffed Chicken Breast",
         "ingredients": [
             {
@@ -5777,7 +5777,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "asian",
         "name": "Rueben Loaf",
         "ingredients": [
             {
@@ -6011,7 +6011,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Buttery Soft Pretzels",
         "ingredients": [
             {
@@ -6160,7 +6160,7 @@
         "tools": []
     },
     {
-        "cuisine": "american",
+        "cuisine": "mediterranean",
         "name": "Good-Morning Banana Nut Cereal",
         "ingredients": [
             {
@@ -6272,7 +6272,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Sweet Mustard Chicken Bake",
         "ingredients": [
             {
@@ -6568,7 +6568,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Barbeque Chicken",
         "ingredients": [
             {
@@ -6959,7 +6959,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Chicken Kisses",
         "ingredients": [
             {
@@ -7054,7 +7054,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Garlic Aioli",
         "ingredients": [
             {
@@ -7369,7 +7369,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Split Pea Soup",
         "ingredients": [
             {
@@ -7752,7 +7752,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "italian",
         "name": "Cranberry Gelatin Salad I",
         "ingredients": [
             {
@@ -8295,7 +8295,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Keon's Slow Cooker Curry Chicken",
         "ingredients": [
             {
@@ -8405,7 +8405,7 @@
         ]
     },
     {
-        "cuisine": "asian",
+        "cuisine": "mediterranean",
         "name": "Barbeque Chicken",
         "ingredients": [
             {
@@ -8449,7 +8449,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Mediterranean Puff Pastry Chicken",
         "ingredients": [
             {
@@ -9081,7 +9081,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Spaghetti and Meatballs Muffin Bites",
         "ingredients": [
             {
@@ -10842,7 +10842,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Paleo Coconut Curry Stir Fry",
         "ingredients": [
             {
@@ -11278,7 +11278,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "mediterranean",
         "name": "Authentic Enchiladas Verdes",
         "ingredients": [
             {
@@ -11442,7 +11442,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "italian",
         "name": "Corn Fritters Southern Style",
         "ingredients": [
             {
@@ -11784,7 +11784,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Toasted Almond Green Beans",
         "ingredients": [
             {
@@ -11938,7 +11938,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "Spinach, Red Lentil, and Bean Curry",
         "ingredients": [
             {
@@ -12294,7 +12294,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Breakfast Upside Down Cake",
         "ingredients": [
             {
@@ -12355,7 +12355,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "Sweet Russian Cabbage Soup",
         "ingredients": [
             {
@@ -12835,7 +12835,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Roasted Garlic Bread",
         "ingredients": [
             {
@@ -14273,7 +14273,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Juicy Roasted Chicken",
         "ingredients": [
             {
@@ -14517,7 +14517,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "BBQ Pork for Sandwiches",
         "ingredients": [
             {
@@ -14811,7 +14811,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Superb Sauteed Mushrooms",
         "ingredients": [
             {
@@ -15201,7 +15201,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Creamed Eggs on Toast",
         "ingredients": [
             {
@@ -15369,7 +15369,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Colleen's Slow Cooker Jambalaya",
         "ingredients": [
             {
@@ -15515,7 +15515,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Zesty Slow Cooker Chicken Barbecue",
         "ingredients": [
             {
@@ -15789,7 +15789,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Old Fashioned Apple Dumplings",
         "ingredients": [
             {
@@ -16003,7 +16003,7 @@
         ]
     },
     {
-        "cuisine": "asian",
+        "cuisine": "mediterranean",
         "name": "Rice Cooker Rice Pudding",
         "ingredients": [
             {
@@ -16204,7 +16204,7 @@
         "tools": []
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "name": "Slow Cooker Beef Stew I",
         "ingredients": [
             {
@@ -16520,7 +16520,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Cream of Mushroom and Soy Sauce Pork Chops",
         "ingredients": [
             {
@@ -17445,7 +17445,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Absolute Mexican Cornbread",
         "ingredients": [
             {
@@ -18936,7 +18936,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Ukrainian Red Borscht Soup",
         "ingredients": [
             {
@@ -19512,7 +19512,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Spicy Tuna Fish Cakes",
         "ingredients": [
             {
@@ -19658,7 +19658,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Prime Rib Christmas Special",
         "ingredients": [
             {
@@ -20374,7 +20374,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Irish Root Soup",
         "ingredients": [
             {
@@ -20661,7 +20661,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Creamy Potato Leek Soup II",
         "ingredients": [
             {
@@ -21586,7 +21586,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "name": "Wheat Crackers",
         "ingredients": [
             {
@@ -21625,7 +21625,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Daria's Slow Cooker Beef Stroganoff",
         "ingredients": [
             {
@@ -21728,7 +21728,7 @@
         "tools": []
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Easy Tuna Patties",
         "ingredients": [
             {
@@ -22008,7 +22008,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Korean Fried Chicken",
         "ingredients": [
             {
@@ -22627,7 +22627,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Greek Dip",
         "ingredients": [
             {
@@ -22657,7 +22657,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Molten Chocolate Cakes With Sugar-Coated Raspberries",
         "ingredients": [
             {
@@ -22807,7 +22807,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Roasted Red Potato Salad",
         "ingredients": [
             {
@@ -23056,7 +23056,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "asian",
         "name": "Best Ever Meatloaf with Brown Gravy",
         "ingredients": [
             {
@@ -24032,7 +24032,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mediterranean",
         "name": "Basic Ham and Bean Soup",
         "ingredients": [
             {
@@ -24360,7 +24360,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Bacon-Flavored Dog Biscuits",
         "ingredients": [
             {
@@ -24902,7 +24902,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Cheesy Acorn Squash",
         "ingredients": [
             {
@@ -25121,7 +25121,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Splendicious Slow Cooker Spaghetti Sauce",
         "ingredients": [
             {
@@ -25563,7 +25563,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Roast Sticky Chicken-Rotisserie Style",
         "ingredients": [
             {
@@ -25785,7 +25785,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Slow Cooker Chicken with Stuffing",
         "ingredients": [
             {
@@ -26217,7 +26217,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "NO YOLKS\u00ae Beef Noodle Casserole",
         "ingredients": [
             {
@@ -26270,7 +26270,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Chicken Tikka Masala",
         "ingredients": [
             {
@@ -26662,7 +26662,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Pasta Pomodoro",
         "ingredients": [
             {
@@ -27029,7 +27029,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Krazy Garlic Trout",
         "ingredients": [
             {
@@ -27480,7 +27480,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Rabbit with Mustard",
         "ingredients": [
             {
@@ -28388,7 +28388,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "italian",
         "name": "Grandma Georgie's Cardamom Rolls",
         "ingredients": [
             {
@@ -28833,7 +28833,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "How to Make Cronuts, Part I",
         "ingredients": [
             {
@@ -30303,7 +30303,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Fish Chowder",
         "ingredients": [
             {
@@ -31039,7 +31039,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Potato, Bacon, and Corn Chowder",
         "ingredients": [
             {
@@ -31840,7 +31840,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Onion Gravy for British Bangers and Mash",
         "ingredients": [
             {
@@ -32636,7 +32636,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Mozzarella-Stuffed Pesto Turkey Meatballs",
         "ingredients": [
             {
@@ -33417,7 +33417,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Zucchini and Eggs",
         "ingredients": [
             {
@@ -33632,7 +33632,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mediterranean",
         "name": "Perfect Turkey",
         "ingredients": [
             {
@@ -33683,7 +33683,7 @@
         ]
     },
     {
-        "cuisine": "asian",
+        "cuisine": "american",
         "name": "Paleo Tropical Ice Cream",
         "ingredients": [
             {
@@ -33719,7 +33719,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Burgundy Stroganoff",
         "ingredients": [
             {
@@ -34215,7 +34215,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "My Crab Cakes",
         "ingredients": [
             {
@@ -34338,7 +34338,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Best Bread Machine Bread",
         "ingredients": [
             {
@@ -34752,7 +34752,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Texas Christmas Pickles",
         "ingredients": [
             {
@@ -35326,7 +35326,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Paula's Bread Sticks",
         "ingredients": [
             {
@@ -35488,7 +35488,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Lentils and Rice with Fried Onions (Mujadarrah)",
         "ingredients": [
             {
@@ -36561,7 +36561,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Salsa Mac and Beef",
         "ingredients": [
             {
@@ -36673,7 +36673,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "NO YOLKS\u00ae Noodles Romanoff",
         "ingredients": [
             {
@@ -37029,7 +37029,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Cranberry Orange Tea Bread",
         "ingredients": [
             {
@@ -37302,7 +37302,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Easy French Onion Soup for Guests",
         "ingredients": [
             {
@@ -37771,7 +37771,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Chicken Valdostano",
         "ingredients": [
             {
@@ -38461,7 +38461,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Chef John's Minestrone Soup",
         "ingredients": [
             {
@@ -40360,7 +40360,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Brooklyn Girl's Penne Arrabiata",
         "ingredients": [
             {
@@ -40489,7 +40489,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Deep Fried Mushrooms",
         "ingredients": [
             {
@@ -40720,7 +40720,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Cherry Tomato Sauce with Penne ",
         "ingredients": [
             {
@@ -41159,7 +41159,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Cream Cheese Penguins",
         "ingredients": [
             {
@@ -41935,7 +41935,7 @@
         "tools": []
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Grilled Salmon with Bacon and Corn Relish",
         "ingredients": [
             {
@@ -42335,7 +42335,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Peach Tea",
         "ingredients": [
             {
@@ -42918,7 +42918,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Cranberry Sauce Extraordinaire",
         "ingredients": [
             {
@@ -43664,7 +43664,7 @@
         ]
     },
     {
-        "cuisine": "asian",
+        "cuisine": "american",
         "name": "Easy Sweet Potato Crisp",
         "ingredients": [
             {
@@ -44005,7 +44005,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Bordelaise Sauce with Mushrooms",
         "ingredients": [
             {
@@ -44364,7 +44364,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Crispy Fried Fish",
         "ingredients": [
             {
@@ -45233,7 +45233,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "World's Best Peanut Butter Fudge",
         "ingredients": [
             {
@@ -45271,7 +45271,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "name": "Chocolate Scotcheroos",
         "ingredients": [
             {
@@ -46006,7 +46006,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "Curry Stand Chicken Tikka Masala Sauce",
         "ingredients": [
             {
@@ -46421,7 +46421,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "italian",
         "name": "Simple Spinach Lasagna",
         "ingredients": [
             {
@@ -47729,7 +47729,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Chickpea Falafel Burgers",
         "ingredients": [
             {
@@ -48087,7 +48087,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Ken's Perfect Hard Boiled Egg (And I Mean Perfect)",
         "ingredients": [
             {
@@ -48115,7 +48115,7 @@
         "tools": []
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Chicken Parmigiana",
         "ingredients": [
             {
@@ -48152,7 +48152,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Absolutely Delicious Baked Root Vegetables",
         "ingredients": [
             {
@@ -48436,7 +48436,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "name": "Better Than Best Fried Chicken",
         "ingredients": [
             {
@@ -49107,7 +49107,7 @@
         "tools": []
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Grandma Rita's Soft Butter Rolls",
         "ingredients": [
             {
@@ -49734,7 +49734,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Jackie's Spinach and Apple Salad",
         "ingredients": [
             {
@@ -50215,7 +50215,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "asian",
         "name": "Fluffy Gluten Free Cornbread",
         "ingredients": [
             {
@@ -50703,7 +50703,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "name": "Chef John's Patatas Bravas",
         "ingredients": [
             {
@@ -50818,7 +50818,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Spicy Vegan Potato Curry",
         "ingredients": [
             {
@@ -51109,7 +51109,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Cauliflower Fritters",
         "ingredients": [
             {
@@ -51287,7 +51287,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Garlic and Herb Pull Apart Bread",
         "ingredients": [
             {
@@ -51645,7 +51645,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "name": "Mexican Rice II",
         "ingredients": [
             {
@@ -52147,7 +52147,7 @@
         "tools": []
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Bacon Wrapped Dates Stuffed with Blue Cheese",
         "ingredients": [
             {
@@ -52278,7 +52278,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Homestyle Turkey, the Michigander Way",
         "ingredients": [
             {
@@ -52853,7 +52853,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Baked Cornish Game Hens",
         "ingredients": [
             {
@@ -53167,7 +53167,7 @@
         "tools": []
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Scalloped Potatoes II",
         "ingredients": [
             {
@@ -55822,7 +55822,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "asian",
         "name": "Rustic Italian Chicken",
         "ingredients": [
             {
@@ -58126,7 +58126,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Roasted Red Pepper and Tomato Soup",
         "ingredients": [
             {
@@ -58207,7 +58207,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Tomato Chicken Parmesan",
         "ingredients": [
             {
@@ -58634,7 +58634,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "How to Make Cronuts, Part I",
         "ingredients": [
             {
@@ -60439,7 +60439,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Chicken with Garlic, Basil, and Parsley",
         "ingredients": [
             {
@@ -60540,7 +60540,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Chef John's Hot Dog Buns",
         "ingredients": [
             {
@@ -61484,7 +61484,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Spaghetti Sauce",
         "ingredients": [
             {
@@ -61804,7 +61804,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Bev's Seasoned Salt",
         "ingredients": [
             {
@@ -62004,7 +62004,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Fried Apple Pies",
         "ingredients": [
             {
@@ -62267,7 +62267,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "name": "Bean Soup With Kale",
         "ingredients": [
             {
@@ -62324,7 +62324,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Slow Cooker Baby Back Ribs",
         "ingredients": [
             {
@@ -63027,7 +63027,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Grilled Potatoes and Onion",
         "ingredients": [
             {
@@ -63334,7 +63334,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Squash Casserole II",
         "ingredients": [
             {
@@ -64467,7 +64467,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Jet Swirl Pizza Appetizers",
         "ingredients": [
             {
@@ -64960,7 +64960,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mediterranean",
         "name": "Serious Herb Cheese Spread",
         "ingredients": [
             {
@@ -65051,7 +65051,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "mexican",
         "name": "Guacamole",
         "ingredients": [
             {
@@ -65097,7 +65097,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Basic Chicken Stock",
         "ingredients": [
             {
@@ -65188,7 +65188,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "name": "Amish Hash Browns",
         "ingredients": [
             {
@@ -65328,7 +65328,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "name": "Tender Italian Baked Chicken",
         "ingredients": [
             {
@@ -66215,7 +66215,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "name": "Sweet Lamb Curry",
         "ingredients": [
             {
@@ -66278,7 +66278,7 @@
         "tools": []
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Pork Chops with Garden Rice",
         "ingredients": [
             {
@@ -66598,7 +66598,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Pressure Cooker Carnitas",
         "ingredients": [
             {
@@ -66700,7 +66700,7 @@
         ]
     },
     {
-        "cuisine": "asian",
+        "cuisine": "american",
         "name": "Sweet Hot Mustard Chicken Thighs",
         "ingredients": [
             {
@@ -67281,7 +67281,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Green Chile Chicken Soup",
         "ingredients": [
             {
@@ -68686,7 +68686,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "name": "Strawberry Pie Filling",
         "ingredients": [
             {
@@ -69095,7 +69095,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "name": "Grilled Balsamic and Soy Marinated Flank Steak",
         "ingredients": [
             {
@@ -69279,7 +69279,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "name": "Homemade Black Bean Veggie Burgers",
         "ingredients": [
             {

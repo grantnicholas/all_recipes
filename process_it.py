@@ -1,6 +1,13 @@
 import json
 from pprint import pprint
 import re
+import string
+
+
+def remove_punc(astring):
+    new_str = re.sub(r'[^\w\s]', '', astring)
+    new_str = new_str.strip("\n")
+    return new_str
 
 
 def stopwords():
@@ -47,13 +54,15 @@ def make_string_searcher(regex):
     return find_string
 
 
+# lower_word
 def update_dict(adict, words, stopwords):
     for word in words:
-        if word.lower() not in stopwords:
-            if word in adict:
-                adict[word] += 1
+        lower_word = remove_punc(word.lower())
+        if lower_word not in stopwords:
+            if lower_word in adict:
+                adict[lower_word] += 1
             else:
-                adict[word] = 1
+                adict[lower_word] = 1
 
 
 def get_dict_topn(thedict, n):
@@ -81,7 +90,8 @@ def learn_cuisine(data, is_cuisine_string):
             if is_cuisine_string(ingred["name"]):
                 for mem_ingred in recipe["ingredients"]:
                     words = mem_ingred["name"].split(" ")
-                    update_dict(learned_dict["ingredients"], words, stopwords())
+                    update_dict(
+                        learned_dict["ingredients"], words, stopwords())
 
         for direct in recipe["directions"]:
             if is_cuisine_string(direct):
@@ -89,7 +99,6 @@ def learn_cuisine(data, is_cuisine_string):
                 update_dict(learned_dict["directions"], words, stopwords())
 
     return learned_dict
-
 
 
 def get_cuisine_dicts():
@@ -122,8 +131,8 @@ def get_cuisine_dicts():
         medit_dict = learn_cuisine(data, is_medit_string)
         cuisine_dict["mediterranean"] = medit_dict
 
+    pprint(cuisine_dict)
     return cuisine_dict
-
 
 
 def main():

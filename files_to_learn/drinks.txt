@@ -1,0 +1,120 @@
+Alcohol
+
+Beer, Light Beer, Table Wine, Margarita, Vodka
+alcohol
+Juice
+
+Juice, Canned Bottled, Juice Concentrate,  Juice (Bottled), Apple Juice Drink
+apple juice
+Beer
+
+Beer, Light Beer, Budweiser Beer, Budweiser Light Beer, Genuine Draft Beer
+beer
+Cappuccino
+
+Cappuccino, Nonfat Cappuccino, Reduced Fat Cappuccino, Decaffeinated Cappuccino, Coffee (Cappuccino Flavor Powder, Instant, with Sugar)
+cappuccino
+Chocolate Milk
+
+Chocolate Milk (Lowfat), Chocolate Milk (Reduced Fat), Chocolate Milk (Whole), Chocolate Milk (Reduced Fat with Added Calcium), Skim Chocolate Milk
+chocolate milk
+Cocktails
+
+Margarita, Martini, Mojito, Frozen Margarita, Gin and Tonic
+cocktails
+Cocoa
+
+Cocoa Powder (Unsweetened), Cocoa and Sugar Mixture (with Skim Milk), Hot Cocoa Milk, Hot Chocolate Cocoa (Made with Whole Milk), Cocoa and Sugar Mixture (with Lowfat Milk)
+cocoa
+Coffee
+
+Coffee, Coffee (Brewed From Grounds), Latte Coffee, Espresso Coffee, Instant Coffee (made from Powdered)
+coffee
+Juice
+
+Juice, Juice (Unsweetened), Juice Cocktail Frozen Concentrate,  (Bottled), Juice (Bottled)
+juice
+Drink Mixes
+
+Fruit Flavored Drink (made From Powdered Mix, Mainly Sugar with High Vitamin C Added), Fruit-Flavored Drink (Powder Mix, Unsweetened), Lemonade-Flavor Drink (Powder, with Water), Lemonade Flavored Drink with Sugar (made From Powdered Mix), Fruit Flavored Drink (made From Sweetened Powdered Mix, Fortified with Vitamin C)
+drink mixes
+Energy Drinks
+
+Energy Drink, Fruit Flavored Sports Drink, Fruit Flavored Sports Drink (Low Calorie), Red Bull Sugar Free (8 oz), Monster Energy
+energy drinks
+Fruit Punch
+
+Fruit Punch (Frozen Concentrate, with Water), Fruit Punch (made with Fruit Juice and Soda), Fruit Punch (with Added Nutrients, Canned), Fruit Punch (Alcoholic), Fruit Punch (made with Soda, Fruit Juice and Sherbet or Ice Cream)
+fruit punch
+Ice Cream Sodas
+
+Chocolate Ice Cream Soda, Ice Cream Soda (Flavors Other Than Chocolate), Classic Coke Float, Coca-Cola Float/Blended Float (Regular), Coca-Cola Float/Blended Float (Large)
+ice cream sodas
+Iced Coffee
+
+Iced Coffee with Cream and Sugar, Iced Coffee with Milk, Iced Coffee with Cream, Iced Coffee with Sugar, Iced Coffee with Milk and Sugar
+iced coffee
+Iced Tea
+
+Iced Tea, Unsweetened Iced Tea, Unsweetened Iced Tea, Lemonade Iced Tea, Diet Pure Leaf Iced Tea
+iced tea
+Juice
+
+Latte
+
+Latte Coffee, Nonfat Latte Coffee, Reduced Fat Latte Coffee, Decaffeinated Latte Coffee, Nonfat Caffe Latte (Tall)
+latte
+Lemonade
+
+Lemonade, Limeade, Low Calorie Lemonade, Frozen Concentrate Lemonade, Pink Lemonade (Frozen Concentrate, with Water)
+lemonade
+Milk
+
+Milk, Whole Milk, 1% Fat Milk, 2% Fat Milk, Milk (Nonfat)
+milk
+Milk Shakes
+
+Milk Shake, Chocolate Shake, Vanilla Shake, Thick Vanilla Milk Shake, Thick Chocolate Milk Shake
+milk shakes
+Orange Juice
+
+Orange Juice, Freshly Squeezed Orange Juice, Orange Juice (Chilled, Includes From Concentrate), Frozen Orange Juice (Reconstituted with Water), Orange Juice Drink
+orange juice
+Red Wine
+
+Red Table Wine, Pinot Noir Wine, Zinfandel Wine, Chianti Wine, Cabernet Sauvignon Wine
+red wine
+Root Beer
+
+Root Beer, Sugar Free Root Beer, Made From Powdered Mix Noncarbonated Root Beer (with Sugar), Diet Root Beer, A&W Root Beer (64 oz)
+root beer
+Smoothies
+Smoothie 
+
+Sodas
+
+Soda, Diet Soda, Cola Soda (with Caffeine), Cola or Pepper Soda (with Caffeine, with Aspartame), Cream Soda
+sodas
+Soy Milk
+
+Soy Milk, Chocolate Soy Milk, Soy Milk (Calcium Fortified), Ready-to-Drink Soy Milk, Unsweetened Soymilk
+soy milk
+Tea
+
+Tea (Brewed), Tea Unsweetened, Herbal Tea, Green Tea, Black Tea Bags
+
+Vodka
+
+Vodka, Vodka (90 Proof), Ice Original, Vodka, Vanilla Vodka
+vodka
+Water
+
+Water, Tap Water, Water (Bottled), Spring Water, Carbonated Water Sweetened
+water
+White Wine
+
+White Table Wine, Sauvignon Blanc Wine, Riesling Wine, Pinot Blanc Wine, Chenin Blanc Wine
+white wine
+Wine
+
+Table Wine, Red Table Wine, White Table Wine, Zinfandel Wine, Cabernet Sauvignon Wine

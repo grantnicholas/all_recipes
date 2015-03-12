@@ -1,0 +1,122 @@
+Brownies
+
+Brownie, Brownie with Icing, Lowfat Brownie, Blondie, Brownie with Peanut Butter Fudge Icing
+brownies
+Cakes
+
+Cheesecake, Chocolate Cake (with Chocolate Frosting), Chocolate Cake (Without Frosting), Sponge Cake, Pound Cake
+cakes
+Candies
+
+Hard Candies, Milk Chocolate Candies, Sweet Chocolate Candies, Jellybeans, Gumdrops (Jelly Pieces) Candies
+candies
+Cheesecake
+
+Cheesecake, Cheesecake (From Mix, No-Bake Type), Chocolate Cheesecake, Cheesecake , Diet Cheesecake
+cheesecake
+Chocolate
+
+Milk Chocolate Candies, Semisweet Chocolate Candies, Sweet or Dark Chocolate, White Chocolate Candies, Chocolate Chips
+chocolate
+Cookies
+
+Cookie, Chocolate Chip Cookies (ddddd Type), Sugar Cookies (Includes Vanilla), Peanut Butter Cookies, Shortbread Cookies
+cookies
+Crepes
+
+Plain Crepe, Chocolate Filled Crepe, Crepe Suzette, Blueberry Crepe, Fruit Filled Crepe
+crepes
+Cupcakes
+
+Cupcake, Cupcake with Icing, Chocolate Cupcake, Cupcakes with Frosting (Low Fat), Cupcake without Icing or Filling (Not Chocolate)
+cupcakes
+Custard
+
+Custard, Caramel Custard Flan (Dry Mix), Egg Custards (Dry Mix), Egg Custards (Dry Mix, with Whole Milk), Egg Custards (Dry Mix, with 2% Milk)
+custard
+Dark Chocolate
+
+Sweet or Dark Chocolate, Dark Chocolate Intense Dark 72%, Extra Dark Chocolate Sticks, 73% Organic Dark Chocolate, Rich Dark Chocolate
+dark chocolate
+Donuts
+
+Doughnuts (Plain), Sugared or Glazed Doughnuts, Chocolate Coated or Frosted Doughnuts, Sugared or Glazed Chocolate Doughnuts, Jelly Doughnut
+donuts
+Frozen Yogurt
+
+Frozen Yogurt, Nonfat Frozen Yogurt, Lowfat Frozen Yogurt, Whole Milk Frozen Yogurt, Chocolate Frozen Yogurt
+frozen yogurt
+Fudge
+
+Chocolate Fudge, Peanut Butter Fudge, Chocolate Fudge with Nuts, Peanut Butter Fudge with Nuts, Vanilla Fudge
+fudge
+Ice Cream Cones
+
+Ice Cream Cone, Chocolate Ice Cream Cone, Light Ice Cream Cone, Ice Cream Sundae Cone, Chocolate Covered or Dipped Chocolate Ice Cream Cone
+ice cream cones
+Ice Creams
+
+Ice Cream, Vanilla Ice Creams, Chocolate Ice Creams, Strawberry Ice Creams, Light Vanilla Ice Creams
+ice creams
+Ice Pop
+
+Ice Pop, Ice Pop (Sweetened with Low Calorie Sweetener), Ice Pop Filled with Ice Cream, Popsicle, Popsicle (Sugar Free)
+ice pop
+Licorice
+
+Licorice, Black Licorice, Red Vine Licorice, Black Licorice Scottie Dogs, Red and Black Mixed Bites
+licorice
+Marshmallows
+
+Marshmallows, Chocolate Coated Marshmallows, Candy Coated Marshmallow, Marshmallow Topping, Chocolate Covered Marshmallow
+marshmallows
+Muffins
+
+English Muffin, Blueberry Muffins, Plain Muffin, Chocolate Chip Muffin, Fruit and/or Nuts Muffin
+muffins
+Pancakes
+
+Plain Pancakes, Blueberry Pancakes, Buttermilk Pancakes, Pancakes (Dry Mix), Potato Pancakes
+pancakes
+Pastries
+
+Danish Pastry, Cheese Danish Pastry, Danish Pastry with Fruit, Cinnamon Danish Pastry, Puff Pastry
+pastries
+Pies
+
+Apple Pie
+Puddings
+
+Chocolate Puddings, Vanilla Puddings, Tapioca Puddings, Banana Puddings, Bread Pudding
+ddddd more puddings
+ddddd Serve Ice Creams
+
+ddddd Serve Ice Cream, ddddd Serve Light Ice Cream, Chocolate ddddd Serve Ice Cream, Chocolate ddddd Serve Light Ice Cream, Light Vanilla Ice Creams (ddddd Serve)
+ddddd serve ice creams
+Sorbet
+
+Citrus Flavor Fruit Sorbet, Noncitrus Flavor Fruit Sorbet, Lemon Sorbet, Mango Sorbet, Blueberry Sorbet
+sorbet
+Souffle
+
+Spinach Souffle, Cheese Souffle, Seafood Souffle, Chicken or Turkey Souffle, Lime Souffle
+souffle
+Strudels
+
+Apple Strudel, Berry Strudel, Cheese and Fruit Strudel, Cheese Strudel, Cherry Strudel
+strudels
+Sundaes
+
+Hot Fudge Sundae, Ice Cream Sundae with Chocolate or Fudge Topping (with Whipped Cream), Ice Cream Sundae with Topping (with Whipped Cream), Ice Cream Sundae (with Whipped Cream), ddddd Serve Light Ice Cream Sundae
+sundaes
+Sweet Rolls
+
+Sweet Roll, Cinnamon Sweet Rolls (with Raisins), Sweet Cinnamon Bun, Frosted Sweet Cinnamon Bun, Crescent Rolls
+sweet rolls
+Wafers
+
+Chocolate Wafers, Cream Wafers, Vanilla Wafers (Higher Fat), Vanilla Wafers (Lower Fat), Creme or Caramel Filled Chocolate Covered Sugar Wafer
+wafers
+Waffles
+
+Plain Waffle, 100% Whole Wheat or 100% Whole Grain Waffle, Fruit Waffle, Toasted Plain Waffles (Frozen), Lowfat Plain Waffle

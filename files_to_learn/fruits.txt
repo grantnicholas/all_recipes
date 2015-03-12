@@ -1,0 +1,137 @@
+Apples, Apples (Without Skin), Golden Delicious Apples, Red Delicious Apples, Fuji Apples
+apples
+Apricots
+
+Apricots, Dried Apricot, Apricots (Solids and Liquids with Skin, Water Pack, Canned), Apricots (Solids and Liquids with Skin, Juice Pack, Canned), Apricots (Solids and Liquids with Skin, Extra Light Syrup Pack, Canned)
+apricots
+Avocados
+
+Avocados, California Avocados, Florida Avocados, Guacamole, Guacamole with Tomatoes
+avocados
+Bananas
+
+Bananas, Bananas (Large), Apple Banana, Baked Banana, Nothing But Banana Flattened
+bananas
+Berries
+
+Berries, Strawberries, Blueberries, Raspberries, Blackberries
+berries
+Blackberries
+
+Blackberries, Frozen Blackberries, Sweetened Frozen Blackberries, Blackberries (Cooked or Canned), Blackberries (Unsweetened, Frozen)
+blackberries
+Blueberries
+
+Blueberries, Blueberries (Unsweetened, Frozen), Blueberries (Sweetened, Frozen), Blueberries (Solids and Liquids, Heavy Syrup, Canned), Blueberries Unsweetened in Water Pack (Cooked or Canned)
+blueberries
+Cantaloupe
+
+Cantaloupe Melons, Frozen Cantaloupe (Balls), Cantaloupe Nectar, Cantaloupe (Muskmelon), Cantaloupe & Berries
+cantaloupe
+Cherries
+
+Sweet Cherries, Bing Cherries, Maraschino Cherries, Frozen Cherries, Red Sour Cherries
+cherries
+Coconuts
+
+Coconut, Dried Coconut, Sweetened Dried Coconut Meat, Toasted Dried Coconut, Coconut Water
+coconuts
+Cranberries
+
+Dried Cranberries, Dried Cranberries (Sweetened), Cranberries, Craisins, Cranberries (Cooked or Canned)
+cranberries
+Dates
+
+Date, Medjool Dates, Deglet Noor Dates, Pitted Dates, Organic Premium Pitted Dried Dates
+dates
+Dried Fruit
+
+Dried Fruit Mixture, Dried Apple, Dried Cranberries, Dried Prune, Dried Apricot
+dried fruit
+Figs
+
+Figs, Dried Fig, Fig Bar, Figs (Solids and Liquids, Water Pack, Canned), Figs (Solids and Liquids, Light Syrup Pack, Canned)
+figs
+Fruit Salad
+
+Fruit Salad, Fruit Salad (without Citrus Fruits), Peach Pear Apricot Pineapple Cherry Fruit Salad (Solids and Liquids, Water Pack, Canned), Peach Pear Apricot Pineapple Cherry Fruit Salad (Solids and Liquids, Juice Pack, Canned), Peach Pear Apricot Pineapple Cherry Fruit Salad (Solids and Liquids, Light Syrup, Canned)
+fruit salad
+Grapefruits
+
+Grapefruit, Grapefruit (Pink and Red), California and Arizona Pink and Red Grapefruit, Florida Pink and Red Grapefruit, California White Grapefruit
+grapefruits
+Grapes
+
+Grapes, Grapes (Red or Green, European Type Varieties Such As Thompson Seedless), Grapes (American Type, Slip Skin), American Type Grapes (Slip Skin), European Type Grapes
+grapes
+Honeydew Melons
+
+Honeydew Melons, Frozen Honeydew (Balls), Honeydew, Honeydew Melon
+honeydew melons
+Kiwifruit
+
+Kiwi Fruit, Kiwifruit (Chinese Gooseberries) (Stored), Baby Kiwifruit, Gold Kiwifruit, Kiwifruit
+kiwifruit
+Litchis
+
+Lychee, Litchis, Dried Litchis, Lychee in Sugar or Syrup (Cooked or Canned), Dried Lychee (Lychee Nuts)
+litchis
+Mandarin Oranges
+
+Tangerines (Mandarin Oranges), Clementines, Mandarin Orange (Canned or Frozen), Tangerines (Mandarin Oranges, Juice Pack, Canned), Tangerines (Mandarin Oranges, Light Syrup Pack, Canned)
+mandarin oranges
+Mangos
+
+Mangos, Dried Mango, Mango Nectar, Cooked Mango, Pickled Mango
+mangos
+Melons
+
+Watermelon, Honeydew Melons, Cantaloupe Melons, Cooked Bitter Melon, Cooked Winter Melon
+melons
+Nectarines
+
+Nectarines, Cooked Nectarine, Nectarines, Nectarines, Dried Nectarines
+nectarines
+Oranges
+
+Oranges, Navels Oranges, Valencias California Oranges, Florida Oranges, Tangerines (Mandarin Oranges)
+oranges
+Papayas
+
+Papaya, Papayas, Dried Papaya, Papaya in Sugar or Syrup (Cooked or Canned), Papaya Nectar
+papayas
+Peaches
+
+Peaches, Peaches (Solids and Liquids, Light Syrup Pack, Canned), Peaches (Solids and Liquids, Water Pack, Canned), Peaches (Solids and Liquids, Juice Pack, Canned), Peaches (Solids and Liquids, Extra Light Syrup, Canned)
+peaches
+Pears
+
+Pears, Pear (Cooked or Canned), Asian Pears, Pears (Solids and Liquids, Light Syrup Pack, Canned), Prickly Pears
+pears
+Pineapples
+
+Pineapple, Pineapple (Solids and Liquids, Water Pack, Canned), Pineapple Chunks (Sweetened, Frozen), Pineapple (Solids and Liquids, Light Syrup Pack, Canned), Pineapple (Solids and Liquids, Juice Pack, Canned)
+pineapples
+Plums
+
+Plums, Dried Prune, Plums (Solids and Liquids, Light Syrup Pack, Canned), Plums (Solids and Liquids, Heavy Syrup Pack, Canned), Plums (Solids and Liquids, Juice Pack, Canned)
+plums
+Prunes
+
+Dried Prune, Cooked Dried Prune, Cooked Dried Prune with Sugar, Prunes (Solids and Liquids, Heavy Syrup Pack, Canned), Prune Juice
+prunes
+Raisins
+
+Raisins, Raisins (Seedless), Golden Raisins (Seedless), Chocolate Covered Raisins, Milk Chocolate Coated Raisins
+raisins
+Raspberries
+
+Raspberries, Red Raspberries, Unsweetened Frozen Raspberries, Frozen Raspberries, Frozen Raspberries with Sugar
+raspberries
+Strawberries
+
+Strawberries, Unsweetened Frozen Strawberries, Frozen Strawberries, Frozen Strawberries with Sugar, Strawberries in Syrup (Cooked or Canned)
+strawberries
+Watermelons
+
+Watermelon, Watermelon, Yellow Seedless Watermelon, Fresh Watermelon, Dried Watermelon Seeds

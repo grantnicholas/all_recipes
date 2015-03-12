@@ -1,0 +1,125 @@
+Anchovy (Drained Solids In Oil, Canned), Canned Anchovy, Rolled Anchovies, Flat Anchovies, Anchovies with Capers in Olive Oil
+anchovies
+Calamari
+
+Fried Calamari, Baked or Broiled Calamari, Steamed or Boiled Calamari, Batter Fried Calamari, Crispy Calamari
+calamari
+Carp
+
+Carp (Fish), Baked or Broiled Carp, Carp Fish (Cooked, Dry Heat), Fried Floured or Breaded Carp, Smoked Carp
+carp
+Catfish
+
+Catfish, Baked or Broiled Catfish, Baked Breaded or Battered Catfish, Fried Battered Catfish, Steamed or Poached Catfish
+catfish
+Clams
+
+Clams, Cooked Clams, Steamed or Boiled Clams, Fried Battered Clams, Baked or Broiled Clams
+clams
+Cod
+
+Cod, Baked or Broiled Cod, Atlantic Cod, Pacific Cod, Baked Breaded or Battered Cod
+cod
+Crab
+
+Crab, Baked or Broiled Crab, Canned Crab, Blue Crab, Dungeness Crab (Cooked, Moist Heat)
+crab
+Crawfish
+
+Crayfish (Crawfish), Wild Crayfish (Crawfish), Boiled or Steamed Crayfish, Fried Floured or Breaded Crayfish, Farmed Crayfish (Mixed Species, Cooked, Moist Heat)
+crawfish
+Eel
+
+Eel, Eel (Mixed Species, Cooked, Dry Heat), Smoked Eel, Steamed or Poached Eel, Eel (Mixed Species)
+eel
+Fish
+
+Fish, Baked or Broiled Fish, Grilled Fish, Baked or Broiled Salmon, Tilapia (Fish)
+fish
+Flounder
+
+Cooked Flounder, Baked or Broiled Flounder, Steamed or Poached Flounder, Fried Battered Flounder, Baked Breaded or Battered Flounder
+flounder
+Haddock
+
+Haddock, Baked or Broiled Haddock, Baked Breaded or Battered Haddock, Steamed or Poached Haddock, Fried Battered Haddock
+haddock
+Halibut
+
+Atlantic and Pacific Halibut, Atlantic and Pacific Halibut (Fish) (Cooked, Dry Heat), Broiled Halibut, Battered Halibut, Greenland Halibut
+halibut
+Herring
+
+Pickled Herring, Kippered Atlantic Herring, Atlantic Herring, Baked or Broiled Herring, Dried Salted Herring
+herring
+Lobster
+
+Lobster, Steamed or Boiled Lobster, Baked or Broiled Lobster, Canned Lobster, Spiny Lobster (Mixed Species)
+lobster
+Mackerel
+
+Mackerel, Atlantic Mackerel, Canned Mackerel, Baked or Broiled Mackerel, Fried Floured or Breaded Mackerel
+mackerel
+Mahi Mahi
+
+Mahi Mahi, Mahi Mahi, Mahi Mahi Fillets, Mahi Mahi Fillets, Mahi Mahi Steaks
+mahi mahi
+Mussels
+
+Mussels, Blue Mussels, Cooked Mussels, Steamed or Poached Mussels, Mussels with Tomato-Based Sauce (Mixture)
+mussels
+Octopus
+
+Octopus, Cooked Octopus, Steamed Octopus, Smoked Octopus, Boiled Dried Octopus
+octopus
+Oysters
+
+Oysters, Cooked Oysters, Baked or Broiled Oysters, Wild Eastern Oyster, Pacific Oyster
+oysters
+Salmon
+
+Salmon, Baked or Broiled Salmon, Atlantic Salmon (Farmed), Pink Salmon, Wild Atlantic Salmon
+salmon
+Sardines
+
+Sardines in Oil (Canned), Sardines in Water, Sardines with Tomato-Based Sauce (Mixture), Sardines with Mustard Sauce (Mixture), Dried Sardines
+sardines
+Scallops
+
+Scallops, Scallop (Mixed Species), Baked or Broiled Scallops, Fried Battered Scallops, Steamed or Boiled Scallops
+scallops
+Seafood
+
+Shrimp, Lobster, Clams, Crab, Mussels
+seafood
+Shrimp
+
+Shrimp, Baked or Broiled Shrimp, Steamed or Boiled Shrimp, Fried or Battered Breaded Floured Shrimp, Shrimp Scampi
+shrimp
+Smoked Salmon
+
+Smoked Salmon, Nova Smoked Salmon, Smoked Chinook Salmon, Sliced Smoked Nova Salmon, Smoked Chinook Salmon (Lox)
+smoked salmon
+Snapper
+
+Snapper (Fish) (Mixed Species), Snapper (Fish) (Mixed Species, Cooked, Dry Heat), Steamed or Poached Porgy, Pacific Red Snapper Fillet, Snapper
+snapper
+Squid
+
+Squid, Fried Breaded Squid, Steamed or Boiled Squid, Broiled Baked Squid, Squid (Mixed Species)
+squid
+Swordfish
+
+Swordfish, Cooked Swordfish, Baked or Broiled Swordfish, Fried Floured or Breaded Swordfish, Steamed or Poached Swordfish
+swordfish
+Tilapia
+
+Tilapia (Fish), Tilapia (Fish) (Cooked, Dry Heat), Tilapia Fillets, Grilled Tilapia, Crusted Tilapia
+tilapia
+Trout
+
+Rainbow Trout (Farmed), Wild Rainbow Trout, Baked or Broiled Trout, Smoked Trout, Cooked Trout
+trout
+Tuna
+
+Tuna in Water (Canned), Tuna in Oil (Canned), Bluefin Tuna (Fish), Yellowfin Tuna (Fish), Baked or Broiled Tuna

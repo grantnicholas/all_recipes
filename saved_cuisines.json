@@ -219,7 +219,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "italian",
         "link": "http://allrecipes.com/recipe/slow-cooker-chicken-and-noodles",
         "name": "Slow Cooker Chicken and Noodles",
         "ingredients": [
@@ -788,7 +788,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/rustic-tuscan-soup-with-kale",
         "name": "Rustic Tuscan Soup with Kale",
         "ingredients": [
@@ -1694,7 +1694,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/easy-butternut-squash-ravioli",
         "name": "Easy Butternut Squash Ravioli",
         "ingredients": [
@@ -2693,7 +2693,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/pepperoni-rolls",
         "name": "Pepperoni Rolls",
         "ingredients": [
@@ -4972,7 +4972,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/buttery-soft-pretzels",
         "name": "Buttery Soft Pretzels",
         "ingredients": [
@@ -5429,7 +5429,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/barbeque-chicken-2",
         "name": "Barbeque Chicken",
         "ingredients": [
@@ -6697,7 +6697,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "link": "http://allrecipes.com/recipe/parmesan-roasted-corn-on-the-cob",
         "name": "Parmesan Roasted Corn on the Cob",
         "ingredients": [
@@ -6869,7 +6869,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/keons-slow-cooker-curry-chicken",
         "name": "Keon's Slow Cooker Curry Chicken",
         "ingredients": [
@@ -7506,7 +7506,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/spaghetti-and-meatballs-muffin-bites",
         "name": "Spaghetti and Meatballs Muffin Bites",
         "ingredients": [
@@ -8367,7 +8367,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/garden-fresh-tomato-soup",
         "name": "Garden Fresh Tomato Soup",
         "ingredients": [
@@ -9516,7 +9516,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/deep-fried-zucchini-spirals",
         "name": "Deep-Fried Zucchini Spirals",
         "ingredients": [
@@ -9743,7 +9743,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/toasted-almond-green-beans",
         "name": "Toasted Almond Green Beans",
         "ingredients": [
@@ -10609,7 +10609,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/roasted-garlic-bread",
         "name": "Roasted Garlic Bread",
         "ingredients": [
@@ -12792,7 +12792,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/zesty-slow-cooker-chicken-barbecue",
         "name": "Zesty Slow Cooker Chicken Barbecue",
         "ingredients": [
@@ -13015,7 +13015,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/old-fashioned-apple-dumplings",
         "name": "Old Fashioned Apple Dumplings",
         "ingredients": [
@@ -14388,7 +14388,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/absolute-mexican-cornbread",
         "name": "Absolute Mexican Cornbread",
         "ingredients": [
@@ -15913,7 +15913,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/zucchini-patties",
         "name": "Zucchini Patties",
         "ingredients": [
@@ -16026,7 +16026,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/sausage-egg-casserole",
         "name": "Sausage Egg Casserole",
         "ingredients": [
@@ -16806,7 +16806,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/irish-root-soup",
         "name": "Irish Root Soup",
         "ingredients": [
@@ -17931,7 +17931,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/easy-tuna-patties",
         "name": "Easy Tuna Patties",
         "ingredients": [
@@ -18171,7 +18171,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/korean-fried-chicken",
         "name": "Korean Fried Chicken",
         "ingredients": [
@@ -20748,7 +20748,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/splendicious-slow-cooker-spaghetti-sauce",
         "name": "Splendicious Slow Cooker Spaghetti Sauce",
         "ingredients": [
@@ -21313,7 +21313,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/slow-cooker-chicken-with-stuffing",
         "name": "Slow Cooker Chicken with Stuffing",
         "ingredients": [
@@ -21660,7 +21660,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mexican",
         "link": "http://allrecipes.com/recipe/no-yolks-beef-noodle-casserole",
         "name": "NO YOLKS\u00ae Beef Noodle Casserole",
         "ingredients": [
@@ -22028,7 +22028,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/pasta-pomodoro",
         "name": "Pasta Pomodoro",
         "ingredients": [
@@ -23837,7 +23837,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/how-to-make-cronuts-part-i",
         "name": "How to Make Cronuts, Part I",
         "ingredients": [
@@ -26351,7 +26351,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/onion-gravy-for-british-bangers-and-mash",
         "name": "Onion Gravy for British Bangers and Mash",
         "ingredients": [
@@ -27026,7 +27026,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/mozzarella-stuffed-pesto-turkey-meatballs",
         "name": "Mozzarella-Stuffed Pesto Turkey Meatballs",
         "ingredients": [
@@ -28320,7 +28320,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/my-crab-cakes",
         "name": "My Crab Cakes",
         "ingredients": [
@@ -28426,7 +28426,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/best-bread-machine-bread",
         "name": "Best Bread Machine Bread",
         "ingredients": [
@@ -28770,7 +28770,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/texas-christmas-pickles",
         "name": "Texas Christmas Pickles",
         "ingredients": [
@@ -29243,7 +29243,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/paulas-bread-sticks",
         "name": "Paula's Bread Sticks",
         "ingredients": [
@@ -30257,7 +30257,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/salsa-mac-and-beef",
         "name": "Salsa Mac and Beef",
         "ingredients": [
@@ -30342,7 +30342,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/no-yolks-noodles-romanoff",
         "name": "NO YOLKS\u00ae Noodles Romanoff",
         "ingredients": [
@@ -30866,7 +30866,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/easy-french-onion-soup-for-guests",
         "name": "Easy French Onion Soup for Guests",
         "ingredients": [
@@ -32208,7 +32208,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/simple-whole-wheat-bread",
         "name": "Simple Whole Wheat Bread",
         "ingredients": [
@@ -34265,7 +34265,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "italian",
         "link": "http://allrecipes.com/recipe/slow-cooker-buffalo-chicken-pizza-loaf",
         "name": "Slow Cooker Buffalo Chicken Pizza Loaf",
         "ingredients": [
@@ -36755,7 +36755,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/crispy-fried-fish",
         "name": "Crispy Fried Fish",
         "ingredients": [
@@ -39220,7 +39220,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/sweet-potato-rolls",
         "name": "Sweet Potato Rolls",
         "ingredients": [
@@ -40587,7 +40587,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "italian",
         "link": "http://allrecipes.com/recipe/quinoa-black-bean-burgers",
         "name": "Quinoa Black Bean Burgers",
         "ingredients": [
@@ -40669,7 +40669,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/grandma-ritas-soft-butter-rolls",
         "name": "Grandma Rita's Soft Butter Rolls",
         "ingredients": [
@@ -41589,7 +41589,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/fluffy-gluten-free-cornbread",
         "name": "Fluffy Gluten Free Cornbread",
         "ingredients": [
@@ -41987,7 +41987,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mexican",
         "link": "http://allrecipes.com/recipe/chef-johns-patatas-bravas",
         "name": "Chef John's Patatas Bravas",
         "ingredients": [
@@ -43210,7 +43210,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/bacon-wrapped-dates-stuffed-with-blue-cheese",
         "name": "Bacon Wrapped Dates Stuffed with Blue Cheese",
         "ingredients": [
@@ -46212,7 +46212,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/recipe/slow-cooker-chicken-pot-pie-stew",
         "name": "Slow Cooker Chicken Pot Pie Stew",
         "ingredients": [
@@ -46626,7 +46626,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/carne-adovada-2",
         "name": "Carne Adovada",
         "ingredients": [
@@ -48562,7 +48562,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "asian",
         "link": "http://allrecipes.com/Recipe/How-to-Make-Cronuts-Part-I",
         "name": "How to Make Cronuts, Part I",
         "ingredients": [
@@ -50051,7 +50051,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "italian",
         "link": "http://allrecipes.com/recipe/chicken-with-garlic-basil-and-parsley",
         "name": "Chicken with Garlic, Basil, and Parsley",
         "ingredients": [
@@ -53747,7 +53747,7 @@
         ]
     },
     {
-        "cuisine": "american",
+        "cuisine": "mediterranean",
         "link": "http://allrecipes.com/recipe/serious-herb-cheese-spread",
         "name": "Serious Herb Cheese Spread",
         "ingredients": [
@@ -53934,7 +53934,7 @@
         ]
     },
     {
-        "cuisine": "mexican",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/amish-hash-browns",
         "name": "Amish Hash Browns",
         "ingredients": [
@@ -54051,7 +54051,7 @@
         ]
     },
     {
-        "cuisine": "italian",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/tender-italian-baked-chicken",
         "name": "Tender Italian Baked Chicken",
         "ingredients": [
@@ -54792,7 +54792,7 @@
         ]
     },
     {
-        "cuisine": "mediterranean",
+        "cuisine": "american",
         "link": "http://allrecipes.com/recipe/sweet-lamb-curry",
         "name": "Sweet Lamb Curry",
         "ingredients": [

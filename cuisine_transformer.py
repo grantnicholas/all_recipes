@@ -79,7 +79,7 @@ def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, f
     for ingred in sorted_ingreds:
         if replacement_ingreds[ingred[4]] != []:
             new_ingred = random.choice(replacement_ingreds[ingred[4]])
-            new_recipe["ingredients"][ingred[3]] = {"amount": "new ingred",
+            new_recipe["ingredients"][ingred[3]] = {"quantity": "new ingred",
                                                     "name": new_ingred}
 
     print "--------------OLDRECIPE-----------"
@@ -92,7 +92,7 @@ def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, f
 def main():
     FoodClassifier = FoodCuisineClassifier()
     convert_recipes_to_cuisine(FoodClassifier.ingred_dict, "italian")
-
+    
 
 if __name__ == '__main__':
     main()

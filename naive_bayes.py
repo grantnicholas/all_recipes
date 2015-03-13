@@ -98,6 +98,7 @@ def classify_string_with_prob(ingred_dict, astring):
     return cat2, val2
 
 
+
 def main():
     print "no main function"
 

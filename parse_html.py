@@ -37,7 +37,7 @@ def ingredli_to_ingredient(ingred_li):
     name = name_span.text if name_span is not None else "not found"
     amount = amount_span.text if amount_span is not None else "not found"
     a_ingredient = {"name": name,
-                    "amount": amount}
+                    "quantity": amount}
     return a_ingredient
 
 

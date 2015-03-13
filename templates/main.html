@@ -1,0 +1,35 @@
+{% extends "layout.html" %}
+{% import 'recipe_partial.html' as partial %}			
+
+{% block body %}
+
+<div id="whole_page">
+	<h1>Recipe Transformer</h1>
+	<form action="/urlForm">
+		Enter Receipe URL: <input type="text" name="url">
+		<input type="submit" value="Submit">
+	</form>
+
+	{% if recipe %}
+		<h2>Transformation</h2>
+		<button class="button" id="vegetarian">Vegetarian</button>
+		<button class="button" id="italian">Italian</button>
+
+		<h3>{{recipe.name}}</h3>
+		<p>recipe from: {{recipe.url}} </p>
+		<h4>Cusisine: {{recipe.cuisine}} </h4>
+		<div class="recipe">
+			<h3> Original Recipe </h3>
+			{{ partial.populate(recipe) }}
+		</div>
+		{% if new_recipe %}
+		<div class="recipe">
+			<h3> New Recipe </h3>
+			{{ partial.populate(new_recipe) }}
+		</div>
+		{% endif %}
+
+	{% endif %}
+</div>
+
+{% endblock %}

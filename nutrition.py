@@ -147,39 +147,39 @@ testrecipe = {
         ],
         "ingredients": [
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "seasoned salt (such as LAWRY'S\u00ae)"
             },
             {
-                "amount": "1 pound",
+                "quantity": "1 pound",
                 "name": "bacon"
             },
             {
-                "amount": "9 2/3 tablespoon",
+                "quantity": "9 2/3 tablespoon",
                 "name": "garlic powder"
             },
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "onion powder"
             },
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "ground paprika"
             },
             {
-                "amount": "2 teaspoons",
+                "quantity": "2 teaspoons",
                 "name": "Worcestershire sauce"
             },
             {
-                "amount": "1 teaspoon",
+                "quantity": "1 teaspoon",
                 "name": "liquid smoke flavoring"
             },
             {
-                "amount": "4",
+                "quantity": "4",
                 "name": "bone-in pork chops (1/2 to 3/4 inch thick)"
             }
         ],
-        "primary_method": "bake",
+        "primary cooking method": "bake",
         "directions": [
             "Preheat an outdoor grill for medium heat, and lightly oil the grate.",
             "In a bowl, mix together the seasoned salt, black pepper, garlic powder, onion powder, paprika, Worcestershire sauce, and smoke flavoring until thoroughly combined. Rinse pork chops, and sprinkle the wet chops on both sides with the spice mixture. With your hands, massage the spice rub into the meat; allow to stand for 10 minutes.",
@@ -195,9 +195,9 @@ def increase_fat(recipe):
             curr_ingredient = ingredient["name"]
             alt_ingredient = high_fat_ingredient_sub[curr_ingredient]
             ingredient["name"] = alt_ingredient
-    curr_method = recipe["primary_method"]
+    curr_method = recipe["primary cooking method"]
     if curr_method in high_fat_method_sub.keys():
-        recipe["primary_method"] = high_fat_method_sub[curr_method]
+        recipe["primary cooking method"] = high_fat_method_sub[curr_method]
     return recipe
 
 #takes the main dictionary section of the recipe (the value corresponding to the URL key) and lowers the fat in the ingredients
@@ -207,9 +207,9 @@ def decrease_fat(recipe):
             curr_ingredient = ingredient["name"]
             alt_ingredient = low_fat_ingredient_sub[curr_ingredient]
             ingredient["name"] = alt_ingredient
-    curr_method = recipe["primary_method"]
+    curr_method = recipe["primary cooking method"]
     if curr_method in low_fat_method_sub.keys():
-        recipe["primary_method"] = low_fat_method_sub[curr_method]
+        recipe["primary cooking method"] = low_fat_method_sub[curr_method]
     return recipe
 
 # def decrease_salt(recipe):

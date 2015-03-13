@@ -1,3 +1,6 @@
+#main_server.py
+run python main_server.py and go to http://127.0.0.1:5000/ to see the web page
+
 #crawlr.py 
 Starts at an arbitrary starting place at allrecipes.com and then crawls the website for recipes; it saves the visited recipes in a dictionary with the key being the link and the value being the parsed html. This dictionary is then written to file when it is done [saved_crawlr.json].
 

@@ -92,7 +92,7 @@ def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, f
 def main():
     FoodClassifier = FoodCuisineClassifier()
     convert_recipes_to_cuisine(FoodClassifier.ingred_dict, "italian")
-
+    
 
 if __name__ == '__main__':
     main()

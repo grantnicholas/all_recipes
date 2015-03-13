@@ -1,9 +1,10 @@
 from flask import render_template, Flask, request
 from crawlr import Crawler
-from naive_bayes import web_create_recipe
+from format_autograder import web_create_recipe
 import vegetarian
 import json 
 import copy
+from cuisine_transformer import CuisineTransformer
 
 app = Flask(__name__)
 original_recipe_json = {}
@@ -38,10 +39,16 @@ def button_option(option):
 	return render_template('main.html', recipe = original_recipe_json[0], new_recipe = new_recipe)
 
 def option_dict(option, original):
-	option_dict = {
-		"vegetarian": vegetarian.make_vegetarian(original)
-	}
-	return option_dict[option]
+	if option == "vegetarian":
+		return vegetarian.make_vegetarian(original)
+	elif option == "italian":
+		return cuisine_change(option, original)
+	else:
+		return original
+
+def cuisine_change(option, original):
+	original["cuisine"] = option
+	return CuisineTransformer().transform_recipe(original, option) 
 
 if __name__ == '__main__':
 	app.debug = True

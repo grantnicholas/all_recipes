@@ -147,35 +147,35 @@ testrecipe = {
         ],
         "ingredients": [
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "seasoned salt (such as LAWRY'S\u00ae)"
             },
             {
-                "amount": "1 pound",
+                "quantity": "1 pound",
                 "name": "bacon"
             },
             {
-                "amount": "9 2/3 tablespoon",
+                "quantity": "9 2/3 tablespoon",
                 "name": "garlic powder"
             },
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "onion powder"
             },
             {
-                "amount": "1 tablespoon",
+                "quantity": "1 tablespoon",
                 "name": "ground paprika"
             },
             {
-                "amount": "2 teaspoons",
+                "quantity": "2 teaspoons",
                 "name": "Worcestershire sauce"
             },
             {
-                "amount": "1 teaspoon",
+                "quantity": "1 teaspoon",
                 "name": "liquid smoke flavoring"
             },
             {
-                "amount": "4",
+                "quantity": "4",
                 "name": "bone-in pork chops (1/2 to 3/4 inch thick)"
             }
         ],

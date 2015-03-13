@@ -3,13 +3,13 @@
 	<h4>Ingredients</h4>
 	{% for i in recipe.ingredients %}
 		<li class="ingredient">
-			{{i.name}}: {{i.amount}}
+			{{i.name}}: {{i.quantity}}
 		</li>
 	{% endfor %}
 </div>
 <div class="tools">
 	<h4>Tools</h4>
-	{% for t in recipe.tools %}
+	{% for t in recipe["cooking tools"] %}
 		<li class="tool">
 			{{t}}
 		</li>
@@ -18,9 +18,9 @@
 <div class="methods">
 	<h4>Methods</h4>
 	<h5>Primary Method</h5>
-	{{recipe.primary_method}}
+	{{recipe["primary cooking method"]}}
 	<h5>Secondary Method</h5>
-	{% for m in recipe.secondary_methods %}
+	{% for m in recipe["cooking methods"] %}
 		<li>{{m}}</li> 
 	{% endfor %}
 </div>

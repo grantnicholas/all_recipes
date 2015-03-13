@@ -13,9 +13,11 @@
 	{% if recipe %}
 		<h2>Transformation</h2>
 		<button class="button" id="vegetarian">Vegetarian</button>
+		<button class="button" id="italian">Italian</button>
 
 		<h3>{{recipe.name}}</h3>
-		<p>recipe from: {{recipe.link}} </p>
+		<p>recipe from: {{recipe.url}} </p>
+		<h4>Cusisine: {{recipe.cuisine}} </h4>
 		<div class="recipe">
 			<h3> Original Recipe </h3>
 			{{ partial.populate(recipe) }}

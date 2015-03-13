@@ -21,7 +21,7 @@ Lasagna with Meat, Lasagna with Meat and Spinach, Lasagna with Chicken or Turkey
 lasagna
 Macaroni
 
-Macaroni, Whole Wheat Macaroni, Spinach Macaroni, Vegetable Macaroni, Macaroni or Noodles with Cheese
+Macaroni, Whole Wheat Macaroni, Spinach Macaroni, Macaroni, Macaroni or Noodles with Cheese
 macaroni
 Macaroni and Cheese
 
@@ -41,7 +41,7 @@ Spaghetti, Pasta with Meat Sauce, Meatless Pasta with Tomato Sauce, Whole Wheat 
 pasta
 Pilaf
 
-Rice Pilaf, Wheat Pilaf, 7 Whole Grain Pilaf, Whole Grain Blends - Brown Rice Pilaf, Lean Gourmet Vegetable Rice Pilaf
+Rice Pilaf, Wheat Pilaf, 7 Whole Grain Pilaf, Whole Grain Blends - Brown Rice Pilaf, Lean Gourmet Rice Pilaf
 pilaf
 Polenta
 

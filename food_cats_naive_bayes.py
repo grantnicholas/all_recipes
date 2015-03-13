@@ -1,14 +1,17 @@
-import json
 from pprint import pprint
 import process_it
 import naive_bayes as nb
-import string
-import re
+from stemming.porter2 import stem
 
 
-# def remove_punc(astring):
-#     new_str = astring.translate(string.maketrans("",""), string.punctuation)
-#     return new_str
+class FoodTypeClassifier:
+
+    def __init__(self):
+        self.bayes_dict = create_bayes_dict(create_food_category_dict())
+
+    def classify_string(self, astring):
+        stemmed_string = stem(astring)
+        return nb.classify_string(self.bayes_dict, stemmed_string)
 
 
 def file_to_dict(filename):
@@ -19,11 +22,11 @@ def file_to_dict(filename):
             words = line.split(" ")
             for word in words:
                 if word not in stop_words:
-                    lower_word = process_it.remove_punc(word.lower())
+                    lower_word = stem(process_it.remove_punc(word.lower()))
                     if lower_word in adict:
-                        adict[lower_word]+=1
+                        adict[lower_word] += 1
                     else:
-                        adict[lower_word]=1
+                        adict[lower_word] = 1
     # pprint(adict)
     return adict
 
@@ -43,8 +46,9 @@ def create_food_category_dict():
     food_dict["sweets"] = file_to_dict("./files_to_learn/sweets.txt")
     food_dict["vegetables"] = file_to_dict("./files_to_learn/vegetables.txt")
 
-    # pprint(food_dict)
+    pprint(food_dict)
     return food_dict
+
 
 def create_bayes_dict(food_dict):
     ingred_dict = {food: {"data": data, "count": 0}
@@ -54,14 +58,6 @@ def create_bayes_dict(food_dict):
                     cuisine]["data"].iteritems())
         ingred_dict[cuisine]["count"] = count
     return ingred_dict
-
-class FoodTypeClassifier:
-
-    def __init__(self):
-        self.bayes_dict = create_bayes_dict(create_food_category_dict())
-
-    def classify_string(self, astring):
-        return nb.classify_string(self.bayes_dict, astring)
 
 
 def main():

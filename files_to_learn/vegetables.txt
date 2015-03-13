@@ -103,10 +103,10 @@ Olives
 
 Olives, Black Olives, Green Olives, Stuffed Green Olives, Green Olives (Pickled, Canned or Bottled)
 olives
-Onions
+Onions, red onion, spring onion, green onion, young green onion
 
 Onions, Red Onions, Scallions or Spring Onions, Sweet Onions, Young Green Onions
-onions
+onion, onion
 Parsnips
 
 Parsnips, Cooked Parsnips, Creamed Parsnips, Parsnips  Parsnip Chips
@@ -160,6 +160,8 @@ Turnips
 Turnips, Cooked Turnip, Cooked Turnip (Canned), Cooked Turnip (from Fresh), Cooked Turnip (from Frozen)
 turnips
 Yam
+
+Vegetable, vegetable, vegetables
 
 Yam, Yam  (Drained, Cooked, Boiled), Yam (Drained, Cooked, Boiled, Baked), Hawaii Mountain Yam, Hawaii Mountain Yam (Steamed, Cooked)
 yam

@@ -35,6 +35,12 @@ rice    => noodles
 #format_autograder.py 
 File used to make the final_struture.json 
 
+#files_to_learn
+data used to train the naive bayesian food type classifier
+
+data taken from:
+http://www.fatsecret.com/calories-nutrition/group/salads
+
 
 #tldr
     All the parsing magic happens in soup_to_Recipe which is located in 

@@ -45,7 +45,7 @@ def _classify_recipe_by_ingredients(ingred_dict, recipe):
 
 def classify_recipe_by_ingredients(ingred_dict, link, recipe):
     cuisine = _classify_recipe_by_ingredients(ingred_dict, recipe)
-    classified_recipe = {"link": link,
+    classified_recipe = {"url": link,
                          "name": recipe["name"],
                          "ingredients": recipe["ingredients"],
                          "cuisine": cuisine}

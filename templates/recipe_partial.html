@@ -1,0 +1,27 @@
+{% macro populate(recipe) %}
+<div class="ingredients">
+	<h4>Ingredients</h4>
+	{% for i in recipe.ingredients %}
+		<li class="ingredient">
+			{{i.name}}: {{i.quantity}}
+		</li>
+	{% endfor %}
+</div>
+<div class="tools">
+	<h4>Tools</h4>
+	{% for t in recipe["cooking tools"] %}
+		<li class="tool">
+			{{t}}
+		</li>
+	{% endfor %}
+</div>
+<div class="methods">
+	<h4>Methods</h4>
+	<h5>Primary Method</h5>
+	{{recipe["primary cooking method"]}}
+	<h5>Secondary Method</h5>
+	{% for m in recipe["cooking methods"] %}
+		<li>{{m}}</li> 
+	{% endfor %}
+</div>
+{% endmacro %}

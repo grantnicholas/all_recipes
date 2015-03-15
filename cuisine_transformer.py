@@ -5,18 +5,21 @@ import food_cats_naive_bayes as fc
 import copy
 import random
 import naive_bayes as nb
+import re
 
 
 class CuisineTransformer:
 
     def __init__(self):
         self.food_classifier = FoodCuisineClassifier()
-        self.ingred_dict = FoodCuisineClassifier().ingred_dict
-        self.forbidden_ingredients = set(["small", "large", "leaf", "1inch", "prepared", "unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground",
+        self.ingred_dict = self.food_classifier.ingred_dict
+        self.forbidden_ingredients = set(["light", "torn", "inches", "parts", "cold", "blend", "mix", "new", "liquid", "strips", "slices", "dry", "heavy", "pieces", "deveined", "hair", "uncooked", "cooked", "small", "large", "leaf", "1inch", "prepared", "unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground",
                                           "seeded", "peeled", "drained", "red", "green", "yellow", "bell", "white", "seasoning", "fresh", "cut", "boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt", "chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "", " "])
+        [self.forbidden_ingredients.add(str(num)) for num in range(100)]
+        self.forbidden_endings = ["ly", "ed", "ing", "ers"]
 
     def transform_recipe(self, recipe, newcuisine):
-        return convert_recipe_to_cuisine(self.ingred_dict, recipe, self.food_classifier, newcuisine, self.forbidden_ingredients)
+        return convert_recipe_to_cuisine(self.ingred_dict, recipe, self.food_classifier, newcuisine, self.forbidden_ingredients, self.forbidden_endings)
 
 
 def get_dict_topn(thedict, n):
@@ -30,18 +33,19 @@ def convert_recipes_to_cuisine(ingred_dict, newcuisine):
     forbidden_ingredients = set(["small", "large", "leaf", "1inch", "prepared", "unsalted", "divided", "lean", "fat", "american", "sweetened", "roasted", "extract", "freshly", "undrained", "melted", "blue", "split", "removed", "degrees", "inch", "12inch", "thinly", "thin", "flakes", "crumbs", "cubes", "canned", "cored", "cubed", "kidney", "stewed", "extra", "beaten", "baby", "sauce", "diced", "crumbled", "black", "halves", "crushed", "vegetable", "fruit", "dairy", "minced", "boneless", "sliced", "chopped", "skinless", "grated", "finely", "taste", "ground",
                                  "seeded", "peeled", "drained", "red", "green", "yellow", "bell", "white", "seasoning", "fresh", "cut", "boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil", "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt", "chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate", "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "", " "])
     [forbidden_ingredients.add(str(num)) for num in range(100)]
+    forbidden_endings = ["ly", "ed", "ing", "ers"]
 
     with open("saved_crawlr.json", "r") as f:
         recipes = json.load(f)
         for recipe_link, recipe in recipes.iteritems():
             new_recipes.append(
                 convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier,
-                                          newcuisine, forbidden_ingredients))
+                                          newcuisine, forbidden_ingredients, forbidden_endings))
 
     return new_recipes
 
 
-def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, forbidden_ingredients):
+def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, forbidden_ingredients, forbidden_endings):
     cuisine = _classify_recipe_by_ingredients(ingred_dict, recipe)
     if cuisine == newcuisine:
         print "must transform recipe to a NEW cuisine"
@@ -65,8 +69,8 @@ def convert_recipe_to_cuisine(ingred_dict, recipe, FoodClassifier, newcuisine, f
     # It is ALWAYS ok to ignore these words; even though we are hardcoding them the approach will generalize
     # as "thinly" or "split" or "black" or "chopped" are not ingredients
 
-    best_cuisine_replacements = filter(lambda x: x not in forbidden_ingredients, map(
-        lambda x: x[0], get_dict_topn(ingred_dict[newcuisine]["data"], 200)))
+    best_cuisine_replacements = filter(lambda x: not any([x.endswith(ending) for ending in forbidden_endings]), filter(lambda x: x not in forbidden_ingredients, map(
+        lambda x: x[0], get_dict_topn(ingred_dict[newcuisine]["data"], 100))))
 
     for replacement in best_cuisine_replacements:
         typeof_food = FoodClassifier.classify_string(replacement)
@@ -96,3 +100,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+GLOBAL_CUISINE_TRANSFORMER = CuisineTransformer()

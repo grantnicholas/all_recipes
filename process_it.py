@@ -117,12 +117,12 @@ def get_cuisine_dicts():
         cuisine_dict["italian"] = italian_dict
 
         is_asian_string = make_string_searcher(
-            "china|chinese|asian|stir-fry|stir\sfry|fried\srice|sesame|spring\sroll|hoisin|tapioca|teryiaki|soy|tofu")
+            "china|chinese|asian|stir-fry|stir\sfry|fried\srice|sesame|spring\sroll|hoisin|tapioca|teryiaki|soy|tofu|sushi|japan|japanese|fish\ssauce|rice\svinegar|sriracha|oyster\ssauce|miso|sake|noodles|curry")
         chinese_dict = learn_cuisine(data, is_asian_string)
         cuisine_dict["asian"] = chinese_dict
 
         is_american_string = make_string_searcher(
-            "america|american|mac\sand\scheese|hot\sdog|southern|bbq|kraft|processed|oakra|grits|burger|hamburger|fries|chicken\stender|ketchup|ranch|mayo|roast|meatloaf|spam|oscar|cream\scheese")
+            "america|american|mac\sand\scheese|hot\sdog|southern|bbq|kraft|processed|oakra|grits|burger|hamburger|fries|chicken\stender|ketchup|ranch|mayo|roast|meatloaf|spam|oscar|cream\scheese|fried|fry")
         american_dict = learn_cuisine(data, is_american_string)
         cuisine_dict["american"] = american_dict
 
@@ -131,7 +131,12 @@ def get_cuisine_dicts():
         medit_dict = learn_cuisine(data, is_medit_string)
         cuisine_dict["mediterranean"] = medit_dict
 
-    pprint(cuisine_dict)
+        is_french_string = make_string_searcher(
+            "french|herbes\sde\sprovence|leeks|dijon|shallot|tarragon|wine|baguette|goose|brie|lardon|truffle|mushroom")
+        french_dict = learn_cuisine(data, is_french_string)
+        cuisine_dict["french"] = french_dict
+
+    # pprint(cuisine_dict)
     return cuisine_dict
 
 
@@ -160,7 +165,7 @@ def main():
         pprint_dict_topn(american_dict, 10)
 
         is_indian_string = make_string_searcher(
-            "india|indian|curry")
+            "india|indian|curry|naan|cumin|coriander|garam|cardamom|lentils|chickpeas|mustard\sseed|turmeric|cloves|paneer|fenugreek|saffron|ghee")
         indian_dict = learn_cuisine(data, is_indian_string)
         pprint_dict_topn(indian_dict, 10)
 

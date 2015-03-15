@@ -46,7 +46,7 @@ def create_food_category_dict():
     food_dict["sweets"] = file_to_dict("./files_to_learn/sweets.txt")
     food_dict["vegetables"] = file_to_dict("./files_to_learn/vegetables.txt")
 
-    pprint(food_dict)
+    # pprint(food_dict)
     return food_dict
 
 

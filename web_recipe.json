@@ -1,0 +1,60 @@
+[
+    {
+        "cuisine": "french",
+        "name": "Southern BBQ Chicken",
+        "ingredients": [
+            {
+                "name": "brown sugar",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "cloves garlic, chopped",
+                "quantity": "2 large cloves"
+            },
+            {
+                "name": "salt",
+                "quantity": "2 teaspoons"
+            },
+            {
+                "name": "black pepper",
+                "quantity": "1 teaspoon"
+            },
+            {
+                "name": "chicken drumsticks",
+                "quantity": "10"
+            },
+            {
+                "name": "vegetable oil",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "finely chopped onion",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "ketchup",
+                "quantity": "3/4 cup"
+            },
+            {
+                "name": "white wine vinegar",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "Worcestershire sauce",
+                "quantity": "2 tablespoons"
+            }
+        ],
+        "url": "http://allrecipes.com/recipe/southern-bbq-chicken",
+        "cooking methods": [
+            "marinate",
+            "squeeze",
+            "stir",
+            "grate"
+        ],
+        "primary cooking method": "baste",
+        "cooking tools": [
+            "mortar and pestle",
+            "saucepan"
+        ]
+    }
+]

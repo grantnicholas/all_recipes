@@ -1,5 +1,6 @@
 from process_it import get_cuisine_dicts
 import naive_bayes as nb
+from pprint import pprint
 
 
 class FoodCuisineClassifier:
@@ -54,7 +55,22 @@ def classify_recipe_by_ingredients(ingred_dict, link, recipe):
 
 def main():
     CuisineClassifier = FoodCuisineClassifier()
+    # pprint(CuisineClassifier.ingred_dict["indian"])
+    for ingred,adict in CuisineClassifier.ingred_dict.iteritems():
+        print ingred, adict["count"]
+
     print CuisineClassifier.classify_string("lime and salsa")
+    print CuisineClassifier.classify_string("rice and curry")
+    print CuisineClassifier.classify_string("curry fries")
+    print CuisineClassifier.classify_string("tika masala")
+    print CuisineClassifier.classify_string("green curry")
+    print CuisineClassifier.classify_string("dijon chicken")
+    print CuisineClassifier.classify_string("herb duck")
+    print CuisineClassifier.classify_string("pasta with olive oil")
+    print CuisineClassifier.classify_string("cheese potato pancake")
+    print CuisineClassifier.classify_string("cheese fries")
+    print CuisineClassifier.classify_string("chocolate cake")
+    print CuisineClassifier.classify_string("deep fried chicken")
 
 
 if __name__ == '__main__':

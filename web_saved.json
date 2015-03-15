@@ -1,0 +1,105 @@
+{
+    "http://allrecipes.com/recipe/southern-bbq-chicken": {
+        "ratings": {
+            "1": "not found",
+            "3": "2 cooks thought it was OK",
+            "2": "not found",
+            "5": "4 cooks loved it!",
+            "4": "2 cooks liked it!"
+        },
+        "name": "Southern BBQ Chicken",
+        "nutrition": [
+            {
+                "units": "424 kcal",
+                "percentages": "21%",
+                "categories": "Calories"
+            },
+            {
+                "units": "18.2 g",
+                "percentages": "6%",
+                "categories": "Carbohydrates"
+            },
+            {
+                "units": "128 mg",
+                "percentages": "43%",
+                "categories": "Cholesterol"
+            },
+            {
+                "units": "21.3 g",
+                "percentages": "33%",
+                "categories": "Fat"
+            },
+            {
+                "units": "0.5 g",
+                "percentages": "2%",
+                "categories": "Fiber"
+            },
+            {
+                "units": "39 g",
+                "percentages": "78%",
+                "categories": "Protein"
+            },
+            {
+                "units": "1528 mg",
+                "percentages": "61%",
+                "categories": "Sodium"
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "brown sugar",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "cloves garlic, chopped",
+                "quantity": "2 large cloves"
+            },
+            {
+                "name": "salt",
+                "quantity": "2 teaspoons"
+            },
+            {
+                "name": "black pepper",
+                "quantity": "1 teaspoon"
+            },
+            {
+                "name": "chicken drumsticks",
+                "quantity": "10"
+            },
+            {
+                "name": "vegetable oil",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "finely chopped onion",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "ketchup",
+                "quantity": "3/4 cup"
+            },
+            {
+                "name": "white wine vinegar",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "Worcestershire sauce",
+                "quantity": "2 tablespoons"
+            }
+        ],
+        "directions": [
+            "Mash brown sugar, garlic, salt, and pepper together in a mortar and pestle to form a paste. Spoon paste into a resealable plastic bag. Add the chicken, coat with the paste, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 8 hours to overnight.",
+            "Heat oil in a small saucepan over medium heat. Cook and stir onion in hot oil until softened, about 5 minutes. Stir ketchup, vinegar, and Worcestershire sauce into onions; bring to a simmer and cook until flavors blend, about 10 minutes.",
+            "Preheat grill for medium heat and lightly oil the grate. Remove chicken from bag and discard marinade.",
+            "Cook chicken on the preheated grill until lightly browned on all sides, about 1 minute per side.",
+            "Turn off one of the grill burners or move the coals and move chicken so there is no heat source diretly below it.",
+            "Baste drumsticks with the sauce and cook another 10 minutes; turn and again and baste the chicken with the sauce. Continue to drumsticks until juices run clear, 10 to 15 minutes more. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)"
+        ],
+        "footnotes": [
+            "\r\n                        Cook's Note:\r\n                        \n",
+            "\r\n                        You can also blend the brown sugar, garlic, salt, and pepper in a blender or food processor to make the marinade paste.\r\n                        \n",
+            "\r\n                        Nutrition:\r\n                        \n",
+            "\r\n                        The nutrition data for this recipe includes the full amount of the marinade ingredients. The actual amount of the marinade consumed will vary.\r\n                        \n"
+        ]
+    }
+}

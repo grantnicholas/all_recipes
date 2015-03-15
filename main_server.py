@@ -4,7 +4,7 @@ from format_autograder import web_create_recipe
 import vegetarian
 import json 
 import copy
-from cuisine_transformer import CuisineTransformer
+from cuisine_transformer import GLOBAL_CUISINE_TRANSFORMER
 
 app = Flask(__name__)
 original_recipe_json = {}
@@ -41,14 +41,16 @@ def button_option(option):
 def option_dict(option, original):
 	if option == "vegetarian":
 		return vegetarian.make_vegetarian(original)
-	elif option == "italian":
+	elif option in set(["italian", "mexican", "asian", "american", "mediterranean", "french"]):
 		return cuisine_change(option, original)
 	else:
 		return original
 
 def cuisine_change(option, original):
 	original["cuisine"] = option
-	return CuisineTransformer().transform_recipe(original, option) 
+	#Don't rebuild the cuisine transformer for every request as that is expensive
+	#use some module level immutable global state
+	return GLOBAL_CUISINE_TRANSFORMER.transform_recipe(original, option) 
 
 if __name__ == '__main__':
 	app.debug = True

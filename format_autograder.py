@@ -2,6 +2,8 @@ import json
 import ingredients_naive_bayes as ib
 from process_it import get_cuisine_dicts
 import naive_bayes as nb
+from crawlr import Crawler
+from pprint import pprint
 
 
 def create_recipe_data_structures(ingred_dict, saved_file, final_structure_file):
@@ -63,6 +65,19 @@ def main():
 def web_create_recipe(saved_file, final_structure_file):
     ingred_dict = ib.get_dict(get_cuisine_dicts())["ingredients"]
     create_recipe_data_structures(ingred_dict, saved_file, final_structure_file)
+
+
+def url_to_recipe_autograder(url):
+    print 'calling function'
+    crawler = Crawler(url)
+    crawler.crawl_ntimes(1)
+    crawler.write_to_file('_auto.json')
+    web_create_recipe('_auto.json', 'auto.json')
+    with open('auto.json', 'r') as f:
+        text = f.read()
+        original_recipe_json = json.loads(text)
+    pprint(original_recipe_json[0])
+    return original_recipe_json[0]
 
 
 if __name__ == '__main__':

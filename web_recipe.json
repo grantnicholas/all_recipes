@@ -1,54 +1,40 @@
 [
     {
-        "cuisine": "french",
-        "name": "Easier Chicken Marsala",
+        "cuisine": "asian",
+        "name": "World's Best Honey Garlic Pork Chops",
         "ingredients": [
             {
-                "name": "all-purpose flour",
-                "quantity": "1/4 cup"
-            },
-            {
-                "name": "garlic salt",
-                "quantity": "1/2 teaspoon"
-            },
-            {
-                "name": "ground black pepper",
-                "quantity": "1/4 teaspoon"
-            },
-            {
-                "name": "dried oregano",
-                "quantity": "1/2 teaspoon"
-            },
-            {
-                "name": "boneless, skinless chicken breast halves",
-                "quantity": "4"
-            },
-            {
-                "name": "olive oil",
-                "quantity": "1 tablespoon"
-            },
-            {
-                "name": "butter",
-                "quantity": "1 tablespoon"
-            },
-            {
-                "name": "sliced fresh mushrooms",
-                "quantity": "1 cup"
-            },
-            {
-                "name": "Marsala wine",
+                "name": "ketchup",
                 "quantity": "1/2 cup"
+            },
+            {
+                "name": "honey",
+                "quantity": "2 2/3 tablespoons"
+            },
+            {
+                "name": "low-sodium soy sauce",
+                "quantity": "2 tablespoons"
+            },
+            {
+                "name": "garlic, crushed",
+                "quantity": "2 cloves"
+            },
+            {
+                "name": "(1-inch thick) pork chops",
+                "quantity": "6 (4 ounce)"
             }
         ],
-        "url": "http://allrecipes.com/Recipe/Easier-Chicken-Marsala",
+        "url": "http://allrecipes.com/Recipe/Worlds-Best-Honey-Garlic-Pork-Chops",
         "cooking methods": [
-            "stir",
-            "reduce"
+            "grate",
+            "glaze",
+            "chop",
+            "sear"
         ],
-        "primary cooking method": "simmer",
+        "primary cooking method": "sear",
         "cooking tools": [
             "bowl",
-            "skillet"
+            "whisk"
         ]
     }
 ]

@@ -1,0 +1,45 @@
+[
+    {
+        "cuisine": "asian",
+        "name": "Easy Garlic Broiled Chicken",
+        "ingredients": [
+            {
+                "name": "butter",
+                "quantity": "1/2 cup"
+            },
+            {
+                "name": "minced garlic",
+                "quantity": "3 tablespoons"
+            },
+            {
+                "name": "soy sauce",
+                "quantity": "3 tablespoons"
+            },
+            {
+                "name": "black pepper",
+                "quantity": "1/4 teaspoon"
+            },
+            {
+                "name": "dried parsley",
+                "quantity": "1 tablespoon"
+            },
+            {
+                "name": "boneless chicken thighs, with skin",
+                "quantity": "6"
+            },
+            {
+                "name": "dried parsley, to taste",
+                "quantity": "not found"
+            }
+        ],
+        "url": "http://allrecipes.com/Recipe/Easy-Garlic-Broiled-Chicken",
+        "cooking methods": [],
+        "primary cooking method": "broil",
+        "cooking tools": [
+            "baking pan",
+            "oven",
+            "bowl",
+            "microwave"
+        ]
+    }
+]

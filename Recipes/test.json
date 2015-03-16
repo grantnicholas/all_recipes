@@ -1,0 +1,76 @@
+{
+    "url": "http://allrecipes.com/Recipe/Easy-Garlic-Broiled-Chicken/",
+    "ingredients": [{
+            "name": ["butter"],
+            "quantity": [0.5],
+            "measurement": ["cup"],
+            "descriptor": [],
+            "preparation": [],
+            "prep-description": [],
+            "max": 3
+        },
+        {
+            "name": ["garlic", "minced garlic"],
+            "quantity": [3],
+            "measurement": ["tablespoons","tablespoon"],
+            "descriptor": [],
+            "preparation": ["minced"],
+            "prep-description": [],
+            "max": 4
+        },
+        {
+            "name": ["soy sauce"],
+            "quantity": [3],
+            "measurement": ["tablespoons", "tablespoon"],
+            "descriptor": [],
+            "preparation": [],
+            "prep-description": [],
+            "max": 3
+        },
+        {
+            "name": ["pepper", "black pepper"],
+            "quantity": [0.25],
+            "measurement": ["teaspoon"],
+            "descriptor": ["black"],
+            "preparation": [],
+            "prep-description": [],
+            "max": 4
+        },
+        {
+            "name": ["parsley", "dried parsley"],
+            "quantity": [1],
+            "measurement": ["tablespoon"],
+            "descriptor": ["dried"],
+            "preparation": ["dried"],
+            "prep-description": [],
+            "max": 4
+        },
+        {
+            "name": ["chicken","chicken thighs","boneless chicken thighs","boneless chicken","boneless chicken thighs, with skin"],
+            "quantity": [6],
+            "measurement": ["thighs", "unit", "units","discrete"],
+            "descriptor": ["boneless", "with skin", "thighs","boneless thighs, with skin"],
+            "preparation": ["boneless","with skin"],
+            "prep-description": [],
+            "max": 5
+        },
+        {
+            "name": ["parsley", "dried parsley","dried parsley, to taste"],
+            "quantity": [0,1,"none"],
+            "measurement": ["to taste", "taste"],
+            "descriptor": ["dried","dried, to taste"],
+            "preparation": ["dried"],
+            "prep-description": [],
+            "max": 4
+        }
+    ],
+    "max": {
+        "ingredients": 27,
+        "primary cooking method": 1,
+        "cooking tools": 6,
+        "cooking methods": 11
+    },
+    "primary cooking method": "broil",
+    "cooking methods":["grease","greasing","preheat","preheating","mix","mixing","melted","melting","arrange","arranging","microwave","microwaving","coat","coating","basting","broil","broiling","turning","sprinkle","sprinkling"],
+    "cooking tools": ["oven","knife", "baking pan", "microwave safe bowl", "microwave", "baster"]
+}

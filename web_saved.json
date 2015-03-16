@@ -1,76 +1,85 @@
 {
-    "http://allrecipes.com/Recipe/Worlds-Best-Honey-Garlic-Pork-Chops": {
+    "http://allrecipes.com/Recipe/Easy-Garlic-Broiled-Chicken": {
         "ratings": {
-            "1": "not found",
-            "3": "not found",
-            "2": "not found",
-            "5": "9 cooks loved it!",
-            "4": "5 cooks liked it!"
+            "1": "11 cooks couldn't eat it",
+            "3": "101 cooks thought it was OK",
+            "2": "33 cooks didn't like it",
+            "5": "1,002 cooks loved it!",
+            "4": "417 cooks liked it!"
         },
-        "name": "World's Best Honey Garlic Pork Chops",
+        "name": "Easy Garlic Broiled Chicken",
         "nutrition": [
             {
-                "units": "208 kcal",
-                "percentages": "10%",
+                "units": "303 kcal",
+                "percentages": "15%",
                 "categories": "Calories"
             },
             {
-                "units": "13.5 g",
-                "percentages": "4%",
+                "units": "2.3 g",
+                "percentages": "\n",
                 "categories": "Carbohydrates"
             },
             {
-                "units": "65 mg",
-                "percentages": "22%",
+                "units": "99 mg",
+                "percentages": "33%",
                 "categories": "Cholesterol"
             },
             {
-                "units": "5.6 g",
-                "percentages": "9%",
+                "units": "25.1 g",
+                "percentages": "39%",
                 "categories": "Fat"
             },
             {
-                "units": "0.1 g",
-                "percentages": "\n",
+                "units": "0.3 g",
+                "percentages": "1%",
                 "categories": "Fiber"
             },
             {
-                "units": "25.6 g",
-                "percentages": "51%",
+                "units": "16.8 g",
+                "percentages": "34%",
                 "categories": "Protein"
             },
             {
-                "units": "441 mg",
-                "percentages": "18%",
+                "units": "615 mg",
+                "percentages": "25%",
                 "categories": "Sodium"
             }
         ],
         "ingredients": [
             {
-                "name": "ketchup",
+                "name": "butter",
                 "quantity": "1/2 cup"
             },
             {
-                "name": "honey",
-                "quantity": "2 2/3 tablespoons"
+                "name": "minced garlic",
+                "quantity": "3 tablespoons"
             },
             {
-                "name": "low-sodium soy sauce",
-                "quantity": "2 tablespoons"
+                "name": "soy sauce",
+                "quantity": "3 tablespoons"
             },
             {
-                "name": "garlic, crushed",
-                "quantity": "2 cloves"
+                "name": "black pepper",
+                "quantity": "1/4 teaspoon"
             },
             {
-                "name": "(1-inch thick) pork chops",
-                "quantity": "6 (4 ounce)"
+                "name": "dried parsley",
+                "quantity": "1 tablespoon"
+            },
+            {
+                "name": "boneless chicken thighs, with skin",
+                "quantity": "6"
+            },
+            {
+                "name": "dried parsley, to taste",
+                "quantity": "not found"
             }
         ],
         "directions": [
-            "Preheat grill for medium heat and lightly oil the grate.",
-            "Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
-            "Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+            "Preheat the oven broiler. Lightly grease a baking pan.",
+            "In a microwave safe bowl, mix the butter, garlic, soy sauce, pepper, and parsley. Cook 2 minutes on High in the microwave, or until butter is melted.",
+            "Arrange chicken on the baking pan, and coat with the butter mixture, reserving some of the mixture for basting.",
+            "Broil chicken 20 minutes in the preheated oven, until juices run clear, turning occasionally and basting with remaining butter mixture. Sprinkle with parsley to serve."
         ],
         "footnotes": []
     }

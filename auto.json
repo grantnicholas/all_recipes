@@ -5,30 +5,58 @@
         "ingredients": [
             {
                 "name": "butter",
-                "quantity": "1/2 cup"
+                "preparation": "",
+                "descriptor": "",
+                "measurement": "cup",
+                "prep-description": "",
+                "quantity": 0.5
             },
             {
                 "name": "minced garlic",
-                "quantity": "3 tablespoons"
+                "preparation": "",
+                "descriptor": "",
+                "measurement": "tablespoons",
+                "prep-description": "",
+                "quantity": 3.0
             },
             {
                 "name": "soy sauce",
-                "quantity": "3 tablespoons"
+                "preparation": "",
+                "descriptor": "",
+                "measurement": "tablespoons",
+                "prep-description": "",
+                "quantity": 3.0
             },
             {
                 "name": "black pepper",
-                "quantity": "1/4 teaspoon"
+                "preparation": "",
+                "descriptor": "",
+                "measurement": "teaspoon",
+                "prep-description": "",
+                "quantity": 0.25
             },
             {
                 "name": "dried parsley",
-                "quantity": "1 tablespoon"
+                "preparation": "",
+                "descriptor": "",
+                "measurement": "tablespoon",
+                "prep-description": "",
+                "quantity": 1.0
             },
             {
-                "name": "boneless chicken thighs, with skin",
-                "quantity": "6"
+                "name": "boneless chicken thighs",
+                "preparation": "",
+                "descriptor": " with skin",
+                "measurement": "units",
+                "prep-description": "",
+                "quantity": 6.0
             },
             {
-                "name": "dried parsley, to taste",
+                "name": "dried parsley",
+                "preparation": "",
+                "descriptor": " to taste",
+                "measurement": "units",
+                "prep-description": "",
                 "quantity": "not found"
             }
         ],

@@ -4,7 +4,7 @@
             "1": "11 cooks couldn't eat it",
             "3": "101 cooks thought it was OK",
             "2": "33 cooks didn't like it",
-            "5": "1,002 cooks loved it!",
+            "5": "1,003 cooks loved it!",
             "4": "417 cooks liked it!"
         },
         "name": "Easy Garlic Broiled Chicken",
@@ -16,7 +16,7 @@
             },
             {
                 "units": "2.3 g",
-                "percentages": "\n",
+                "percentages": "< 1%",
                 "categories": "Carbohydrates"
             },
             {

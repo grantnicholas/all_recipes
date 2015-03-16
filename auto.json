@@ -61,7 +61,12 @@
             }
         ],
         "url": "http://allrecipes.com/Recipe/Easy-Garlic-Broiled-Chicken",
-        "cooking methods": [],
+        "cooking methods": [
+            "grease",
+            "mix",
+            "basting",
+            "sprinkle"
+        ],
         "primary cooking method": "broil",
         "cooking tools": [
             "baking pan",

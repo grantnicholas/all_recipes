@@ -52,7 +52,7 @@ def create_recipe_data_structures(ingred_dict, saved_file, final_structure_file)
     primary_methods = ["boil", "bake", "brown", "cook", "deep-fry", "stir-fry", "simmer", "baste", "roast", "grill", "broil",
                        "pan-fry", "poach", "steam", "braise", "stew", "scald", "sear", "blanch", "barbeque", "griddle", "sear", "fry", "melt"]
     secondary_methods = ["chop", "stir", "beat", "cream", "cure", "dice", "drizzle", "fold", "glaze", "julienne", "marinate",
-                         "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake"]
+                         "mince", "sear", "shred", "sift", "slice", "peel", "puree", "reduce", "grate", "deglaze", "season", "crush", "squeeze", "shake", "mix", "sprinkle", "baste", "basting", "grease"]
 
     recipe_to_cuisine = []
 
@@ -70,6 +70,7 @@ def create_recipe_data_structures(ingred_dict, saved_file, final_structure_file)
             tools_used = []
             primary_method = ""
             secondary_method = []
+
             for direction in recipe["directions"]:
                 direction = direction.lower()
                 for tool in tools:
@@ -129,7 +130,6 @@ def url_to_recipe_autograder(url):
     with open('auto.json', 'r') as f:
         text = f.read()
         original_recipe_json = json.loads(text)
-    pprint(original_recipe_json[0])
     return original_recipe_json[0]
 
 

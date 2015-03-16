@@ -212,13 +212,11 @@ def decrease_fat(recipe):
         recipe["primary cooking method"] = low_fat_method_sub[curr_method]
     return recipe
 
-# def decrease_salt(recipe):
-#     for ingredient in recipe["ingredients"]:
-#         for line in ingredient["amount"]:
-#             numbers = re.findall('\d+\.*\/*\d*', line)
-#             if numbers:
-#                 print numbers
-
+def decrease_salt(recipe):
+    for ingredient in recipe["ingredients"]:
+        if ingredient["name"] in salt_list:
+            ingredient["quantity"] = 0  
+    return recipe
 
 
 

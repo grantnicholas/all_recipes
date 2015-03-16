@@ -1,77 +1,77 @@
 {
-    "http://allrecipes.com/Recipe/Worlds-Best-Honey-Garlic-Pork-Chops": {
-        "ratings": {
-            "1": "not found",
-            "3": "not found",
-            "2": "not found",
-            "5": "9 cooks loved it!",
-            "4": "5 cooks liked it!"
-        },
-        "name": "World's Best Honey Garlic Pork Chops",
-        "nutrition": [
-            {
-                "units": "208 kcal",
-                "percentages": "10%",
-                "categories": "Calories"
-            },
-            {
-                "units": "13.5 g",
-                "percentages": "4%",
-                "categories": "Carbohydrates"
-            },
-            {
-                "units": "65 mg",
-                "percentages": "22%",
-                "categories": "Cholesterol"
-            },
-            {
-                "units": "5.6 g",
-                "percentages": "9%",
-                "categories": "Fat"
-            },
-            {
-                "units": "0.1 g",
-                "percentages": "\n",
-                "categories": "Fiber"
-            },
-            {
-                "units": "25.6 g",
-                "percentages": "51%",
-                "categories": "Protein"
-            },
-            {
-                "units": "441 mg",
-                "percentages": "18%",
-                "categories": "Sodium"
-            }
-        ],
-        "ingredients": [
-            {
-                "name": "ketchup",
-                "quantity": "1/2 cup"
-            },
-            {
-                "name": "honey",
-                "quantity": "2 2/3 tablespoons"
-            },
-            {
-                "name": "low-sodium soy sauce",
-                "quantity": "2 tablespoons"
-            },
-            {
-                "name": "garlic, crushed",
-                "quantity": "2 cloves"
-            },
-            {
-                "name": "(1-inch thick) pork chops",
-                "quantity": "6 (4 ounce)"
-            }
-        ],
-        "directions": [
-            "Preheat grill for medium heat and lightly oil the grate.",
-            "Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
-            "Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
-        ],
-        "footnotes": []
-    }
+"http://allrecipes.com/Recipe/Worlds-Best-Honey-Garlic-Pork-Chops": {
+"ratings": {
+"1": "not found",
+"3": "not found",
+"2": "not found",
+"5": "9 cooks loved it!",
+"4": "5 cooks liked it!"
+},
+"name": "World's Best Honey Garlic Pork Chops",
+"nutrition": [
+{
+"units": "208 kcal",
+"percentages": "10%",
+"categories": "Calories"
+},
+{
+"units": "13.5 g",
+"percentages": "4%",
+"categories": "Carbohydrates"
+},
+{
+"units": "65 mg",
+"percentages": "22%",
+"categories": "Cholesterol"
+},
+{
+"units": "5.6 g",
+"percentages": "9%",
+"categories": "Fat"
+},
+{
+"units": "0.1 g",
+"percentages": "\n",
+"categories": "Fiber"
+},
+{
+"units": "25.6 g",
+"percentages": "51%",
+"categories": "Protein"
+},
+{
+"units": "441 mg",
+"percentages": "18%",
+"categories": "Sodium"
+}
+],
+"ingredients": [
+{
+"name": "ketchup",
+"quantity": "1/2 cup"
+},
+{
+"name": "honey",
+"quantity": "2 2/3 tablespoons"
+},
+{
+"name": "low-sodium soy sauce",
+"quantity": "2 tablespoons"
+},
+{
+"name": "garlic, crushed",
+"quantity": "2 cloves"
+},
+{
+"name": "(1-inch thick) pork chops",
+"quantity": "6 (4 ounce)"
+}
+],
+"directions": [
+"Preheat grill for medium heat and lightly oil the grate.",
+"Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
+"Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+],
+"footnotes": []
+}
 }

@@ -1,98 +1,77 @@
 {
-    "http://allrecipes.com/Recipe/Easy-Chicken-Pasta-Alfredo": {
-        "ratings": {
-            "1": "not found",
-            "3": "not found",
-            "2": "not found",
-            "5": "7 cooks loved it!",
-            "4": "4 cooks liked it!"
-        },
-        "name": "Easy Chicken Pasta Alfredo",
-        "nutrition": [
-            {
-                "units": "686 kcal",
-                "percentages": "34%",
-                "categories": "Calories"
-            },
-            {
-                "units": "38.4 g",
-                "percentages": "12%",
-                "categories": "Carbohydrates"
-            },
-            {
-                "units": "201 mg",
-                "percentages": "67%",
-                "categories": "Cholesterol"
-            },
-            {
-                "units": "46.9 g",
-                "percentages": "72%",
-                "categories": "Fat"
-            },
-            {
-                "units": "2.3 g",
-                "percentages": "9%",
-                "categories": "Fiber"
-            },
-            {
-                "units": "30.2 g",
-                "percentages": "60%",
-                "categories": "Protein"
-            },
-            {
-                "units": "843 mg",
-                "percentages": "34%",
-                "categories": "Sodium"
-            }
-        ],
-        "ingredients": [
-            {
-                "name": "refrigerated cheese tortellini",
-                "quantity": "1 (16 ounce) package"
-            },
-            {
-                "name": "vegetable oil",
-                "quantity": "1 tablespoon"
-            },
-            {
-                "name": "skinless, boneless chicken breast halves, cubed",
-                "quantity": "4"
-            },
-            {
-                "name": "butter",
-                "quantity": "3 tablespoons"
-            },
-            {
-                "name": "sliced fresh mushrooms",
-                "quantity": "1/2 pound"
-            },
-            {
-                "name": "garlic powder, or to taste",
-                "quantity": "1 pinch"
-            },
-            {
-                "name": "heavy whipping cream",
-                "quantity": "2 cups"
-            },
-            {
-                "name": "grated Parmesan cheese",
-                "quantity": "1/3 cup"
-            },
-            {
-                "name": "chopped fresh parsley",
-                "quantity": "3 tablespoons"
-            },
-            {
-                "name": "salt",
-                "quantity": "1 teaspoon"
-            }
-        ],
-        "directions": [
-            "Bring a large pot of lightly salted water to a boil. Add tortellini. Cook, stirring occasionally, until tortellini float to the top and the filling is hot, about 5 minutes. Drain.",
-            "Heat vegetable oil in a large skillet over medium heat; cook and stir chicken breast in hot oil until no longer pink in the center, about 10 minutes. Remove from heat.",
-            "Melt butter in another skillet over medium heat; cook and stir mushrooms and garlic powder until mushrooms begin to soften, about 3 minutes. Stir heavy cream into mushrooms and bring to a boil. Reduce heat to medium-low and simmer until slightly thickened, about 3 minutes. Add Parmesan cheese, parsley, and salt. Continue to cook until cheese is melted, about 1 minute.",
-            "Stir tortellini and chicken into mushroom-cream sauce. Simmer until heated through, about 2 minutes."
-        ],
-        "footnotes": []
-    }
+"http://allrecipes.com/Recipe/Worlds-Best-Honey-Garlic-Pork-Chops": {
+"ratings": {
+"1": "not found",
+"3": "not found",
+"2": "not found",
+"5": "9 cooks loved it!",
+"4": "5 cooks liked it!"
+},
+"name": "World's Best Honey Garlic Pork Chops",
+"nutrition": [
+{
+"units": "208 kcal",
+"percentages": "10%",
+"categories": "Calories"
+},
+{
+"units": "13.5 g",
+"percentages": "4%",
+"categories": "Carbohydrates"
+},
+{
+"units": "65 mg",
+"percentages": "22%",
+"categories": "Cholesterol"
+},
+{
+"units": "5.6 g",
+"percentages": "9%",
+"categories": "Fat"
+},
+{
+"units": "0.1 g",
+"percentages": "\n",
+"categories": "Fiber"
+},
+{
+"units": "25.6 g",
+"percentages": "51%",
+"categories": "Protein"
+},
+{
+"units": "441 mg",
+"percentages": "18%",
+"categories": "Sodium"
+}
+],
+"ingredients": [
+{
+"name": "ketchup",
+"quantity": "1/2 cup"
+},
+{
+"name": "honey",
+"quantity": "2 2/3 tablespoons"
+},
+{
+"name": "low-sodium soy sauce",
+"quantity": "2 tablespoons"
+},
+{
+"name": "garlic, crushed",
+"quantity": "2 cloves"
+},
+{
+"name": "(1-inch thick) pork chops",
+"quantity": "6 (4 ounce)"
+}
+],
+"directions": [
+"Preheat grill for medium heat and lightly oil the grate.",
+"Whisk ketchup, honey, soy sauce, and garlic together in a bowl to make a glaze.",
+"Sear the pork chops on both sides on the preheated grill. Lightly brush glaze onto each side of the chops as they cook; grill until no longer pink in the center, about 7 to 9 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+],
+"footnotes": []
+}
 }

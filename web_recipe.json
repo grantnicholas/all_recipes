@@ -1,60 +1,54 @@
 [
     {
         "cuisine": "french",
-        "name": "Southern BBQ Chicken",
+        "name": "Easier Chicken Marsala",
         "ingredients": [
             {
-                "name": "brown sugar",
-                "quantity": "2 tablespoons"
+                "name": "all-purpose flour",
+                "quantity": "1/4 cup"
             },
             {
-                "name": "cloves garlic, chopped",
-                "quantity": "2 large cloves"
+                "name": "garlic salt",
+                "quantity": "1/2 teaspoon"
             },
             {
-                "name": "salt",
-                "quantity": "2 teaspoons"
+                "name": "ground black pepper",
+                "quantity": "1/4 teaspoon"
             },
             {
-                "name": "black pepper",
-                "quantity": "1 teaspoon"
+                "name": "dried oregano",
+                "quantity": "1/2 teaspoon"
             },
             {
-                "name": "chicken drumsticks",
-                "quantity": "10"
+                "name": "boneless, skinless chicken breast halves",
+                "quantity": "4"
             },
             {
-                "name": "vegetable oil",
-                "quantity": "2 tablespoons"
+                "name": "olive oil",
+                "quantity": "1 tablespoon"
             },
             {
-                "name": "finely chopped onion",
+                "name": "butter",
+                "quantity": "1 tablespoon"
+            },
+            {
+                "name": "sliced fresh mushrooms",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Marsala wine",
                 "quantity": "1/2 cup"
-            },
-            {
-                "name": "ketchup",
-                "quantity": "3/4 cup"
-            },
-            {
-                "name": "white wine vinegar",
-                "quantity": "2 tablespoons"
-            },
-            {
-                "name": "Worcestershire sauce",
-                "quantity": "2 tablespoons"
             }
         ],
-        "url": "http://allrecipes.com/recipe/southern-bbq-chicken",
+        "url": "http://allrecipes.com/Recipe/Easier-Chicken-Marsala",
         "cooking methods": [
-            "marinate",
-            "squeeze",
             "stir",
-            "grate"
+            "reduce"
         ],
-        "primary cooking method": "baste",
+        "primary cooking method": "simmer",
         "cooking tools": [
-            "mortar and pestle",
-            "saucepan"
+            "bowl",
+            "skillet"
         ]
     }
 ]

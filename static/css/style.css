@@ -3,6 +3,45 @@
 	width:50%;
 }
 
+#whole_page{
+	margin-left: 7px;
+}
+h1{
+	color: #2c3e50;
+}
+
+h2{
+	color: #c0392b;
+}
+
+h3{
+	color: #d35400;
+}
+
+.button{
+	position: relative;
+	width: 10%;
+	height: 40%;
+	font-size: 14px;
+	border: 0;
+    color: #ecf0f1;
+    cursor: pointer;
+}
+
+.veg{
+	background:  #e2b607;
+    border-bottom: 2px solid #e2b607;
+}
+
+.health{
+	background: #c0392b;
+    border-bottom: 2px solid #c0392b;
+}
+
+.cuisine{
+	background: #14947b;
+	border-bottom: 2px solid #14947b;
+}
 html{
-	font-family: Arial;
+	font-family: sans-serif;
 }

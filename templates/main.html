@@ -4,7 +4,9 @@
 {% block body %}
 
 <div id="whole_page">
+	<div class ="header">
 	<h1>Recipe Transformer</h1>
+	</div>
 	<form action="/urlForm">
 		Enter Recipe URL: <input type="text" name="url">
 		<input type="submit" value="Submit">
@@ -12,13 +14,15 @@
 
 	{% if recipe %}
 		<h2>Transformation</h2>
-		<button class="button" id="vegetarian">Vegetarian</button>
-		<button class="button" id="italian">Italian</button>
-		<button class="button" id="mexican">Mexican</button>
-		<button class="button" id="asian">Asian</button>
-		<button class="button" id="american">American</button>
-		<button class="button" id="mediterranean">Mediterranean</button>
-		<button class="button" id="french">French</button>
+		<button class="button veg" id="vegetarian">Vegetarian</button>
+		<button class="button veg" id="pescatarian">Pescatarian</button>
+		<button class="button health" id="low_fat">Low Fat</button>
+		<button class="button cuisine" id="italian">Italian</button>
+		<button class="button cuisine" id="mexican">Mexican</button>
+		<button class="button cuisine" id="asian">Asian</button>
+		<button class="button cuisine" id="american">American</button>
+		<button class="button cuisine" id="mediterranean">Mediterranean</button>
+		<button class="button cuisine" id="french">French</button>
 
 		<h3>{{recipe.name}}</h3>
 		<p>recipe from: {{recipe.url}} </p>

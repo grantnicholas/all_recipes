@@ -17,11 +17,10 @@
 </div>
 <div class="methods">
 	<h4>Methods</h4>
-	<h5>Primary Method</h5>
-	{{recipe["primary cooking method"]}}
-	<h5>Secondary Method</h5>
+	Primary Method:	{{recipe["primary cooking method"]}}<br>
+	Secondary Method: 
 	{% for m in recipe["cooking methods"] %}
-		<li>{{m}}</li> 
+		{{m}} /   
 	{% endfor %}
 </div>
 {% endmacro %}

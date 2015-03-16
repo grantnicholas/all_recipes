@@ -2,6 +2,7 @@ from flask import render_template, Flask, request
 from crawlr import Crawler
 from format_autograder import web_create_recipe
 import vegetarian
+import nutrition
 import json 
 import copy
 from cuisine_transformer import GLOBAL_CUISINE_TRANSFORMER
@@ -41,6 +42,10 @@ def button_option(option):
 def option_dict(option, original):
 	if option == "vegetarian":
 		return vegetarian.make_vegetarian(original)
+	elif option == "pescatarian":
+		return vegetarian.make_pescatarian(original)
+	elif option == "low_fat":
+		return nutrition.decrease_fat(original)
 	elif option in set(["italian", "mexican", "asian", "american", "mediterranean", "french"]):
 		return cuisine_change(option, original)
 	else:

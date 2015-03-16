@@ -46,6 +46,8 @@ def option_dict(option, original):
 		return vegetarian.make_pescatarian(original)
 	elif option == "low_fat":
 		return nutrition.decrease_fat(original)
+	elif option == "low_salt":
+		return nutrition.decrease_salt(original)
 	elif option in set(["italian", "mexican", "asian", "american", "mediterranean", "french"]):
 		return cuisine_change(option, original)
 	else:

@@ -1,32 +1,32 @@
 {
-    "http://allrecipes.com/recipe/southern-bbq-chicken": {
+    "http://allrecipes.com/Recipe/Easier-Chicken-Marsala": {
         "ratings": {
-            "1": "not found",
-            "3": "2 cooks thought it was OK",
-            "2": "not found",
-            "5": "4 cooks loved it!",
-            "4": "2 cooks liked it!"
+            "1": "3 cooks couldn't eat it",
+            "3": "43 cooks thought it was OK",
+            "2": "11 cooks didn't like it",
+            "5": "383 cooks loved it!",
+            "4": "173 cooks liked it!"
         },
-        "name": "Southern BBQ Chicken",
+        "name": "Easier Chicken Marsala",
         "nutrition": [
             {
-                "units": "424 kcal",
-                "percentages": "21%",
+                "units": "286 kcal",
+                "percentages": "14%",
                 "categories": "Calories"
             },
             {
-                "units": "18.2 g",
-                "percentages": "6%",
+                "units": "11.4 g",
+                "percentages": "4%",
                 "categories": "Carbohydrates"
             },
             {
-                "units": "128 mg",
-                "percentages": "43%",
+                "units": "80 mg",
+                "percentages": "27%",
                 "categories": "Cholesterol"
             },
             {
-                "units": "21.3 g",
-                "percentages": "33%",
+                "units": "10.1 g",
+                "percentages": "16%",
                 "categories": "Fat"
             },
             {
@@ -35,71 +35,59 @@
                 "categories": "Fiber"
             },
             {
-                "units": "39 g",
-                "percentages": "78%",
+                "units": "27.9 g",
+                "percentages": "56%",
                 "categories": "Protein"
             },
             {
-                "units": "1528 mg",
-                "percentages": "61%",
+                "units": "313 mg",
+                "percentages": "13%",
                 "categories": "Sodium"
             }
         ],
         "ingredients": [
             {
-                "name": "brown sugar",
-                "quantity": "2 tablespoons"
+                "name": "all-purpose flour",
+                "quantity": "1/4 cup"
             },
             {
-                "name": "cloves garlic, chopped",
-                "quantity": "2 large cloves"
+                "name": "garlic salt",
+                "quantity": "1/2 teaspoon"
             },
             {
-                "name": "salt",
-                "quantity": "2 teaspoons"
+                "name": "ground black pepper",
+                "quantity": "1/4 teaspoon"
             },
             {
-                "name": "black pepper",
-                "quantity": "1 teaspoon"
+                "name": "dried oregano",
+                "quantity": "1/2 teaspoon"
             },
             {
-                "name": "chicken drumsticks",
-                "quantity": "10"
+                "name": "boneless, skinless chicken breast halves",
+                "quantity": "4"
             },
             {
-                "name": "vegetable oil",
-                "quantity": "2 tablespoons"
+                "name": "olive oil",
+                "quantity": "1 tablespoon"
             },
             {
-                "name": "finely chopped onion",
+                "name": "butter",
+                "quantity": "1 tablespoon"
+            },
+            {
+                "name": "sliced fresh mushrooms",
+                "quantity": "1 cup"
+            },
+            {
+                "name": "Marsala wine",
                 "quantity": "1/2 cup"
-            },
-            {
-                "name": "ketchup",
-                "quantity": "3/4 cup"
-            },
-            {
-                "name": "white wine vinegar",
-                "quantity": "2 tablespoons"
-            },
-            {
-                "name": "Worcestershire sauce",
-                "quantity": "2 tablespoons"
             }
         ],
         "directions": [
-            "Mash brown sugar, garlic, salt, and pepper together in a mortar and pestle to form a paste. Spoon paste into a resealable plastic bag. Add the chicken, coat with the paste, squeeze out excess air, and seal the bag. Marinate in the refrigerator for 8 hours to overnight.",
-            "Heat oil in a small saucepan over medium heat. Cook and stir onion in hot oil until softened, about 5 minutes. Stir ketchup, vinegar, and Worcestershire sauce into onions; bring to a simmer and cook until flavors blend, about 10 minutes.",
-            "Preheat grill for medium heat and lightly oil the grate. Remove chicken from bag and discard marinade.",
-            "Cook chicken on the preheated grill until lightly browned on all sides, about 1 minute per side.",
-            "Turn off one of the grill burners or move the coals and move chicken so there is no heat source diretly below it.",
-            "Baste drumsticks with the sauce and cook another 10 minutes; turn and again and baste the chicken with the sauce. Continue to drumsticks until juices run clear, 10 to 15 minutes more. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C)"
+            "In a medium bowl, stir together the flour, garlic salt, pepper, and oregano. Dredge chicken in the mixture to lightly coat.",
+            "Heat olive oil and butter in a large skillet over medium heat. Fry the chicken in the skillet for 2 minutes, or until lightly browned on one side. Turn chicken over, and add mushrooms. Cook about 2 minutes, until other side of chicken is lightly browned. Stir mushrooms so that they cook evenly.",
+            "Pour Marsala wine over the chicken. Cover skillet, and reduce heat to low; simmer for 10 minutes, or until chicken is no longer pink and juices run clear."
         ],
-        "footnotes": [
-            "\r\n                        Cook's Note:\r\n                        \n",
-            "\r\n                        You can also blend the brown sugar, garlic, salt, and pepper in a blender or food processor to make the marinade paste.\r\n                        \n",
-            "\r\n                        Nutrition:\r\n                        \n",
-            "\r\n                        The nutrition data for this recipe includes the full amount of the marinade ingredients. The actual amount of the marinade consumed will vary.\r\n                        \n"
-        ]
+        "footnotes": []
     }
 }

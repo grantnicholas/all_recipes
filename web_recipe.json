@@ -13,7 +13,7 @@
             },
             {
                 "name": "minced garlic",
-                "preparation": "minced",
+                "preparation": "",
                 "descriptor": "",
                 "measurement": "tablespoons",
                 "prep-description": "",
@@ -37,7 +37,7 @@
             },
             {
                 "name": "dried parsley",
-                "preparation": "dried",
+                "preparation": "",
                 "descriptor": "",
                 "measurement": "tablespoon",
                 "prep-description": "",
@@ -53,7 +53,7 @@
             },
             {
                 "name": "dried parsley",
-                "preparation": "dried",
+                "preparation": "",
                 "descriptor": " to taste",
                 "measurement": "units",
                 "prep-description": "",
@@ -61,28 +61,12 @@
             }
         ],
         "url": "http://allrecipes.com/Recipe/Easy-Garlic-Broiled-Chicken",
-        "cooking methods": [
-            "baking",
-            "grease",
-            "preheat",
-            "mix",
-            "cook",
-            "reserving",
-            "basting",
-            "coat",
-            "arrange",
-            "turning",
-            "remaining",
-            "sprinkle",
-            "juice",
-            "turn"
-        ],
+        "cooking methods": [],
         "primary cooking method": "broil",
         "cooking tools": [
             "baking pan",
             "oven",
             "bowl",
-            "microwave safe bowl",
             "microwave"
         ]
     }

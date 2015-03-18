@@ -1,3 +1,14 @@
+#IMPORTANT NOTE FOR THE GRADER:
+We changed one line of the autograder [to look in the current directory for the recipes folder instead of looking one folder above] as we were having trouble with importing python files within different directories. 
+
+`
+95: for answer in (get_file(fn) for fn in glob.iglob('../Recipes/*.json')):
+goes to
+95: for answer in (get_file(fn) for fn in glob.iglob('./Recipes/*.json')):
+`
+
+Sorry for the trouble!
+
 #requirements
 Beautiful Soup: pip install beautifulsoup4
 Server runs on flask: pip install Flask
@@ -51,12 +62,4 @@ data used to train the naive bayesian food type classifier
 
 data taken from:
 http://www.fatsecret.com/calories-nutrition/group/salads
-
-
-#tldr
-    All the parsing magic happens in soup_to_Recipe which is located in 
-    parse_html.py
-
-    Converts html (in this case the html I converted to a beautifulsoup
-    object for easier parsing) to a dictionary representation of a Recipe
 
